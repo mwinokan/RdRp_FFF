@@ -9,7 +9,8 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 
 ### Thumb site 2 [39 observations](https://fragalysis.diamond.ac.uk/viewer/react/projects/142/135)
 
-2 floaters? `d1046a`, `d1073a`
+- [ ] 2 floaters in canonsite 25 `d1046a`, `d1073a`
+- [ ] 2 floaters in canonsite 26
 
 ## [SLACK PLANNER](https://xchem-workspace.slack.com/lists/T01MX6021AR/F07SNQ7N7QD)
 
