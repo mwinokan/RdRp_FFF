@@ -1,6 +1,16 @@
 # RdRp_FFF
 Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 
+## Merging Hypotheses
+
+### Green Site / RNA tunnel [48 observations](https://fragalysis.diamond.ac.uk/viewer/react/projects/140/133)
+
+### Primer grip/N-pocket [30 observations](https://fragalysis.diamond.ac.uk/viewer/react/projects/141/134)
+
+### Thumb site 2 [39 observations](https://fragalysis.diamond.ac.uk/viewer/react/projects/142/135)
+
+2 floaters? `d1046a`, `d1073a`
+
 ## [SLACK PLANNER](https://xchem-workspace.slack.com/lists/T01MX6021AR/F07SNQ7N7QD)
 
 - [ ] Setup HIPPO
