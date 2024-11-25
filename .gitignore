@@ -1,3 +1,6 @@
+Flavi_NS5_RdRp/
+*.sqlite
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
