@@ -2,11 +2,27 @@
   "c1cncnc1*[Xe]C1=NCCCS1": {
     "expansions": [
       "c1cnc(N2CCSSCC2)nc1",
-      "C=C1CC2CCCC(C1)N2c1ccncn1"
+      "C=C1CC2CCCC(C1)N2c1ccncn1",
+      "c1cc(N2C3CCCC2CC2(CC2)C3)ncn1",
+      "c1cnc(N2CC3(CC3)C2)nc1",
+      "C=C1CCN(c2ncccn2)CC1",
+      "c1cnc(N2CCCCCCC2)nc1",
+      "c1cnc(N2CCCC3(CC3)C2)nc1",
+      "c1cnc(N2C3CCC2CC3)nc1",
+      "c1cnc(N2CCCSCC2)nc1",
+      "c1cc(N2CCCSCC2)ncn1"
     ],
     "used_synthons": [
       "[Xe]N1CCSSCC1",
-      "C=C1CC2CCCC(C1)N2[Xe]"
+      "C=C1CC2CCCC(C1)N2[Xe]",
+      "[Xe]N1C2CCCC1CC1(CC1)C2",
+      "[Xe]N1CC2(CC2)C1",
+      "C=C1CCN([Xe])CC1",
+      "[Xe]N1CCCCCCC1",
+      "[Xe]N1CCCC2(CC2)C1",
+      "[Xe]N1C2CCC1CC2",
+      "[Xe]N1CCCSCC1",
+      "[Xe]N1CCCSCC1"
     ],
     "cmpd_ids": [
       [
@@ -14,9 +30,45 @@
       ],
       [
         "ENAMINE:Z3834010063"
+      ],
+      [
+        "ENAMINE:Z4192191049"
+      ],
+      [
+        "ENAMINE:Z2613375152",
+        "CHEMSPACE-BB:CSMB00113938969"
+      ],
+      [
+        "CHEMSPACE-BB:CSMB00016199105"
+      ],
+      [
+        "MOLPORT:005-716-908"
+      ],
+      [
+        "ENAMINE:PV-002148757472",
+        "ENAMINE:Z1716625911"
+      ],
+      [
+        "ENAMINE:Z279824746",
+        "CHEMSPACE-BB:CSMB00015222240"
+      ],
+      [
+        "ENAMINE:Z1166188516",
+        "CHEMSPACE-BB:CSMB00015263729"
+      ],
+      [
+        "CHEMSPACE-BB:CSMB00016201181"
       ]
     ],
     "similarities": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
       1.0,
       1.0
     ]

@@ -1,8 +1,24 @@
 {
   "c1ccc2[nH]ccc2c1*[Xe]C1=NCCCS1": {
-    "expansions": [],
-    "used_synthons": [],
-    "cmpd_ids": [],
-    "similarities": []
+    "expansions": [
+      "CC(CNC(=O)C1CCSCC1)NC(=O)c1ccc2[nH]ccc2c1",
+      "Cc1cc2cc(CNC(=O)NC3CCC4(CC3)CC4)ccc2[nH]1"
+    ],
+    "used_synthons": [
+      "[Xe]C1CCSCC1",
+      "[Xe]C1CCC2(CC1)CC2"
+    ],
+    "cmpd_ids": [
+      [
+        "ENAMINE:PV-003060544799"
+      ],
+      [
+        "ENAMINE:Z2120556396"
+      ]
+    ],
+    "similarities": [
+      1.0,
+      1.0
+    ]
   }
 }

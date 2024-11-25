@@ -1,17 +1,23 @@
 {
   "O=C1NC(=O)C2(CCc3ccccc32)N1*[Xe]C1=NCCCS1": {
     "expansions": [
-      "O=C1NC2(CCc3ccccc32)C(=O)N1C1CCC2(CC1)CC2"
+      "O=C1NC2(CCc3ccccc32)C(=O)N1C1CCC2(CC1)CC2",
+      "O=C(CN1C(=O)NC2(CCc3ccccc32)C1=O)NC1CCCCCCC1"
     ],
     "used_synthons": [
-      "[Xe]C1CCC2(CC1)CC2"
+      "[Xe]C1CCC2(CC1)CC2",
+      "[Xe]C1CCCCCCC1"
     ],
     "cmpd_ids": [
       [
         "ENAMINE:Z1956350444"
+      ],
+      [
+        "MOLPORT:005-566-595"
       ]
     ],
     "similarities": [
+      1.0,
       1.0
     ]
   }
