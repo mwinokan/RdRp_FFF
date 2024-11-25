@@ -23,3 +23,8 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 - [ ] Preliminary web output
 
 ## Knitwork
+
+- [ ] cavity_b fragment
+- [ ] green_site fragment
+- [ ] primer_grip fragment
+- [ ] thumb_site fragment
