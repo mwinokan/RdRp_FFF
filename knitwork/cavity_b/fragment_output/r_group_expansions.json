@@ -1,0 +1,96 @@
+{
+  "z0898a": {
+    "[Xe]c1ccccc1": [
+      "O=C[Xe]",
+      "F[Xe]"
+    ],
+    "[Xe]N1CCNCC1": []
+  },
+  "z0186a": {
+    "[Xe]N1CCNCC1": [
+      "C[Xe]"
+    ],
+    "[Xe]C1CNCCN1": [
+      "O=C[Xe]"
+    ],
+    "[Xe]c1ccccc1": [
+      "C[Xe]",
+      "O=C[Xe]",
+      "F[Xe]"
+    ]
+  },
+  "z0903c": {},
+  "z0767a": {
+    "[Xe]c1cn[nH]c1": [
+      "OCC[Xe]"
+    ],
+    "[Xe]n1cccn1": [
+      "Br[Xe]"
+    ]
+  },
+  "z0136b": {},
+  "z0625b": {
+    "[Xe]c1ccccc1": [
+      "NS(=O)(=O)C[Xe]",
+      "C[Xe]",
+      "F[Xe]"
+    ]
+  },
+  "z0927a": {
+    "[Xe]n1cccn1": [
+      "O[Xe]",
+      "FC(F)(F)[Xe]"
+    ],
+    "[Xe]c1ccn[nH]1": [
+      "C[Xe]",
+      "FC(F)(F)[Xe]"
+    ],
+    "[Xe]c1cc[nH]n1": [
+      "C[Xe]",
+      "O[Xe]"
+    ]
+  },
+  "z0207a": {
+    "[Xe]c1ncccn1": [
+      "Cl[Xe]"
+    ],
+    "CC(CO)N(C)[Xe]": [
+      "Cl[Xe]"
+    ],
+    "[Xe]c1cncnc1": []
+  },
+  "z0892b": {
+    "[Xe]c1ccccc1": [
+      "N[Xe]",
+      "CC[Xe]"
+    ],
+    "[Xe]C1=NCCCS1": []
+  },
+  "z0991b": {},
+  "z0481b": {
+    "[Xe]c1cc[nH]n1": [],
+    "[Xe]c1ccccc1": [
+      "F[Xe]",
+      "CN[Xe]"
+    ]
+  },
+  "z0968a": {
+    "[Xe]c1cncnc1": [],
+    "[Xe]c1ncccn1": [
+      "O[Xe]"
+    ],
+    "[Xe]c1ccccc1": [
+      "O[Xe]"
+    ]
+  },
+  "z0184a": {
+    "[Xe]c1ccccc1": [
+      "NCC(=O)N[Xe]",
+      "CO[Xe]"
+    ]
+  },
+  "z0397a": {
+    "[Xe]c1ccccc1": [],
+    "O=C1CN([Xe])CCN1": []
+  }
+}
