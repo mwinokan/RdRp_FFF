@@ -1,0 +1,42 @@
+{
+  "C1=NCCCS1*[Xe]C1CCOc2ccccc21": {
+    "expansions": [
+      "O=C(NC1CN(C2=NCCCS2)C1)C1CSc2ccccc2O1",
+      "O=C(NC1CN(C2=NCCCS2)C1)C1CSc2ccccc2O1",
+      "O=C(C1COc2ccccc21)N1CCN(C2=NCCCS2)CC1",
+      "O=C(C1COc2ccccc21)N1CCN(C2=NCCCS2)CC1",
+      "c1ccc2c(c1)OCC2NC1=NCCCS1"
+    ],
+    "used_synthons": [
+      "[Xe]C1CSc2ccccc2O1",
+      "[Xe]C1CSc2ccccc2O1",
+      "[Xe]C1COc2ccccc21",
+      "[Xe]C1COc2ccccc21",
+      "[Xe]C1COc2ccccc21"
+    ],
+    "cmpd_ids": [
+      [
+        "ENAMINE:Z4260085010"
+      ],
+      [
+        "ENAMINE:Z4260085010"
+      ],
+      [
+        "ENAMINE:Z4249946300"
+      ],
+      [
+        "ENAMINE:Z4249946300"
+      ],
+      [
+        "CHEMSPACE-BB:CSMB00005842079"
+      ]
+    ],
+    "similarities": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  }
+}

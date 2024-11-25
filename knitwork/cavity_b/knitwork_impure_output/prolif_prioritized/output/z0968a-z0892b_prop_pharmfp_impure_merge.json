@@ -1,0 +1,24 @@
+{
+  "c1cncnc1*[Xe]C1=NCCCS1": {
+    "expansions": [
+      "c1cnc(N2CCSSCC2)nc1",
+      "C=C1CC2CCCC(C1)N2c1ccncn1"
+    ],
+    "used_synthons": [
+      "[Xe]N1CCSSCC1",
+      "C=C1CC2CCCC(C1)N2[Xe]"
+    ],
+    "cmpd_ids": [
+      [
+        "CHEMSPACE-BB:CSMB00015302001"
+      ],
+      [
+        "ENAMINE:Z3834010063"
+      ]
+    ],
+    "similarities": [
+      1.0,
+      1.0
+    ]
+  }
+}

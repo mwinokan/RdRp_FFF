@@ -1,0 +1,82 @@
+{
+  "C1=NCCCS1*[Xe]c1cncnc1": {
+    "expansions": [
+      "CCC(C(=O)NC1CN(C2=NCCCS2)C1)n1cncn1",
+      "CCC(C(=O)NC1CN(C2=NCCCS2)C1)n1cncn1",
+      "O=C(NC1CN(C2=NCCCS2)C1)c1cnccn1",
+      "CC(NC1=NCCCS1)c1ncon1",
+      "c1nc(CCNC2=NCCCS2)no1"
+    ],
+    "used_synthons": [
+      "[Xe]n1cncn1",
+      "[Xe]n1cncn1",
+      "[Xe]c1cnccn1",
+      "[Xe]c1ncon1",
+      "[Xe]c1ncon1"
+    ],
+    "cmpd_ids": [
+      [
+        "ENAMINE:Z4260043912"
+      ],
+      [
+        "ENAMINE:Z4260043912"
+      ],
+      [
+        "ENAMINE:Z4260099489"
+      ],
+      [
+        "CHEMSPACE-BB:CSMB00015808850"
+      ],
+      [
+        "CHEMSPACE-BB:CSMB00014484228"
+      ]
+    ],
+    "similarities": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "C1=NCCCS1*[Xe]c1ncccn1": {
+    "expansions": [
+      "CCC(C(=O)NC1CN(C2=NCCCS2)C1)n1cncn1",
+      "c1ncc(NC2=NC(C3CC3)CCS2)cn1",
+      "CCCC1CCSC(Nc2cncnc2)=N1",
+      "CCC(C(=O)NC1CN(C2=NCCCS2)C1)n1cncn1",
+      "CC(C)(C(=O)NC1CN(C2=NCCCS2)C1)c1cncnc1"
+    ],
+    "used_synthons": [
+      "[Xe]n1cncn1",
+      "[Xe]c1cncnc1",
+      "[Xe]c1cncnc1",
+      "[Xe]n1cncn1",
+      "[Xe]c1cncnc1"
+    ],
+    "cmpd_ids": [
+      [
+        "ENAMINE:Z4260043912"
+      ],
+      [
+        "CHEMSPACE-BB:CSMB00123025416"
+      ],
+      [
+        "CHEMSPACE-BB:CSMB00024730741"
+      ],
+      [
+        "ENAMINE:Z4260043912"
+      ],
+      [
+        "ENAMINE:Z4260046705"
+      ]
+    ],
+    "similarities": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  }
+}

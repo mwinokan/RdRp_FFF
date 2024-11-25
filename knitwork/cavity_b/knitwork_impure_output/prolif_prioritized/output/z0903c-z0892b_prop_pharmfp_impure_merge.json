@@ -1,0 +1,18 @@
+{
+  "O=C1NC(=O)C2(CCc3ccccc32)N1*[Xe]C1=NCCCS1": {
+    "expansions": [
+      "O=C1NC2(CCc3ccccc32)C(=O)N1C1CCC2(CC1)CC2"
+    ],
+    "used_synthons": [
+      "[Xe]C1CCC2(CC1)CC2"
+    ],
+    "cmpd_ids": [
+      [
+        "ENAMINE:Z1956350444"
+      ]
+    ],
+    "similarities": [
+      1.0
+    ]
+  }
+}
