@@ -18,7 +18,7 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 - [x] cavity_b fragment (found 12 pairs)
 - [x] green_site fragment (found 471 pairs)
 - [x] primer_grip fragment (found 163 pairs)
-- [x] thumb_site fragment 
+- [x] thumb_site fragment (found 75 pairs)
 
 - [ ] cavity_b knitwork_pure
 - [ ] green_site knitwork_pure
