@@ -3,6 +3,8 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 
 ## Merging Hypotheses
 
+### Cavity B [14 observations](https://fragalysis.diamond.ac.uk/viewer/react/projects/144/137)
+
 ### Green Site / RNA tunnel [48 observations](https://fragalysis.diamond.ac.uk/viewer/react/projects/140/133)
 
 ### Primer grip/N-pocket [30 observations](https://fragalysis.diamond.ac.uk/viewer/react/projects/141/134)
