@@ -1,6 +1,16 @@
 Flavi_NS5_RdRp/
 *.sqlite
 
+**/fragment_output/synthon*.mol
+**/fragment_output/subnode*.mol
+
+**/fragment_output/synthon*.mol
+**/fragment_output/subnode*.mol
+
+**/knitwork_pure_output/*_pure_merge.json
+**/knitwork_impure_output/*_impure_merge.json
+**/knitwork_temp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
