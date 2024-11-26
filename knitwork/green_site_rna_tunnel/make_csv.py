@@ -2,6 +2,7 @@
 import pandas as pd
 import json
 from pathlib import Path
+from FragmentKnitwork.utils.quilterUtils import split_fragment_pair_string
 from mlog import setup_logger
 logger = setup_logger('make_sdf')
 
@@ -18,7 +19,8 @@ for out_dir, suffix, pure in dir_suffix_pure_triples:
 
 		merge_name = json_file.name.removesuffix(suffix)
 
-		hit_names = merge_name.split("-")
+		hit_names = split_fragment_pair_string(merge_name)
+		#hit_names = merge_name.split("-")
 
 		data = json.load(open(json_file,'rt'))
 
