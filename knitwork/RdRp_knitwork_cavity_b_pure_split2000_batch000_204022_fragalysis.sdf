@@ -1,0 +1,258 @@
+ver_1.2
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+   -4.0890    0.4183    1.4849 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9166   -0.5894    0.3714 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6636   -0.1694   -0.8971 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5101   -0.7001   -0.0322 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5916    0.2723   -0.2434 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3787   -0.2901   -0.6178 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6254    0.6824   -0.8630 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7866    0.6692   -0.0465 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1191   -0.3651    0.6961 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3512   -0.2824    1.5101 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5108    0.1242    0.5841 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5034    1.6087    0.3159 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8128    2.1258   -0.0447 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6359   -1.6541   -0.6144 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9237   -1.8503   -0.2582 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+  6 14  1  0
+ 14 15  2  0
+ 15  4  1  0
+ 13  8  1  0
+M  END
+>  <ref_url>  (1) 
+https://github.com/mwinokan/BulkDock
+
+>  <submitter_name>  (1) 
+Max Winokan
+
+>  <submitter_email>  (1) 
+max.winokan@diamond.ac.uk
+
+>  <submitter_institution>  (1) 
+DLS
+
+>  <generation_date>  (1) 
+2024-11-27
+
+>  <method>  (1) 
+Knitwork_CavityB_Pure
+
+>  <scratch_subdir>  (1) 
+scratch_subdir
+
+>  <fragmenstein_runtime>  (1) 
+fragmenstein_runtime
+
+>  <fragmenstein_outcome>  (1) 
+fragmenstein_outcome
+
+>  <fragmenstein_mode>  (1) 
+fragmenstein_mode
+
+>  <fragmenstein_error>  (1) 
+fragmenstein_error
+
+>  <exports>  (1) 
+exports
+
+>  <smiles>  (1) 
+smiles
+
+>  <ref_mols>  (1) 
+fragment inspirations
+
+>  <original ID>  (1) 
+original ID
+
+$$$$
+18567
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+  -26.1623  -61.4232   -3.3084 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0009  -60.7536   -1.9364 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8817  -61.4650   -1.1829 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7948  -59.3124   -1.9992 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0066  -58.5456   -1.1816 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0934  -57.2617   -1.6524 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.3443  -56.2428   -1.1971 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.7059  -54.9360   -1.0070 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.7545  -54.1549   -0.6409 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.8780  -52.7325   -0.3944 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0093  -52.0928   -1.1607 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3158  -52.7140   -0.7350 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3724  -54.4530   -1.1867 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0008  -57.3404   -2.7221 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.4288  -58.5859   -2.9386 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+  6 14  1  0
+ 14 15  2  0
+ 15  4  1  0
+ 13  8  1  0
+M  END
+>  <fragmenstein_error>  (1) 
+None
+
+>  <alias>  (1) 
+None
+
+>  <HIPPO ID>  (1) 
+18567
+
+>  <ref_mols>  (1) 
+z0767a,z0892b
+
+>  <name>  (1) 
+QOAMYTSWHMHASV-UHFFFAOYSA-N
+
+>  <fragmenstein_outcome>  (1) 
+acceptable
+
+>  <tags>  (1) 
+['Fragmenstein']
+
+>  <energy_score>  (1) 
+-35.222787
+
+>  <original SMILES>  (1) 
+CC(C)n1cc(NC2=NCCCS2)cn1
+
+>  <exports>  (1) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_cavity_b_pure_split2000_batch000_204022.sdf']
+
+>  <fragmenstein_mode>  (1) 
+expansion
+
+>  <scratch_subdir>  (1) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/204022/C734-P174
+
+>  <distance_score>  (1) 
+0.95083
+
+>  <original ID>  (1) 
+QOAMYTSWHMHASV-UHFFFAOYSA-N
+
+>  <fragmenstein_runtime>  (1) 
+2.773524
+
+>  <inchikey>  (1) 
+QOAMYTSWHMHASV-UHFFFAOYSA-N
+
+>  <ref_pdb>  (1) 
+z0892b
+
+$$$$
+18569
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+  -25.3498  -57.6223   -0.0049 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8173  -57.4063   -1.4135 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -25.7966  -57.7830   -2.5443 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0516  -59.2085   -2.7073 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9243  -59.7716   -3.5960 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7980  -61.1325   -3.4512 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7974  -61.2996   -2.4860 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3495  -60.1324   -2.0193 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.2370  -56.0733   -1.6142 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.7323  -54.8576   -1.2316 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.8679  -53.9673   -0.9225 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1420  -52.6031   -0.5064 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5348  -52.1060   -0.8268 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.5678  -53.0811   -0.3179 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.4471  -54.6157   -1.2422 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  2  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+  8  4  1  0
+ 15 10  1  0
+M  END
+>  <fragmenstein_error>  (2) 
+None
+
+>  <alias>  (2) 
+None
+
+>  <HIPPO ID>  (2) 
+18569
+
+>  <ref_mols>  (2) 
+z0767a,z0892b
+
+>  <name>  (2) 
+DOGOWZSMZXLRRH-VIFPVBQESA-N
+
+>  <fragmenstein_outcome>  (2) 
+acceptable
+
+>  <tags>  (2) 
+['Fragmenstein']
+
+>  <energy_score>  (2) 
+-28.112574
+
+>  <original SMILES>  (2) 
+C[C@@H](Cn1cccn1)NC1=NCCCS1
+
+>  <exports>  (2) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_cavity_b_pure_split2000_batch000_204022.sdf']
+
+>  <fragmenstein_mode>  (2) 
+expansion
+
+>  <scratch_subdir>  (2) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/204022/C743-P174
+
+>  <distance_score>  (2) 
+0.865995
+
+>  <original ID>  (2) 
+DOGOWZSMZXLRRH-VIFPVBQESA-N
+
+>  <fragmenstein_runtime>  (2) 
+2.27088
+
+>  <inchikey>  (2) 
+DOGOWZSMZXLRRH-VIFPVBQESA-N
+
+>  <ref_pdb>  (2) 
+z0892b
+
+$$$$
