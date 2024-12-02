@@ -1,0 +1,2118 @@
+z0136b
+     RDKit          3D
+
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+  -21.2870  -60.4340   -0.0700 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.1730  -59.8700    0.5630 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.8690  -58.8890    1.6590 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4890  -60.0640    0.3150 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.2900  -59.2690   -0.5350 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.1510  -59.8670   -1.4650 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3400  -61.1920   -1.7840 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2660  -61.2710   -2.7940 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6860  -60.0290   -3.1410 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.9840  -59.0990   -2.3090 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.9310  -57.7080   -2.2100 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0590  -57.1030   -1.3190 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.2530  -57.8700   -0.4890 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  2  1  2  0
+  4  2  1  0
+  5  4  1  0
+  5 13  2  0
+ 13 12  1  0
+ 12 11  2  0
+ 11 10  1  0
+ 10  9  1  0
+  9  8  2  0
+  8  7  1  0
+  7  6  1  0
+  6  5  1  0
+ 10  6  2  0
+M  END
+>  <id>  (1) 
+90
+
+>  <inchikey>  (1) 
+DCOHDTHCOCZQTO-UHFFFAOYSA-N
+
+>  <alias>  (1) 
+z0136b
+
+>  <smiles>  (1) 
+CC(=O)Nc1cccc2cc[nH]c12
+
+>  <path>  (1) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0136b/z0136b.pdb
+
+>  <distance_score>  (1) 
+None
+
+>  <energy_score>  (1) 
+None
+
+>  <compound>  (1) 
+DCOHDTHCOCZQTO-UHFFFAOYSA-N
+
+>  <compound_id>  (1) 
+73
+
+>  <target>  (1) 
+Flavi_NS5_RdRp
+
+>  <tags>  (1) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (1) 
+
+
+>  <reference>  (1) 
+
+
+>  <observation_longname>  (1) 
+Zika_NS5A-x0136_A_1016_1_Zika_NS5A-x0136+A+1016+1
+
+>  <ConformerSites alias>  (1) 
+4a - z0136/A/1016
+
+>  <CanonSites alias>  (1) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites alias>  (1) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies alias>  (1) 
+A1 - all
+
+>  <Crystalforms alias>  (1) 
+F4 - P43212
+
+>  <ConformerSites upload name>  (1) 
+4a - Zika_NS5A-x0136/A/1016
+
+>  <CanonSites upload name>  (1) 
+4 - Zika_NS5A-x0136/A/1016/1
+
+>  <CrystalformSites upload name>  (1) 
+F4i - Zika_NS5A-x0136/A/1016/1
+
+>  <Quatassemblies upload name>  (1) 
+A1 - monomer
+
+>  <Crystalforms upload name>  (1) 
+F4 - P43212
+
+>  <ConformerSites short tag>  (1) 
+4a - z0136/A/1016
+
+>  <CanonSites short tag>  (1) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites short tag>  (1) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies short tag>  (1) 
+A1 - monomer
+
+>  <Crystalforms short tag>  (1) 
+F4 - P43212
+
+>  <Centroid res>  (1) 
+Zika_NS5A-x0136/A/325/A_v1
+
+>  <Experiment code>  (1) 
+Zika_NS5A-x0136
+
+>  <SLURM_JOB_ID>  (1) 
+nan
+
+>  <SLURM_JOB_NAME>  (1) 
+nan
+
+>  <csv_name>  (1) 
+nan
+
+>  <scratch_subdir>  (1) 
+nan
+
+>  <fragmenstein_runtime>  (1) 
+nan
+
+>  <fragmenstein_outcome>  (1) 
+nan
+
+>  <fragmenstein_mode>  (1) 
+nan
+
+>  <fragmenstein_error>  (1) 
+nan
+
+$$$$
+z0184a
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+  -26.9330  -60.1530   -3.2580 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0760  -60.9040   -2.8030 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8560  -62.2860   -3.4110 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1260  -62.9670   -3.5400 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.2740  -60.5950   -1.7670 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8020  -59.3120   -1.4260 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1120  -59.0940   -0.2410 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.6020  -57.8410    0.0490 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.9990  -58.2510   -2.3030 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.4890  -57.0010   -2.0130 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.7750  -56.8000   -0.8490 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.1450  -55.6120   -0.5890 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.6150  -54.4280   -1.2390 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 13 12  1  0
+ 12 11  1  0
+ 11  8  2  0
+  8  7  1  0
+  7  6  2  0
+  6  5  1  0
+  5  2  1  0
+  2  1  2  0
+  3  2  1  0
+  4  3  1  0
+  9  6  1  0
+ 10  9  2  0
+ 11 10  1  0
+M  END
+>  <id>  (2) 
+96
+
+>  <inchikey>  (2) 
+MAVJTZKUNOKGPF-UHFFFAOYSA-N
+
+>  <alias>  (2) 
+z0184a
+
+>  <smiles>  (2) 
+COc1ccc(NC(=O)CN)cc1
+
+>  <path>  (2) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0184a/z0184a.pdb
+
+>  <distance_score>  (2) 
+None
+
+>  <energy_score>  (2) 
+None
+
+>  <compound>  (2) 
+MAVJTZKUNOKGPF-UHFFFAOYSA-N
+
+>  <compound_id>  (2) 
+75
+
+>  <target>  (2) 
+Flavi_NS5_RdRp
+
+>  <tags>  (2) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (2) 
+
+
+>  <reference>  (2) 
+
+
+>  <observation_longname>  (2) 
+Zika_NS5A-x0184_A_1112_1_Zika_NS5A-x0136+A+1016+1
+
+>  <ConformerSites alias>  (2) 
+4a - z0136/A/1016
+
+>  <CanonSites alias>  (2) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites alias>  (2) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies alias>  (2) 
+A1 - all
+
+>  <Crystalforms alias>  (2) 
+F4 - P43212
+
+>  <ConformerSites upload name>  (2) 
+4a - Zika_NS5A-x0136/A/1016
+
+>  <CanonSites upload name>  (2) 
+4 - Zika_NS5A-x0136/A/1016/1
+
+>  <CrystalformSites upload name>  (2) 
+F4i - Zika_NS5A-x0136/A/1016/1
+
+>  <Quatassemblies upload name>  (2) 
+A1 - monomer
+
+>  <Crystalforms upload name>  (2) 
+F4 - P43212
+
+>  <ConformerSites short tag>  (2) 
+4a - z0136/A/1016
+
+>  <CanonSites short tag>  (2) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites short tag>  (2) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies short tag>  (2) 
+A1 - monomer
+
+>  <Crystalforms short tag>  (2) 
+F4 - P43212
+
+>  <Centroid res>  (2) 
+Zika_NS5A-x0136/A/325/A_v1
+
+>  <Experiment code>  (2) 
+Zika_NS5A-x0184
+
+>  <SLURM_JOB_ID>  (2) 
+nan
+
+>  <SLURM_JOB_NAME>  (2) 
+nan
+
+>  <csv_name>  (2) 
+nan
+
+>  <scratch_subdir>  (2) 
+nan
+
+>  <fragmenstein_runtime>  (2) 
+nan
+
+>  <fragmenstein_outcome>  (2) 
+nan
+
+>  <fragmenstein_mode>  (2) 
+nan
+
+>  <fragmenstein_error>  (2) 
+nan
+
+$$$$
+z0186a
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+  -23.7060  -58.4220   -0.1390 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.5980  -58.9110   -1.0270 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8790  -60.2530   -0.9920 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8130  -60.7590   -1.8740 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.4910  -59.9330   -2.7590 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.5380  -60.4930   -3.6930 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1790  -58.5790   -2.7650 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.1990  -58.0440   -1.9230 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.6870  -56.6520   -2.1570 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1070  -56.4070   -3.1970 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8940  -55.7100   -1.2140 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6980  -55.9160   -0.0080 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.2300  -54.3970   -1.2440 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.2060  -53.2640   -0.9850 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0750  -53.4510    0.1830 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7350  -54.7870    0.1760 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -27.4650  -55.0300    1.4890 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 16 17  1  1
+ 16 12  1  0
+ 12 11  1  0
+ 13 11  1  0
+ 14 13  1  0
+ 15 14  1  0
+ 16 15  1  0
+ 11  9  1  0
+ 10  9  2  0
+  9  8  1  0
+  8  7  2  0
+  7  5  1  0
+  6  5  1  0
+  5  4  2  0
+  4  3  1  0
+  3  2  2  0
+  8  2  1  0
+  2  1  1  0
+M  END
+>  <id>  (3) 
+97
+
+>  <inchikey>  (3) 
+AVUAMDISNJCGIG-SNVBAGLBSA-N
+
+>  <alias>  (3) 
+z0186a
+
+>  <smiles>  (3) 
+Cc1ccc(F)c(C(=O)N2CCN[C@H](C)C2)c1
+
+>  <path>  (3) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0186a/z0186a.pdb
+
+>  <distance_score>  (3) 
+None
+
+>  <energy_score>  (3) 
+None
+
+>  <compound>  (3) 
+AVUAMDISNJCGIG-UHFFFAOYSA-N
+
+>  <compound_id>  (3) 
+76
+
+>  <target>  (3) 
+Flavi_NS5_RdRp
+
+>  <tags>  (3) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (3) 
+
+
+>  <reference>  (3) 
+
+
+>  <observation_longname>  (3) 
+Zika_NS5A-x0186_A_1101_1_Zika_NS5A-x0136+A+1016+1
+
+>  <ConformerSites alias>  (3) 
+4a - z0136/A/1016
+
+>  <CanonSites alias>  (3) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites alias>  (3) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies alias>  (3) 
+A1 - all
+
+>  <Crystalforms alias>  (3) 
+F4 - P43212
+
+>  <ConformerSites upload name>  (3) 
+4a - Zika_NS5A-x0136/A/1016
+
+>  <CanonSites upload name>  (3) 
+4 - Zika_NS5A-x0136/A/1016/1
+
+>  <CrystalformSites upload name>  (3) 
+F4i - Zika_NS5A-x0136/A/1016/1
+
+>  <Quatassemblies upload name>  (3) 
+A1 - monomer
+
+>  <Crystalforms upload name>  (3) 
+F4 - P43212
+
+>  <ConformerSites short tag>  (3) 
+4a - z0136/A/1016
+
+>  <CanonSites short tag>  (3) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites short tag>  (3) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies short tag>  (3) 
+A1 - monomer
+
+>  <Crystalforms short tag>  (3) 
+F4 - P43212
+
+>  <Centroid res>  (3) 
+Zika_NS5A-x0136/A/325/A_v1
+
+>  <Experiment code>  (3) 
+Zika_NS5A-x0186
+
+>  <SLURM_JOB_ID>  (3) 
+nan
+
+>  <SLURM_JOB_NAME>  (3) 
+nan
+
+>  <csv_name>  (3) 
+nan
+
+>  <scratch_subdir>  (3) 
+nan
+
+>  <fragmenstein_runtime>  (3) 
+nan
+
+>  <fragmenstein_outcome>  (3) 
+nan
+
+>  <fragmenstein_mode>  (3) 
+nan
+
+>  <fragmenstein_error>  (3) 
+nan
+
+$$$$
+z0207a
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+  -26.1130  -63.0690   -3.7230 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  -25.9990  -61.5190   -2.9480 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8980  -61.1960   -2.2140 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.7680  -60.0060   -1.6260 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9960  -60.5960   -3.0800 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9060  -59.3850   -2.5170 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7840  -59.1510   -1.8100 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6780  -57.9370   -1.2030 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8310  -57.0590   -1.0570 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.3900  -57.5060   -0.6250 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -24.1910  -58.0830    0.7660 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.2080  -55.9960   -0.6270 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.6410  -55.5710   -1.8520 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 10 11  1  1
+ 12 10  1  0
+ 13 12  1  0
+ 10  8  1  0
+  9  8  1  0
+  8  7  1  0
+  7  4  2  0
+  4  3  1  0
+  3  2  2  0
+  2  1  1  0
+  5  2  1  0
+  6  5  2  0
+  7  6  1  0
+M  END
+>  <id>  (4) 
+101
+
+>  <inchikey>  (4) 
+JDBRUTDKSYJSEU-ZCFIWIBFSA-N
+
+>  <alias>  (4) 
+z0207a
+
+>  <smiles>  (4) 
+C[C@H](CO)N(C)c1ncc(Cl)cn1
+
+>  <path>  (4) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0207a/z0207a.pdb
+
+>  <distance_score>  (4) 
+None
+
+>  <energy_score>  (4) 
+None
+
+>  <compound>  (4) 
+JDBRUTDKSYJSEU-UHFFFAOYSA-N
+
+>  <compound_id>  (4) 
+80
+
+>  <target>  (4) 
+Flavi_NS5_RdRp
+
+>  <tags>  (4) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (4) 
+
+
+>  <reference>  (4) 
+
+
+>  <observation_longname>  (4) 
+Zika_NS5A-x0207_A_1201_1_Zika_NS5A-x0136+A+1016+1
+
+>  <ConformerSites alias>  (4) 
+4a - z0136/A/1016
+
+>  <CanonSites alias>  (4) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites alias>  (4) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies alias>  (4) 
+A1 - all
+
+>  <Crystalforms alias>  (4) 
+F4 - P43212
+
+>  <ConformerSites upload name>  (4) 
+4a - Zika_NS5A-x0136/A/1016
+
+>  <CanonSites upload name>  (4) 
+4 - Zika_NS5A-x0136/A/1016/1
+
+>  <CrystalformSites upload name>  (4) 
+F4i - Zika_NS5A-x0136/A/1016/1
+
+>  <Quatassemblies upload name>  (4) 
+A1 - monomer
+
+>  <Crystalforms upload name>  (4) 
+F4 - P43212
+
+>  <ConformerSites short tag>  (4) 
+4a - z0136/A/1016
+
+>  <CanonSites short tag>  (4) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites short tag>  (4) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies short tag>  (4) 
+A1 - monomer
+
+>  <Crystalforms short tag>  (4) 
+F4 - P43212
+
+>  <Centroid res>  (4) 
+Zika_NS5A-x0136/A/325/A_v1
+
+>  <Experiment code>  (4) 
+Zika_NS5A-x0207
+
+>  <SLURM_JOB_ID>  (4) 
+nan
+
+>  <SLURM_JOB_NAME>  (4) 
+nan
+
+>  <csv_name>  (4) 
+nan
+
+>  <scratch_subdir>  (4) 
+nan
+
+>  <fragmenstein_runtime>  (4) 
+nan
+
+>  <fragmenstein_outcome>  (4) 
+nan
+
+>  <fragmenstein_mode>  (4) 
+nan
+
+>  <fragmenstein_error>  (4) 
+nan
+
+$$$$
+z0397a
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+  -24.9990  -53.9830    3.6980 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8630  -53.8690    2.4810 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3000  -52.8020    1.8290 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.1210  -52.5120    0.4090 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1250  -53.4460   -0.2470 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1790  -54.9470    1.6840 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.3150  -54.8190    0.2360 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.5790  -55.8680   -0.5730 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.7220  -56.3890   -1.2720 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.9950  -56.3900   -0.5760 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2180  -56.9700   -1.8490 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0620  -58.3140   -2.0450 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.2620  -59.1600   -1.3020 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.2440  -60.5080   -1.6110 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0010  -61.0010   -2.6580 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7760  -60.1500   -3.4030 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8180  -58.8000   -3.1000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  9  8  2  0
+ 10  8  1  0
+ 11 10  1  0
+ 12 11  1  0
+ 12 17  2  0
+ 17 16  1  0
+ 16 15  2  0
+ 15 14  1  0
+ 14 13  2  0
+ 13 12  1  0
+  8  7  1  0
+  7  5  1  0
+  5  4  1  0
+  4  3  1  0
+  3  2  1  0
+  2  1  2  0
+  6  2  1  0
+  7  6  1  0
+M  END
+>  <id>  (5) 
+122
+
+>  <inchikey>  (5) 
+VQOCCTAPSDVOOO-UHFFFAOYSA-N
+
+>  <alias>  (5) 
+z0397a
+
+>  <smiles>  (5) 
+O=C1CN(C(=O)COc2ccccc2)CCN1
+
+>  <path>  (5) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0397a/z0397a.pdb
+
+>  <distance_score>  (5) 
+None
+
+>  <energy_score>  (5) 
+None
+
+>  <compound>  (5) 
+VQOCCTAPSDVOOO-UHFFFAOYSA-N
+
+>  <compound_id>  (5) 
+96
+
+>  <target>  (5) 
+Flavi_NS5_RdRp
+
+>  <tags>  (5) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (5) 
+
+
+>  <reference>  (5) 
+
+
+>  <observation_longname>  (5) 
+Zika_NS5A-x0397_A_1112_1_Zika_NS5A-x0136+A+1016+1
+
+>  <ConformerSites alias>  (5) 
+4a - z0136/A/1016
+
+>  <CanonSites alias>  (5) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites alias>  (5) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies alias>  (5) 
+A1 - all
+
+>  <Crystalforms alias>  (5) 
+F4 - P43212
+
+>  <ConformerSites upload name>  (5) 
+4a - Zika_NS5A-x0136/A/1016
+
+>  <CanonSites upload name>  (5) 
+4 - Zika_NS5A-x0136/A/1016/1
+
+>  <CrystalformSites upload name>  (5) 
+F4i - Zika_NS5A-x0136/A/1016/1
+
+>  <Quatassemblies upload name>  (5) 
+A1 - monomer
+
+>  <Crystalforms upload name>  (5) 
+F4 - P43212
+
+>  <ConformerSites short tag>  (5) 
+4a - z0136/A/1016
+
+>  <CanonSites short tag>  (5) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites short tag>  (5) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies short tag>  (5) 
+A1 - monomer
+
+>  <Crystalforms short tag>  (5) 
+F4 - P43212
+
+>  <Centroid res>  (5) 
+Zika_NS5A-x0136/A/325/A_v1
+
+>  <Experiment code>  (5) 
+Zika_NS5A-x0397
+
+>  <SLURM_JOB_ID>  (5) 
+nan
+
+>  <SLURM_JOB_NAME>  (5) 
+nan
+
+>  <csv_name>  (5) 
+nan
+
+>  <scratch_subdir>  (5) 
+nan
+
+>  <fragmenstein_runtime>  (5) 
+nan
+
+>  <fragmenstein_outcome>  (5) 
+nan
+
+>  <fragmenstein_mode>  (5) 
+nan
+
+>  <fragmenstein_error>  (5) 
+nan
+
+$$$$
+z0481b
+     RDKit          3D
+
+ 14 15  0  0  0  0  0  0  0  0999 V2000
+  -24.9810  -61.9780   -2.1510 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7620  -60.9540   -2.5360 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5350  -59.7070   -1.9660 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2980  -58.6440   -2.4480 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2540  -58.8550   -3.4310 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4660  -60.1160   -3.9450 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7110  -61.1830   -3.5020 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.6320  -59.4690   -0.9260 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.8910  -60.4750   -0.1850 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.7840  -61.2250    0.7510 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.4270  -62.4350    1.1880 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4640  -62.8500    1.9570 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.4430  -61.9370    2.0200 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0490  -60.8710    1.2590 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  2  7  2  0
+  7  6  1  0
+  6  5  2  0
+  5  4  1  0
+  4  3  2  0
+  3  2  1  0
+  8  3  1  0
+  9  8  1  0
+ 10  9  1  0
+ 10 14  1  0
+ 14 13  2  0
+ 13 12  1  0
+ 12 11  1  0
+ 11 10  2  0
+M  END
+>  <id>  (6) 
+130
+
+>  <inchikey>  (6) 
+IREDHAFKGFKXRR-UHFFFAOYSA-N
+
+>  <alias>  (6) 
+z0481b
+
+>  <smiles>  (6) 
+Fc1ccccc1NCc1cc[nH]n1
+
+>  <path>  (6) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0481b/z0481b.pdb
+
+>  <distance_score>  (6) 
+None
+
+>  <energy_score>  (6) 
+None
+
+>  <compound>  (6) 
+IREDHAFKGFKXRR-UHFFFAOYSA-N
+
+>  <compound_id>  (6) 
+101
+
+>  <target>  (6) 
+Flavi_NS5_RdRp
+
+>  <tags>  (6) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (6) 
+
+
+>  <reference>  (6) 
+
+
+>  <observation_longname>  (6) 
+Zika_NS5A-x0481_A_1301_1_Zika_NS5A-x0136+A+1016+1
+
+>  <ConformerSites alias>  (6) 
+4a - z0136/A/1016
+
+>  <CanonSites alias>  (6) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites alias>  (6) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies alias>  (6) 
+A1 - all
+
+>  <Crystalforms alias>  (6) 
+F4 - P43212
+
+>  <ConformerSites upload name>  (6) 
+4a - Zika_NS5A-x0136/A/1016
+
+>  <CanonSites upload name>  (6) 
+4 - Zika_NS5A-x0136/A/1016/1
+
+>  <CrystalformSites upload name>  (6) 
+F4i - Zika_NS5A-x0136/A/1016/1
+
+>  <Quatassemblies upload name>  (6) 
+A1 - monomer
+
+>  <Crystalforms upload name>  (6) 
+F4 - P43212
+
+>  <ConformerSites short tag>  (6) 
+4a - z0136/A/1016
+
+>  <CanonSites short tag>  (6) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites short tag>  (6) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies short tag>  (6) 
+A1 - monomer
+
+>  <Crystalforms short tag>  (6) 
+F4 - P43212
+
+>  <Centroid res>  (6) 
+Zika_NS5A-x0136/A/325/A_v1
+
+>  <Experiment code>  (6) 
+Zika_NS5A-x0481
+
+>  <SLURM_JOB_ID>  (6) 
+nan
+
+>  <SLURM_JOB_NAME>  (6) 
+nan
+
+>  <csv_name>  (6) 
+nan
+
+>  <scratch_subdir>  (6) 
+nan
+
+>  <fragmenstein_runtime>  (6) 
+nan
+
+>  <fragmenstein_outcome>  (6) 
+nan
+
+>  <fragmenstein_mode>  (6) 
+nan
+
+>  <fragmenstein_error>  (6) 
+nan
+
+$$$$
+z0625b
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+  -22.1490  -57.8930   -0.2080 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.1040  -56.8530    0.0100 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.8680  -55.8570    1.0060 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3880  -56.1120   -1.3810 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.6850  -57.6080    0.3580 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0250  -58.6950   -0.6280 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.5460  -60.0080   -0.4890 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.7230  -60.4390    0.6990 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8330  -58.3680   -1.7160 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1660  -59.3110   -2.6670 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6790  -60.5730   -2.5130 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0120  -61.5140   -3.4330 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8810  -60.9450   -1.4620 C   0  0  0  0  0  0  0  0  0  0  0  0
+  8  7  1  0
+  7 13  2  0
+ 13 11  1  0
+ 12 11  1  0
+ 11 10  2  0
+ 10  9  1  0
+  9  6  2  0
+  7  6  1  0
+  6  5  1  0
+  5  2  1  0
+  3  2  2  0
+  2  1  2  0
+  4  2  1  0
+M  END
+>  <id>  (7) 
+147
+
+>  <inchikey>  (7) 
+NSTXYAFVZNXQTB-UHFFFAOYSA-N
+
+>  <alias>  (7) 
+z0625b
+
+>  <smiles>  (7) 
+Cc1cc(F)ccc1CS(N)(=O)=O
+
+>  <path>  (7) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0625b/z0625b.pdb
+
+>  <distance_score>  (7) 
+None
+
+>  <energy_score>  (7) 
+None
+
+>  <compound>  (7) 
+NSTXYAFVZNXQTB-UHFFFAOYSA-N
+
+>  <compound_id>  (7) 
+111
+
+>  <target>  (7) 
+Flavi_NS5_RdRp
+
+>  <tags>  (7) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (7) 
+
+
+>  <reference>  (7) 
+
+
+>  <observation_longname>  (7) 
+Zika_NS5A-x0625_A_1112_1_Zika_NS5A-x0136+A+1016+1
+
+>  <ConformerSites alias>  (7) 
+4a - z0136/A/1016
+
+>  <CanonSites alias>  (7) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites alias>  (7) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies alias>  (7) 
+A1 - all
+
+>  <Crystalforms alias>  (7) 
+F4 - P43212
+
+>  <ConformerSites upload name>  (7) 
+4a - Zika_NS5A-x0136/A/1016
+
+>  <CanonSites upload name>  (7) 
+4 - Zika_NS5A-x0136/A/1016/1
+
+>  <CrystalformSites upload name>  (7) 
+F4i - Zika_NS5A-x0136/A/1016/1
+
+>  <Quatassemblies upload name>  (7) 
+A1 - monomer
+
+>  <Crystalforms upload name>  (7) 
+F4 - P43212
+
+>  <ConformerSites short tag>  (7) 
+4a - z0136/A/1016
+
+>  <CanonSites short tag>  (7) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites short tag>  (7) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies short tag>  (7) 
+A1 - monomer
+
+>  <Crystalforms short tag>  (7) 
+F4 - P43212
+
+>  <Centroid res>  (7) 
+Zika_NS5A-x0136/A/325/A_v1
+
+>  <Experiment code>  (7) 
+Zika_NS5A-x0625
+
+>  <SLURM_JOB_ID>  (7) 
+nan
+
+>  <SLURM_JOB_NAME>  (7) 
+nan
+
+>  <csv_name>  (7) 
+nan
+
+>  <scratch_subdir>  (7) 
+nan
+
+>  <fragmenstein_runtime>  (7) 
+nan
+
+>  <fragmenstein_outcome>  (7) 
+nan
+
+>  <fragmenstein_mode>  (7) 
+nan
+
+>  <fragmenstein_error>  (7) 
+nan
+
+$$$$
+z0767a
+     RDKit          3D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+  -26.1530  -62.2180   -3.3860 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5440  -61.0300   -2.0830 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4190  -59.6550   -2.1810 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8590  -59.1600   -1.0920 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.6370  -60.2380   -0.3010 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0590  -61.3710   -0.8640 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.9540  -60.1020    0.9830 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.7630  -59.1600    0.9410 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.6660  -59.7420    0.2370 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  2  6  2  0
+  6  5  1  0
+  7  5  1  0
+  8  7  1  0
+  9  8  1  0
+  5  4  1  0
+  4  3  2  0
+  3  2  1  0
+M  END
+>  <id>  (8) 
+163
+
+>  <inchikey>  (8) 
+REUWXYIZJBMWPB-UHFFFAOYSA-N
+
+>  <alias>  (8) 
+z0767a
+
+>  <smiles>  (8) 
+OCCn1cc(Br)cn1
+
+>  <path>  (8) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0767a/z0767a.pdb
+
+>  <distance_score>  (8) 
+None
+
+>  <energy_score>  (8) 
+None
+
+>  <compound>  (8) 
+REUWXYIZJBMWPB-UHFFFAOYSA-N
+
+>  <compound_id>  (8) 
+122
+
+>  <target>  (8) 
+Flavi_NS5_RdRp
+
+>  <tags>  (8) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (8) 
+
+
+>  <reference>  (8) 
+
+
+>  <observation_longname>  (8) 
+nan
+
+>  <ConformerSites alias>  (8) 
+nan
+
+>  <CanonSites alias>  (8) 
+nan
+
+>  <CrystalformSites alias>  (8) 
+nan
+
+>  <Quatassemblies alias>  (8) 
+nan
+
+>  <Crystalforms alias>  (8) 
+nan
+
+>  <ConformerSites upload name>  (8) 
+nan
+
+>  <CanonSites upload name>  (8) 
+nan
+
+>  <CrystalformSites upload name>  (8) 
+nan
+
+>  <Quatassemblies upload name>  (8) 
+nan
+
+>  <Crystalforms upload name>  (8) 
+nan
+
+>  <ConformerSites short tag>  (8) 
+nan
+
+>  <CanonSites short tag>  (8) 
+nan
+
+>  <CrystalformSites short tag>  (8) 
+nan
+
+>  <Quatassemblies short tag>  (8) 
+nan
+
+>  <Crystalforms short tag>  (8) 
+nan
+
+>  <Centroid res>  (8) 
+nan
+
+>  <Experiment code>  (8) 
+nan
+
+>  <SLURM_JOB_ID>  (8) 
+211008
+
+>  <SLURM_JOB_NAME>  (8) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_cavity_b_impure_split4000_batch000
+
+>  <csv_name>  (8) 
+RdRp_knitwork_cavity_b_impure_split4000_batch000.csv
+
+>  <scratch_subdir>  (8) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/211008/C163-P197']
+
+>  <fragmenstein_runtime>  (8) 
+[10.358754634857178]
+
+>  <fragmenstein_outcome>  (8) 
+['too moved']
+
+>  <fragmenstein_mode>  (8) 
+['expansion']
+
+>  <fragmenstein_error>  (8) 
+['']
+
+$$$$
+z0892b
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+  -26.1990  -62.1730   -3.2400 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0820  -61.0520   -2.8510 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3400  -59.7710   -2.5430 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5160  -59.6510   -1.4330 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8310  -58.4800   -1.1760 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.9810  -57.3860   -2.0200 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7960  -57.5010   -3.1310 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.4660  -58.6790   -3.3850 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.3690  -56.1670   -1.7280 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.5600  -54.9020   -1.4220 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2870  -54.9080   -1.1040 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.5770  -53.2010   -0.6610 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5120  -52.2440   -1.1560 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.0700  -52.6250   -0.9480 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.6960  -53.9840   -1.3440 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  3  8  2  0
+  8  7  1  0
+  7  6  2  0
+  9  6  1  0
+ 10  9  1  0
+ 10 15  2  0
+ 15 14  1  0
+ 14 13  1  0
+ 13 12  1  0
+ 12 11  1  0
+ 11 10  1  0
+  6  5  1  0
+  5  4  2  0
+  4  3  1  0
+M  END
+>  <id>  (9) 
+174
+
+>  <inchikey>  (9) 
+OSKCNZZSIHVFTH-UHFFFAOYSA-N
+
+>  <alias>  (9) 
+z0892b
+
+>  <smiles>  (9) 
+CCc1ccc(NC2=NCCCS2)cc1
+
+>  <path>  (9) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0892b/z0892b.pdb
+
+>  <distance_score>  (9) 
+None
+
+>  <energy_score>  (9) 
+None
+
+>  <compound>  (9) 
+OSKCNZZSIHVFTH-UHFFFAOYSA-N
+
+>  <compound_id>  (9) 
+128
+
+>  <target>  (9) 
+Flavi_NS5_RdRp
+
+>  <tags>  (9) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (9) 
+
+
+>  <reference>  (9) 
+
+
+>  <observation_longname>  (9) 
+nan
+
+>  <ConformerSites alias>  (9) 
+nan
+
+>  <CanonSites alias>  (9) 
+nan
+
+>  <CrystalformSites alias>  (9) 
+nan
+
+>  <Quatassemblies alias>  (9) 
+nan
+
+>  <Crystalforms alias>  (9) 
+nan
+
+>  <ConformerSites upload name>  (9) 
+nan
+
+>  <CanonSites upload name>  (9) 
+nan
+
+>  <CrystalformSites upload name>  (9) 
+nan
+
+>  <Quatassemblies upload name>  (9) 
+nan
+
+>  <Crystalforms upload name>  (9) 
+nan
+
+>  <ConformerSites short tag>  (9) 
+nan
+
+>  <CanonSites short tag>  (9) 
+nan
+
+>  <CrystalformSites short tag>  (9) 
+nan
+
+>  <Quatassemblies short tag>  (9) 
+nan
+
+>  <Crystalforms short tag>  (9) 
+nan
+
+>  <Centroid res>  (9) 
+nan
+
+>  <Experiment code>  (9) 
+nan
+
+>  <SLURM_JOB_ID>  (9) 
+211008
+
+>  <SLURM_JOB_NAME>  (9) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_cavity_b_impure_split4000_batch000
+
+>  <csv_name>  (9) 
+RdRp_knitwork_cavity_b_impure_split4000_batch000.csv
+
+>  <scratch_subdir>  (9) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/211008/C174-P197']
+
+>  <fragmenstein_runtime>  (9) 
+[1.8488543033599854]
+
+>  <fragmenstein_outcome>  (9) 
+['too moved']
+
+>  <fragmenstein_mode>  (9) 
+['expansion']
+
+>  <fragmenstein_error>  (9) 
+['']
+
+$$$$
+z0898a
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+  -23.4710  -56.0640   -1.6080 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.5710  -56.3970   -1.2020 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.9830  -57.8360   -1.3250 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8850  -58.2250   -2.3170 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1960  -59.5650   -2.5010 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6300  -60.5290   -1.6940 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.7480  -60.1700   -0.6900 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.4460  -58.8370   -0.5270 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.5860  -58.4970    0.4550 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4170  -55.5250   -0.5990 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.1230  -54.0940   -0.4460 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0440  -53.7360    1.0230 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2730  -54.1290    1.7280 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.5870  -55.5550    1.5240 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6850  -55.8820    0.0500 C   0  0  0  0  0  0  0  0  0  0  0  0
+  9  8  1  0
+  8  7  1  0
+  7  6  2  0
+  6  5  1  0
+  5  4  2  0
+  4  3  1  0
+  8  3  2  0
+  3  2  1  0
+  2  1  2  0
+ 10  2  1  0
+ 10 15  1  0
+ 15 14  1  0
+ 14 13  1  0
+ 13 12  1  0
+ 12 11  1  0
+ 11 10  1  0
+M  END
+>  <id>  (10) 
+179
+
+>  <inchikey>  (10) 
+YUOYYPWFXYRVHK-UHFFFAOYSA-N
+
+>  <alias>  (10) 
+z0898a
+
+>  <smiles>  (10) 
+O=C(c1ccccc1F)N1CCNCC1
+
+>  <path>  (10) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0898a/z0898a.pdb
+
+>  <distance_score>  (10) 
+None
+
+>  <energy_score>  (10) 
+None
+
+>  <compound>  (10) 
+YUOYYPWFXYRVHK-UHFFFAOYSA-N
+
+>  <compound_id>  (10) 
+129
+
+>  <target>  (10) 
+Flavi_NS5_RdRp
+
+>  <tags>  (10) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (10) 
+
+
+>  <reference>  (10) 
+
+
+>  <observation_longname>  (10) 
+nan
+
+>  <ConformerSites alias>  (10) 
+nan
+
+>  <CanonSites alias>  (10) 
+nan
+
+>  <CrystalformSites alias>  (10) 
+nan
+
+>  <Quatassemblies alias>  (10) 
+nan
+
+>  <Crystalforms alias>  (10) 
+nan
+
+>  <ConformerSites upload name>  (10) 
+nan
+
+>  <CanonSites upload name>  (10) 
+nan
+
+>  <CrystalformSites upload name>  (10) 
+nan
+
+>  <Quatassemblies upload name>  (10) 
+nan
+
+>  <Crystalforms upload name>  (10) 
+nan
+
+>  <ConformerSites short tag>  (10) 
+nan
+
+>  <CanonSites short tag>  (10) 
+nan
+
+>  <CrystalformSites short tag>  (10) 
+nan
+
+>  <Quatassemblies short tag>  (10) 
+nan
+
+>  <Crystalforms short tag>  (10) 
+nan
+
+>  <Centroid res>  (10) 
+nan
+
+>  <Experiment code>  (10) 
+nan
+
+>  <SLURM_JOB_ID>  (10) 
+211006
+
+>  <SLURM_JOB_NAME>  (10) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_cavity_b_pure_split4000_batch000
+
+>  <csv_name>  (10) 
+RdRp_knitwork_cavity_b_pure_split4000_batch000.csv
+
+>  <scratch_subdir>  (10) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/211006/C179-P197']
+
+>  <fragmenstein_runtime>  (10) 
+[2.624363422393799]
+
+>  <fragmenstein_outcome>  (10) 
+['too moved']
+
+>  <fragmenstein_mode>  (10) 
+['expansion']
+
+>  <fragmenstein_error>  (10) 
+['']
+
+$$$$
+z0903c
+     RDKit          3D
+
+ 15 17  0  0  0  0  0  0  0  0999 V2000
+  -22.3390  -60.4040   -0.1970 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.2230  -61.0680    0.3220 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.0900  -62.3030    0.8850 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.7070  -60.6740    0.4170 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -25.2450  -61.8570    1.0790 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.3060  -62.7930    1.3390 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.4870  -63.8880    1.8590 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3420  -60.3280   -0.9160 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5920  -58.9670   -1.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0950  -58.2560    0.2300 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8950  -59.3860    1.2510 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6590  -61.1680   -1.9760 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2500  -60.6390   -3.1160 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.5210  -59.2840   -3.1970 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1890  -58.4440   -2.1430 C   0  0  0  0  0  0  0  0  0  0  0  0
+  7  6  2  0
+  6  3  1  0
+  3  2  1  0
+  2  1  2  0
+  4  2  1  0
+  4 11  1  1
+ 11 10  1  0
+ 10  9  1  0
+  9 15  2  0
+ 15 14  1  0
+ 14 13  2  0
+ 13 12  1  0
+ 12  8  2  0
+  9  8  1  0
+  8  4  1  0
+  5  4  1  0
+  6  5  1  0
+M  END
+>  <id>  (11) 
+183
+
+>  <inchikey>  (11) 
+CDALGRHRPPTQPM-LLVKDONJSA-N
+
+>  <alias>  (11) 
+z0903c
+
+>  <smiles>  (11) 
+O=C1NC(=O)[C@]2(CCc3ccccc32)N1
+
+>  <path>  (11) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0903c/z0903c.pdb
+
+>  <distance_score>  (11) 
+None
+
+>  <energy_score>  (11) 
+None
+
+>  <compound>  (11) 
+CDALGRHRPPTQPM-UHFFFAOYSA-N
+
+>  <compound_id>  (11) 
+131
+
+>  <target>  (11) 
+Flavi_NS5_RdRp
+
+>  <tags>  (11) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (11) 
+
+
+>  <reference>  (11) 
+
+
+>  <observation_longname>  (11) 
+Zika_NS5A-x0903_A_1112_1_Zika_NS5A-x0136+A+1016+1
+
+>  <ConformerSites alias>  (11) 
+4a - z0136/A/1016
+
+>  <CanonSites alias>  (11) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites alias>  (11) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies alias>  (11) 
+A1 - all
+
+>  <Crystalforms alias>  (11) 
+F4 - P43212
+
+>  <ConformerSites upload name>  (11) 
+4a - Zika_NS5A-x0136/A/1016
+
+>  <CanonSites upload name>  (11) 
+4 - Zika_NS5A-x0136/A/1016/1
+
+>  <CrystalformSites upload name>  (11) 
+F4i - Zika_NS5A-x0136/A/1016/1
+
+>  <Quatassemblies upload name>  (11) 
+A1 - monomer
+
+>  <Crystalforms upload name>  (11) 
+F4 - P43212
+
+>  <ConformerSites short tag>  (11) 
+4a - z0136/A/1016
+
+>  <CanonSites short tag>  (11) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites short tag>  (11) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies short tag>  (11) 
+A1 - monomer
+
+>  <Crystalforms short tag>  (11) 
+F4 - P43212
+
+>  <Centroid res>  (11) 
+Zika_NS5A-x0136/A/325/A_v1
+
+>  <Experiment code>  (11) 
+Zika_NS5A-x0903
+
+>  <SLURM_JOB_ID>  (11) 
+nan
+
+>  <SLURM_JOB_NAME>  (11) 
+nan
+
+>  <csv_name>  (11) 
+nan
+
+>  <scratch_subdir>  (11) 
+nan
+
+>  <fragmenstein_runtime>  (11) 
+nan
+
+>  <fragmenstein_outcome>  (11) 
+nan
+
+>  <fragmenstein_mode>  (11) 
+nan
+
+>  <fragmenstein_error>  (11) 
+nan
+
+$$$$
+z0927a
+     RDKit          3D
+
+ 11 11  0  0  0  0  0  0  0  0999 V2000
+  -26.1610  -60.1840   -3.7100 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6140  -60.5110   -2.5740 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2780  -61.5620   -2.1620 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.3720  -60.8800   -2.7740 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6920  -59.4350   -1.6380 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8930  -59.7150   -0.3590 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7450  -58.0620   -1.9030 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0460  -57.5030   -0.6990 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2890  -56.2450   -0.3570 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1330  -58.5140    0.2090 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.5170  -58.4330    1.6120 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 11 10  1  0
+ 10  6  1  0
+  6  5  2  0
+  7  5  1  0
+  8  7  2  0
+ 10  8  1  0
+  9  8  1  0
+  5  2  1  0
+  3  2  1  0
+  4  2  1  0
+  2  1  1  0
+M  END
+>  <id>  (12) 
+194
+
+>  <inchikey>  (12) 
+UGVAQFVQIHNCJV-UHFFFAOYSA-N
+
+>  <alias>  (12) 
+z0927a
+
+>  <smiles>  (12) 
+Cn1nc(C(F)(F)F)cc1O
+
+>  <path>  (12) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0927a/z0927a_hippo.pdb
+
+>  <distance_score>  (12) 
+None
+
+>  <energy_score>  (12) 
+None
+
+>  <compound>  (12) 
+UGVAQFVQIHNCJV-UHFFFAOYSA-N
+
+>  <compound_id>  (12) 
+135
+
+>  <target>  (12) 
+Flavi_NS5_RdRp
+
+>  <tags>  (12) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (12) 
+
+
+>  <reference>  (12) 
+
+
+>  <observation_longname>  (12) 
+nan
+
+>  <ConformerSites alias>  (12) 
+nan
+
+>  <CanonSites alias>  (12) 
+nan
+
+>  <CrystalformSites alias>  (12) 
+nan
+
+>  <Quatassemblies alias>  (12) 
+nan
+
+>  <Crystalforms alias>  (12) 
+nan
+
+>  <ConformerSites upload name>  (12) 
+nan
+
+>  <CanonSites upload name>  (12) 
+nan
+
+>  <CrystalformSites upload name>  (12) 
+nan
+
+>  <Quatassemblies upload name>  (12) 
+nan
+
+>  <Crystalforms upload name>  (12) 
+nan
+
+>  <ConformerSites short tag>  (12) 
+nan
+
+>  <CanonSites short tag>  (12) 
+nan
+
+>  <CrystalformSites short tag>  (12) 
+nan
+
+>  <Quatassemblies short tag>  (12) 
+nan
+
+>  <Crystalforms short tag>  (12) 
+nan
+
+>  <Centroid res>  (12) 
+nan
+
+>  <Experiment code>  (12) 
+nan
+
+>  <SLURM_JOB_ID>  (12) 
+211008
+
+>  <SLURM_JOB_NAME>  (12) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_cavity_b_impure_split4000_batch000
+
+>  <csv_name>  (12) 
+RdRp_knitwork_cavity_b_impure_split4000_batch000.csv
+
+>  <scratch_subdir>  (12) 
+['/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/211008/C194-P197']
+
+>  <fragmenstein_runtime>  (12) 
+[1.3992516994476318]
+
+>  <fragmenstein_outcome>  (12) 
+['too moved']
+
+>  <fragmenstein_mode>  (12) 
+['expansion']
+
+>  <fragmenstein_error>  (12) 
+['']
+
+$$$$
+z0968a
+     RDKit          3D
+
+ 13 14  0  0  0  0  0  0  0  0999 V2000
+  -26.4380  -55.4420    0.0320 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3580  -56.6410   -0.6090 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.3520  -57.0980   -1.4450 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2670  -58.2670   -2.0880 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1510  -58.9760   -1.8780 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.1330  -58.6160   -1.0890 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.2560  -57.4460   -0.4620 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0280  -60.2730   -2.5850 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.9140  -61.0840   -2.3880 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8180  -62.3140   -3.0150 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8240  -62.7500   -3.8450 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9260  -61.9540   -4.0590 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0310  -60.7210   -3.4370 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  2  7  2  0
+  7  6  1  0
+  6  5  2  0
+  5  4  1  0
+  4  3  2  0
+  3  2  1  0
+  8  5  1  0
+  8 13  2  0
+ 13 12  1  0
+ 12 11  2  0
+ 11 10  1  0
+ 10  9  2  0
+  9  8  1  0
+M  END
+>  <id>  (13) 
+197
+
+>  <inchikey>  (13) 
+VXOJYMHSOARYSV-UHFFFAOYSA-N
+
+>  <alias>  (13) 
+z0968a
+
+>  <smiles>  (13) 
+Oc1cnc(-c2ccccc2)nc1
+
+>  <path>  (13) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0968a/z0968a.pdb
+
+>  <distance_score>  (13) 
+None
+
+>  <energy_score>  (13) 
+None
+
+>  <compound>  (13) 
+VXOJYMHSOARYSV-UHFFFAOYSA-N
+
+>  <compound_id>  (13) 
+137
+
+>  <target>  (13) 
+Flavi_NS5_RdRp
+
+>  <tags>  (13) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (13) 
+
+
+>  <reference>  (13) 
+
+
+>  <observation_longname>  (13) 
+Zika_NS5A-x0968_A_1202_1_Zika_NS5A-x0136+A+1016+1
+
+>  <ConformerSites alias>  (13) 
+4a - z0136/A/1016
+
+>  <CanonSites alias>  (13) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites alias>  (13) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies alias>  (13) 
+A1 - all
+
+>  <Crystalforms alias>  (13) 
+F4 - P43212
+
+>  <ConformerSites upload name>  (13) 
+4a - Zika_NS5A-x0136/A/1016
+
+>  <CanonSites upload name>  (13) 
+4 - Zika_NS5A-x0136/A/1016/1
+
+>  <CrystalformSites upload name>  (13) 
+F4i - Zika_NS5A-x0136/A/1016/1
+
+>  <Quatassemblies upload name>  (13) 
+A1 - monomer
+
+>  <Crystalforms upload name>  (13) 
+F4 - P43212
+
+>  <ConformerSites short tag>  (13) 
+4a - z0136/A/1016
+
+>  <CanonSites short tag>  (13) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites short tag>  (13) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies short tag>  (13) 
+A1 - monomer
+
+>  <Crystalforms short tag>  (13) 
+F4 - P43212
+
+>  <Centroid res>  (13) 
+Zika_NS5A-x0136/A/325/A_v1
+
+>  <Experiment code>  (13) 
+Zika_NS5A-x0968
+
+>  <SLURM_JOB_ID>  (13) 
+nan
+
+>  <SLURM_JOB_NAME>  (13) 
+nan
+
+>  <csv_name>  (13) 
+nan
+
+>  <scratch_subdir>  (13) 
+nan
+
+>  <fragmenstein_runtime>  (13) 
+nan
+
+>  <fragmenstein_outcome>  (13) 
+nan
+
+>  <fragmenstein_mode>  (13) 
+nan
+
+>  <fragmenstein_error>  (13) 
+nan
+
+$$$$
+z0991b
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+  -23.2360  -59.7830    2.1170 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3670  -60.6560    0.9920 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.4170  -60.5560   -0.0730 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3910  -62.3120    1.5670 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8200  -60.3520    0.3560 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0190  -59.3480   -0.7030 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -25.6770  -60.0400   -1.8770 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.2350  -61.2920   -2.2900 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8580  -61.9590   -3.3290 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9250  -61.3830   -3.9770 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.3870  -60.1350   -3.5920 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7610  -59.4730   -2.5500 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2870  -58.2490   -2.2140 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.4500  -57.4210   -1.3760 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8660  -58.1810   -0.2110 C   0  0  0  0  0  0  0  0  0  0  0  0
+  4  2  1  0
+  3  2  2  0
+  2  1  2  0
+  5  2  1  0
+  6  5  1  1
+  6 15  1  0
+ 15 14  1  0
+ 14 13  1  0
+ 13 12  1  0
+ 12 11  2  0
+ 11 10  1  0
+ 10  9  2  0
+  9  8  1  0
+  8  7  2  0
+  7  6  1  0
+ 12  7  1  0
+M  END
+>  <id>  (14) 
+199
+
+>  <inchikey>  (14) 
+GLQMCOZZWSNYPN-SECBINFHSA-N
+
+>  <alias>  (14) 
+z0991b
+
+>  <smiles>  (14) 
+CS(=O)(=O)N[C@@H]1CCOc2ccccc21
+
+>  <path>  (14) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0991b/z0991b.pdb
+
+>  <distance_score>  (14) 
+None
+
+>  <energy_score>  (14) 
+None
+
+>  <compound>  (14) 
+GLQMCOZZWSNYPN-UHFFFAOYSA-N
+
+>  <compound_id>  (14) 
+139
+
+>  <target>  (14) 
+Flavi_NS5_RdRp
+
+>  <tags>  (14) 
+['[Other] upload_1 2024-11-21', '[Other] Cavity B (S3) (P2)', '[Other] fragment screen', '[Other] Zika', '[Other] upload_1 2024-11-13', 'hits', 'Pose']
+
+>  <inspirations>  (14) 
+
+
+>  <reference>  (14) 
+
+
+>  <observation_longname>  (14) 
+Zika_NS5A-x0991_A_1013_1_Zika_NS5A-x0136+A+1016+1
+
+>  <ConformerSites alias>  (14) 
+4a - z0136/A/1016
+
+>  <CanonSites alias>  (14) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites alias>  (14) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies alias>  (14) 
+A1 - all
+
+>  <Crystalforms alias>  (14) 
+F4 - P43212
+
+>  <ConformerSites upload name>  (14) 
+4a - Zika_NS5A-x0136/A/1016
+
+>  <CanonSites upload name>  (14) 
+4 - Zika_NS5A-x0136/A/1016/1
+
+>  <CrystalformSites upload name>  (14) 
+F4i - Zika_NS5A-x0136/A/1016/1
+
+>  <Quatassemblies upload name>  (14) 
+A1 - monomer
+
+>  <Crystalforms upload name>  (14) 
+F4 - P43212
+
+>  <ConformerSites short tag>  (14) 
+4a - z0136/A/1016
+
+>  <CanonSites short tag>  (14) 
+4 - z0136/A/1016/1
+
+>  <CrystalformSites short tag>  (14) 
+F4i - z0136/A/1016
+
+>  <Quatassemblies short tag>  (14) 
+A1 - monomer
+
+>  <Crystalforms short tag>  (14) 
+F4 - P43212
+
+>  <Centroid res>  (14) 
+Zika_NS5A-x0136/A/325/A_v1
+
+>  <Experiment code>  (14) 
+Zika_NS5A-x0991
+
+>  <SLURM_JOB_ID>  (14) 
+nan
+
+>  <SLURM_JOB_NAME>  (14) 
+nan
+
+>  <csv_name>  (14) 
+nan
+
+>  <scratch_subdir>  (14) 
+nan
+
+>  <fragmenstein_runtime>  (14) 
+nan
+
+>  <fragmenstein_outcome>  (14) 
+nan
+
+>  <fragmenstein_mode>  (14) 
+nan
+
+>  <fragmenstein_error>  (14) 
+nan
+
+$$$$
