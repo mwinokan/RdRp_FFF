@@ -20,15 +20,17 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 - [x] primer_grip fragment (found 163 pairs)
 - [x] thumb_site fragment (found 75 pairs)
 
-- [ ] cavity_b knitwork_pure
-- [ ] green_site knitwork_pure
-- [ ] primer_grip knitwork_pure
-- [ ] thumb_site knitwork_pure
+- [x] cavity_b knitwork_pure (10 pairs, 131 merges)
+- [x] green_site knitwork_pure (405 pairs, 66911 merges)
+- [x] primer_grip knitwork_pure (110 pairs, 27904 merges)
+- [x] thumb_site knitwork_pure (48 pairs, 4429 merges)
 
-- [ ] cavity_b knitwork_impure
-- [ ] green_site knitwork_impure
-- [ ] primer_grip knitwork_impure
-- [ ] thumb_site knitwork_impure
+- [x] Protonate
+
+- [x] cavity_b knitwork_impure (10 pairs, 694 merges)
+- [x] green_site knitwork_impure (405 pairs, 80251 merges)
+- [x] primer_grip knitwork_impure (110 pairs, 28629 merges)
+- [x] thumb_site knitwork_impure (48 pairs, 6841 merges)
 
 ## Fragmenstein
 
@@ -40,3 +42,11 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 
 - [ ] Implement posebusters filtering
 
+- [x] cavity_b knitwork_pure (40 poses, 2 acceptable)
+- [ ] cavity_b knitwork_impure (done?)
+- [ ] primer_grip knitwork_pure (done?)
+- [ ] primer_grip knitwork_impure (running)
+- [ ] thumb_site knitwork_pure (done?)
+- [ ] thumb_site knitwork_impure (running)
+- [ ] green_site knitwork_pure (pending)
+- [ ] green_site knitwork_impure (pending)
