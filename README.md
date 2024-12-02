@@ -42,11 +42,11 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 
 - [ ] Implement posebusters filtering
 
-- [x] cavity_b knitwork_pure (40 poses, 2 acceptable)
-- [ ] cavity_b knitwork_impure (done?)
-- [ ] primer_grip knitwork_pure (done?)
+- [x] cavity_b knitwork_pure (40 poses, 2 pass filters)
+- [x] cavity_b knitwork_impure (514 poses, 20 pass filters)
+- [ ] primer_grip knitwork_pure (pending)
 - [ ] primer_grip knitwork_impure (running)
-- [ ] thumb_site knitwork_pure (done?)
+- [x] thumb_site knitwork_pure (2535 poses, 88 pass filters)
 - [ ] thumb_site knitwork_impure (running)
 - [ ] green_site knitwork_pure (pending)
 - [ ] green_site knitwork_impure (pending)
