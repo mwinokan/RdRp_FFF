@@ -1,5 +1,7 @@
 Flavi_NS5_RdRp/
 *.sqlite
+~$*.xlsx
+.DS_Store
 
 **/fragment_output/synthon*.mol
 **/fragment_output/subnode*.mol

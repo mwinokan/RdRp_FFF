@@ -34,19 +34,50 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 
 ## Fragmenstein
 
+- [x] cavity_b (165 merges, 13m)
+- [x] primer_grip (596 merges, 3h20m)
+- [x] thumb_site (873 merges, 4h)
+- [x] green_site (1953 merges, 7h30m)
+
+- [ ] Is 6izx-a ok as a reference? (ok because running BulkDock after anyway?)
+
 ## GT4SD
 
 ## Manual
 
+- [x] No poses from Jasmin's first batch
+- [x] Run using 6izx-a reference?
+- [ ] Waiting for new alignment to use 6ld2 reference for Jasmin's second batch
+
 ## BulkDock
 
-- [ ] Implement posebusters filtering
+- [x] Implement posebusters filtering
+
+### Knitwork
 
 - [x] cavity_b knitwork_pure (40 poses, 2 pass filters)
 - [x] cavity_b knitwork_impure (514 poses, 20 pass filters)
-- [ ] primer_grip knitwork_pure (pending)
-- [ ] primer_grip knitwork_impure (running)
+- [ ] primer_grip knitwork_pure (running)
+- [x] primer_grip knitwork_impure (14822 poses, 123 pass filters)
 - [x] thumb_site knitwork_pure (2535 poses, 88 pass filters)
-- [ ] thumb_site knitwork_impure (running)
+- [ ] thumb_site knitwork_impure (2897 poses, 285 pass filters) [upload when on new stack]
 - [ ] green_site knitwork_pure (pending)
 - [ ] green_site knitwork_impure (pending)
+
+### Fragmenstein
+
+- [ ] cavity_b fstein_pure (152 poses, 5 pass filters) [upload when on new stack]
+- [ ] primer_grip fstein_pure (running)
+- [ ] thumb_site fstein_pure (running)
+- [ ] green_site fstein_pure (running)
+
+## Filtering
+
+- [ ] Posebutcher # atoms in solvent?
+- [ ] Num atoms added?
+
+## Syndirella
+
+- [ ] Scaffold check
+- [ ] Review chemistry
+- [ ] Elaborations

@@ -1,0 +1,70 @@
+{
+  "z0903c-z0207a": [
+    [
+      "O=C1NC(=O)C2(CCc3ccccc32)N1",
+      "CC(CO)N(C)[Xe]"
+    ]
+  ],
+  "z0903c-z0892b": [
+    [
+      "O=C1NC(=O)C2(CCc3ccccc32)N1",
+      "[Xe]C1=NCCCS1"
+    ]
+  ],
+  "z0767a-z0892b": [
+    [
+      "c1cn[nH]c1",
+      "[Xe]C1=NCCCS1"
+    ]
+  ],
+  "z0136b-z0892b": [
+    [
+      "c1ccc2[nH]ccc2c1",
+      "[Xe]C1=NCCCS1"
+    ]
+  ],
+  "z0892b-z0767a": [
+    [
+      "C1=NCCCS1",
+      "[Xe]c1cn[nH]c1"
+    ],
+    [
+      "C1=NCCCS1",
+      "[Xe]n1cccn1"
+    ]
+  ],
+  "z0892b-z0136b": [
+    [
+      "C1=NCCCS1",
+      "[Xe]c1cccc2cc[nH]c12"
+    ]
+  ],
+  "z0892b-z0991b": [
+    [
+      "C1=NCCCS1",
+      "[Xe]C1CCOc2ccccc21"
+    ]
+  ],
+  "z0892b-z0968a": [
+    [
+      "C1=NCCCS1",
+      "[Xe]c1cncnc1"
+    ],
+    [
+      "C1=NCCCS1",
+      "[Xe]c1ncccn1"
+    ]
+  ],
+  "z0991b-z0892b": [
+    [
+      "c1ccc2c(c1)CCCO2",
+      "[Xe]C1=NCCCS1"
+    ]
+  ],
+  "z0968a-z0892b": [
+    [
+      "c1cncnc1",
+      "[Xe]C1=NCCCS1"
+    ]
+  ]
+}
