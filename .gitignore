@@ -2,6 +2,7 @@ Flavi_NS5_RdRp/
 *.sqlite
 ~$*.xlsx
 .DS_Store
+*.sublime-*
 
 **/fragment_output/synthon*.mol
 **/fragment_output/subnode*.mol
