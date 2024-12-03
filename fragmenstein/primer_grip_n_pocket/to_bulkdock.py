@@ -1,4 +1,5 @@
 
+import mrich
 from rich import print
 import pandas as pd
 from pathlib import Path
@@ -22,6 +23,10 @@ for i,row in fstein_df.iterrows():
 
 	data.append(d)
 
+mrich.var("#merges", len(data))
+
 df = pd.DataFrame(data)
 
-df.to_csv(Path(".").resolve().name + "_fstein_bulkdock_input.csv", index=False)
+outfile = Path(".").resolve().name + "_fstein_bulkdock_input.csv"
+mrich.writing(outfile)
+df.to_csv(outfile, index=False)
