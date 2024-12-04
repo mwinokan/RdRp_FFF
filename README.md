@@ -41,8 +41,6 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 
 - [ ] Is 6izx-a ok as a reference? (ok because running BulkDock after anyway?)
 
-## GT4SD
-
 ## Manual Designs
 
 - [x] No poses from Jasmin's first batch
@@ -62,14 +60,14 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 - [x] thumb_site knitwork_pure (2535 poses, 88 pass filters)
 - [x] thumb_site knitwork_impure (2897 poses, 285 pass filters)
 - [ ] green_site knitwork_pure (pending)
-- [ ] green_site knitwork_impure (pending)
+- [ ] green_site knitwork_impure (running)
 
 ### Fragmenstein
 
 - [x] cavity_b fstein_pure (152 poses, 5 pass filters)
-- [ ] primer_grip fstein_pure (running)
-- [x] thumb_site fstein_pure (774 poses, 126 pass filters)
-- [ ] green_site fstein_pure (running)
+- [x] primer_grip fstein_pure (605 poses, 40 pass filters)
+- [x] thumb_sdite fstein_pure (774 poses, 126 pass filters)
+- [x] green_site fstein_pure (1749 poses, 55 pass fitlers)
 
 ### Manual
 
@@ -93,4 +91,8 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 
 # green_site_rna_tunnel_fstein_bulkdock_input_split1000_batch000 redo 217909
 
+<!-- BulkDock.combine:Flavi_NS5_RdRp:green_site_rna_tunnel_fstein_bulkdock_input -->
+
 sb.sh --job-name BulkDock.place:Flavi_NS5_RdRp:green_site_rna_tunnel_fstein_bulkdock_input_split1000_batch000 /opt/xchem-fragalysis-2/maxwin/slurm/run_python.sh -m bulkdock.batch place Flavi_NS5_RdRp /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/Flavi_NS5_RdRp_inputs/green_site_rna_tunnel_fstein_bulkdock_input_split1000_batch000.csv
+
+sb.sh --job-name BulkDock.combine:Flavi_NS5_RdRp:green_site_rna_tunnel_fstein_bulkdock_input -m bulkdock.batch combine INPUTS/green_site_rna_tunnel_fstein_bulkdock_input.csv
