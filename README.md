@@ -43,7 +43,7 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 
 ## GT4SD
 
-## Manual
+## Manual Designs
 
 - [x] No poses from Jasmin's first batch
 - [x] Run using 6izx-a reference?
@@ -60,16 +60,23 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 - [ ] primer_grip knitwork_pure (running)
 - [x] primer_grip knitwork_impure (14822 poses, 123 pass filters)
 - [x] thumb_site knitwork_pure (2535 poses, 88 pass filters)
-- [ ] thumb_site knitwork_impure (2897 poses, 285 pass filters) [upload when on new stack]
+- [x] thumb_site knitwork_impure (2897 poses, 285 pass filters)
 - [ ] green_site knitwork_pure (pending)
 - [ ] green_site knitwork_impure (pending)
 
 ### Fragmenstein
 
-- [ ] cavity_b fstein_pure (152 poses, 5 pass filters) [upload when on new stack]
+- [x] cavity_b fstein_pure (152 poses, 5 pass filters)
 - [ ] primer_grip fstein_pure (running)
-- [ ] thumb_site fstein_pure (running)
+- [x] thumb_site fstein_pure (774 poses, 126 pass filters)
 - [ ] green_site fstein_pure (running)
+
+### Manual
+
+- [x] RdRp_Primergrip_JA_SeeSar (1 pose passes filters)
+- [x] RdRp_RS_thumb_merges (1 pose passes filters)
+- [x] RdRp_MW_d1212a_d0174a (no poses pass filters)
+- [x] RdRp_MW_rahman_sw_mod (no poses)
 
 ## Filtering
 
@@ -81,3 +88,9 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 - [ ] Scaffold check
 - [ ] Review chemistry
 - [ ] Elaborations
+
+
+
+# green_site_rna_tunnel_fstein_bulkdock_input_split1000_batch000 redo 217909
+
+sb.sh --job-name BulkDock.place:Flavi_NS5_RdRp:green_site_rna_tunnel_fstein_bulkdock_input_split1000_batch000 /opt/xchem-fragalysis-2/maxwin/slurm/run_python.sh -m bulkdock.batch place Flavi_NS5_RdRp /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/Flavi_NS5_RdRp_inputs/green_site_rna_tunnel_fstein_bulkdock_input_split1000_batch000.csv
