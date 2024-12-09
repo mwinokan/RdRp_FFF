@@ -55,7 +55,7 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 
 - [x] cavity_b knitwork_pure (40 poses, 2 pass filters)
 - [x] cavity_b knitwork_impure (514 poses, 20 pass filters)
-- [ ] primer_grip knitwork_pure (running)
+- [x] primer_grip knitwork_pure (23721 poses, 169 pass filters) [upload]
 - [x] primer_grip knitwork_impure (14822 poses, 123 pass filters)
 - [x] thumb_site knitwork_pure (2535 poses, 88 pass filters)
 - [x] thumb_site knitwork_impure (2897 poses, 285 pass filters)
@@ -75,19 +75,29 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 - [x] RdRp_RS_thumb_merges (1 pose passes filters)
 - [x] RdRp_MW_d1212a_d0174a (no poses pass filters)
 - [x] RdRp_MW_rahman_sw_mod (no poses)
+- [ ] Add all manual SeeSAR poses to DB
+
+## Retrosynthesis
+
+- [x] Fragmenstein
+- [ ] Knitwork (running)
+- [ ] Knitwork green (pending bulkdock)
+- [ ] Manual designs (all, even non-posed?)
+- [ ] Parse into HIPPO reactions
 
 ## Filtering
 
 - [ ] Posebutcher # atoms in solvent?
 - [ ] Num atoms added?
 
-## Syndirella
+## Curation
 
-- [ ] Scaffold check
 - [ ] Review chemistry
+- [ ] Select scaffolds
+
+## Syndirella Elaboration
+
 - [ ] Elaborations
-
-
 
 # green_site_rna_tunnel_fstein_bulkdock_input_split1000_batch000 redo 217909
 
@@ -96,3 +106,6 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 sb.sh --job-name BulkDock.place:Flavi_NS5_RdRp:green_site_rna_tunnel_fstein_bulkdock_input_split1000_batch000 /opt/xchem-fragalysis-2/maxwin/slurm/run_python.sh -m bulkdock.batch place Flavi_NS5_RdRp /opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/Flavi_NS5_RdRp_inputs/green_site_rna_tunnel_fstein_bulkdock_input_split1000_batch000.csv
 
 sb.sh --job-name BulkDock.combine:Flavi_NS5_RdRp:green_site_rna_tunnel_fstein_bulkdock_input -m bulkdock.batch combine INPUTS/green_site_rna_tunnel_fstein_bulkdock_input.csv
+
+## rescue failed green site knitwork impure:
+[217980, 217979, 217978, 217977, 217976, 217974, 217975, 217972, 217971, 217970, 217969, 217968, 217973, 217986, 217988, 217987, 217985]
