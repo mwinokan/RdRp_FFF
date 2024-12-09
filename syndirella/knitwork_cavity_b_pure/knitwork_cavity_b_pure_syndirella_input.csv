@@ -1,0 +1,3 @@
+smiles,template,compound_set,hit1,hit2
+CC(C)n1cc(NC2=NCCCS2)cn1,/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0892b/z0892b.pdb,knitwork_cavity_b_pure,z0767a,z0892b
+CC(Cn1cccn1)NC1=NCCCS1,/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0892b/z0892b.pdb,knitwork_cavity_b_pure,z0767a,z0892b
