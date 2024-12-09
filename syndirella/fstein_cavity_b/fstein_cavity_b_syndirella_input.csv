@@ -1,0 +1,6 @@
+smiles,template,compound_set,hit1,hit2
+COc1ccc2cc(CN)[nH]c2c1NC(C)=O,/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0184a/z0184a.pdb,fstein_cavity_b,z0136b,z0184a
+CC(=O)N(c1ccn[nH]1)c1cccc2cc[nH]c12,/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0136b/z0136b.pdb,fstein_cavity_b,z0136b,z0481b
+CC1CN2C3=C(CCC(NC(=O)CN)C3)OC2CN1,/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0184a/z0184a.pdb,fstein_cavity_b,z0184a,z0186a
+CC1CN2C3=C(CCC(NC(=O)CN)C3)OC2CN1,/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0186a/z0186a.pdb,fstein_cavity_b,z0184a,z0186a
+CCOc1c(F)c(OCF)cn1CCO,/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/Flavi_NS5_RdRp/aligned_files/z0898a/z0898a.pdb,fstein_cavity_b,z0767a,z0898a
