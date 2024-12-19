@@ -45,7 +45,7 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 
 - [x] No poses from Jasmin's first batch
 - [x] Run using 6izx-a reference?
-- [ ] Waiting for new alignment to use 6ld2 reference for Jasmin's second batch
+- [x] Waiting for new alignment to use 6ld2 reference for Jasmin's second batch
 
 ## BulkDock
 
@@ -55,12 +55,12 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 
 - [x] cavity_b knitwork_pure (40 poses, 2 pass filters)
 - [x] cavity_b knitwork_impure (514 poses, 20 pass filters)
-- [x] primer_grip knitwork_pure (23721 poses, 169 pass filters) [upload]
+- [x] primer_grip knitwork_pure (23721 poses, 169 pass filters)
 - [x] primer_grip knitwork_impure (14822 poses, 123 pass filters)
 - [x] thumb_site knitwork_pure (2535 poses, 88 pass filters)
 - [x] thumb_site knitwork_impure (2897 poses, 285 pass filters)
-- [ ] green_site knitwork_pure (pending)
-- [ ] green_site knitwork_impure (running)
+- [x] green_site knitwork_pure (71383 poses, 505 pass filters)
+- [x] green_site knitwork_impure (60288 poses, 484 pass filters) [upload]
 
 ### Fragmenstein
 
@@ -75,19 +75,24 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 - [x] RdRp_RS_thumb_merges (1 pose passes filters)
 - [x] RdRp_MW_d1212a_d0174a (no poses pass filters)
 - [x] RdRp_MW_rahman_sw_mod (no poses)
+- [ ] RdRp_Primergrip_JA_SeeSar_2 (running)
 - [ ] Add all manual SeeSAR poses to DB
 
 ## Retrosynthesis
 
 - [x] Fragmenstein
-- [ ] Knitwork (running)
-- [ ] Knitwork green (pending bulkdock)
-- [ ] Manual designs (all, even non-posed?)
-- [ ] Parse into HIPPO reactions
+- [x] Knitwork
+- [x] Knitwork green pure
+- [ ] Knitwork green impure (pending)
+- [x] JA SeeSar Manual designs
+- [x] Parse into HIPPO reactions (non-BulkDock DB)
+- [x] 364 product compounds so far
+- [x] 341 fragalysis exported poses so far
 
 ## Filtering
 
 - [ ] Posebutcher # atoms in solvent?
+- [ ] Multi-SuCOS
 - [ ] Num atoms added?
 
 ## Curation
