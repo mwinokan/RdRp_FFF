@@ -1,0 +1,131 @@
+id,smiles,tags
+772,CCS(=O)(=O)NCc1ncccc1OC,acceptable
+778,CCS(=O)(=O)NCc1ccc(N2CCCc3ccccc32)nc1,acceptable
+791,CCS(=O)(=O)NCc1ncccc1F,Knitwork impure merge
+808,CCS(=O)(=O)NCc1nc(Cl)ccc1Br,acceptable
+850,CCS(=O)(=O)NCc1ccncc1C,acceptable
+852,CCS(=O)(=O)NCc1ncccc1C,Knitwork impure merge
+856,CCS(=O)(=O)NCc1ncc(C)cc1C,Knitwork impure merge
+885,CCS(=O)(=O)NCc1cnc(C)cc1C,acceptable
+886,CCS(=O)(=O)NCc1ncccc1Cl,Knitwork impure merge
+890,CCS(=O)(=O)NCc1ccncc1Cl,acceptable
+897,CCS(=O)(=O)NCc1ccc(OCc2ccccn2)cc1,acceptable
+915,CCS(=O)(=O)NCc1cnccc1C,acceptable
+983,CCS(=O)(=O)NCC1CCCC2CC12,Knitwork impure merge
+1191,CCS(=O)(=O)NCC1CCCN(Cc2cccc3ccccc23)C1,Knitwork impure merge
+1194,CCS(=O)(=O)NCC1C=CCCCC1,acceptable
+1345,CCS(=O)(=O)N(C)c1cccnc1,acceptable
+1453,O=S(=O)(CCc1cnoc1)NC(c1ccncc1)C1CCC1,acceptable
+1465,CCS(=O)(=O)NCC1CCCC2(CC2)C1,acceptable
+1504,O=S(=O)(CCc1cnoc1)NC(c1cccnc1)C1CC1,acceptable
+1548,O=S(=O)(CCc1cnoc1)NC(c1ccccc1)c1cccnc1,acceptable
+2664,CC(NS(=O)(=O)CC#N)c1ncccn1,Knitwork impure merge
+3098,CCS(=O)(=O)NCc1ccc(C(=O)N2CC(=O)N2)cc1,acceptable
+3914,CCS(=O)(=O)NCC1CN(c2ncc(F)cn2)Cc2cncn21,Knitwork pure merge
+4745,O=c1ccc(-c2cccnc2)nn1Cc1nsc2ccccc12,Knitwork impure merge
+5226,CCOC(=O)Cn1nc(-c2cccnc2)ccc1=O,Knitwork impure merge
+5802,CC(c1ccccc1)S(=O)(=O)NC(c1ncccn1)C1CC1,acceptable
+5850,C=CC(C)(CC)NS(=O)(=O)c1cscn1,acceptable
+5927,CC(NS(=O)(=O)CC(C)C(C)(F)F)c1nccs1,acceptable
+6140,CC(NS(=O)(=O)CBr)c1cncs1,acceptable
+6353,CCCS(=O)(=O)NC(C)c1cccnc1,Knitwork pure merge
+6465,CC(CCNS(=O)(=O)Cc1ccncc1)C(F)F,acceptable
+6527,CCC(NS(=O)(=O)N(C)C)c1ccncc1,acceptable
+6543,CC(NS(=O)(=O)CC#N)c1ccccn1,Knitwork impure merge
+6567,CCC(NS(=O)(=O)CCC(C)C)c1ccccn1,Knitwork impure merge
+6634,CC(C)CC(C)CS(=O)(=O)NC(C)c1ccncc1,acceptable
+6710,CC(C)C(NS(C)(=O)=O)c1ccncc1,acceptable
+6745,CC(NS(C)(=O)=O)c1ccccn1,acceptable
+6950,CCC(NS(=O)(=O)CCC(F)(F)C(F)F)c1cccnc1,acceptable
+7755,CCS(=O)(=O)NCc1nc2cc(Cl)ccc2[nH]1,Knitwork impure merge
+8715,c1cc(-c2cnc[nH]2)ccn1,acceptable
+11952,COC(=O)c1[nH]c(C(C)C)cc1-c1cn[nH]c1,acceptable
+12483,Nc1cc(NCc2c[nH]cn2)ccn1,acceptable
+12548,Cc1cnccc1NCc1c[nH]cn1,acceptable
+13407,Cn1cncc1-c1nnc(C2CCCCN2)o1,acceptable
+13884,CC(C)CC(NC(=O)c1cnc(-c2ccccn2)s1)C(F)(F)F,acceptable
+14654,c1ccc(N2CCCOCC2)nc1,Knitwork impure merge
+14910,c1cc(N2CCCOCC2)ccn1,acceptable
+16080,CC(CNC(=O)c1ccc(-c2nc[nH]n2)nc1)c1ncc[nH]1,Knitwork impure merge
+17585,Cc1cnccc1NCc1cncs1,acceptable
+17667,CNc1ccnc(NCc2cncs2)c1,acceptable
+17958,Nc1cnccc1NCc1cncs1,acceptable
+18236,Clc1cc(NCc2ccn[nH]2)ccn1,acceptable
+18302,Fc1cnccc1NCc1ccn[nH]1,acceptable
+19774,CC(NC(=O)c1ccnc(-n2cccc2)c1)c1ncc[nH]1,acceptable
+20751,CC(CC(=O)Nc1c[nH]nc1-c1nccs1)n1cccc1,acceptable
+21233,c1cncc(-c2nnc(-c3ccnc(-n4ccnc4)c3)o2)c1,Knitwork impure merge
+22539,CC(CC(=O)Nc1cn[nH]c1C#N)C1CCCO1,Knitwork impure merge
+22542,Cn1cc(C(=O)CNC(=O)C2CCCO2)cn1,Knitwork impure merge
+22777,CC(C)(NCc1ccnn1C1CCCC1)C1CCCO1,acceptable
+22810,O=C(NCC1CCCO1)c1ccn(C2CCCC2)n1,Knitwork impure merge
+23189,O=S(=O)(NCC1CCCO1)c1cnn(C2CCCC2)c1,acceptable
+23454,c1nc(-c2n[nH]c3c2CCCC3)c[nH]1,Knitwork impure merge
+25743,N#Cc1ccc(-c2nccs2)[nH]1,acceptable
+26127,O=C(NC1CCC12CNC2)c1ccc(-c2ccncc2)nc1,Knitwork impure merge
+66289,COc1ccc2cc(CN)[nH]c2c1NC(C)=O,acceptable
+66810,COc1cc(CC2CCNC2)cc2[nH]ccc12,acceptable
+66848,CN(c1nccc2cc(F)ccc12)S(N)(=O)=O,acceptable
+67390,COc1cccc(S(=O)(=O)NC(=O)c2cc(-c3ccc(C#CCO)s3)c(C(C)c3c[nH]nc3-c3ccncc3)cc2OC)c1,acceptable
+67398,Cc1cc(C(C)c2c[nH]nc2-c2ccncc2)c(-c2ccc(C#CCO)s2)cc1C(=O)NS(C)(=O)=O,acceptable
+67403,O=C(Nc1ccn(Cc2cccnc2)c1)C1CCCO1,SeeSAR
+67405,c1cncc(Cn2ccc(Nc3cccnc3-n3cccc3)c2)c1,acceptable
+67410,N#Cc1nc[nH]c1Nc1cccn1Cc1cccnc1,acceptable
+67424,O=C(Nc1ccc(Cc2cccnc2)cn1)C1CCCO1,SeeSAR
+67427,Cc1ncc(Cc2ccc(NC(=O)C3CCCO3)nc2)s1,SeeSAR
+67659,COc1c(CC(=O)O)cc(CC(=O)O)cc1-c1ccc(C#CCO)s1,acceptable
+67718,O=C(O)Cc1cc(-c2ccccc2)cc(C(C(=O)O)c2cc(-c3ccncc3)n[nH]2)c1,acceptable
+67721,Nc1c(CC(=O)O)cc(CC(=O)O)cc1-c1ccccc1,acceptable
+67990,Cc1cc2cccc(NCC3CCNC3)n2n1,acceptable
+68667,CCS(=O)(=O)NCc1ccc2c(c1)OC(Oc1ccc(S(=O)(=O)N3CCNCC3)cc1)O2,acceptable
+68673,CCc1c(NCc2ccc3c(c2)OCO3)n[nH]c1O,acceptable
+68932,Cc1cc(Cn2[nH]c3c(c2=O)CCCC3)on1,acceptable
+68987,CC1CCN(S(=O)(=O)N2CC(c3ccccc3)C2)C1,acceptable
+69057,Cc1cnc(N(C)CC2CCOC2)c(Cl)c1,acceptable
+69116,N#Cc1ccc(Cn2cnc3ccccc32)cc1O,acceptable
+69322,NC(c1ccccc1)c1ccc(-c2cc(CC(=O)O)cc(CC(=O)O)c2)s1,acceptable
+70811,Nc1cccnc1-n1ccc(C#CCO)c1,SeeSAR
+70812,COc1cccnc1-n1ccc(C#CCO)c1,SeeSAR
+70813,CNc1cccnc1-n1ccc(C#CCO)c1,SeeSAR
+70814,COc1c(CC(=O)[O-])cc(CC(=O)[O-])nc1-n1ccc(C#CCO)c1,SeeSAR
+70815,COc1ccc(C(=O)NS(C)(=O)=O)nc1-n1ccc(C#CCO)c1,SeeSAR
+70816,COc1ccc(C(=O)NS(C)(=O)=O)nc1-n1cccc1,SeeSAR
+70817,COc1cc(C)cnc1-n1ccc(C#CCO)c1,SeeSAR
+70818,COc1cc(C)c(C(=O)NS(=O)(=O)c2cccc3cccnc23)nc1-n1ccc(C#CCO)c1,SeeSAR
+70819,COc1ccc(C(=O)NS(=O)(=O)c2cccc3cccnc23)nc1-n1ccc(C#CCO)c1,SeeSAR
+70820,CNc1ccc(C(=O)NS(=O)(=O)c2cccc3cccnc23)nc1-n1ccc(C#CCO)c1,SeeSAR
+70821,COc1cc(C)c(C(=O)NS(=O)(=O)c2cccc3cccnc23)nc1-n1ccc(C)c1,SeeSAR
+70822,COc1cc(C)c(C(=O)NS(C)(=O)=O)nc1-n1ccc(C)c1,SeeSAR
+70823,Cc1cnc(-n2ccc(C#CCO)c2)c(OC2=C(c3ccncc3)N=NC2)c1,SeeSAR
+70824,Cc1cnc(-n2ccc(C#CCO)c2)c(NC2=C(c3ccncc3)N=NC2)c1,SeeSAR
+70825,Cc1ccc(-c2ccc(C#CCO)s2)c(NC2=C(c3ccncc3)N=NC2)c1,SeeSAR
+70826,Cc1ccc(-c2ccc(C#CCO)s2)c(OC2=C(c3ccncc3)N=NC2)c1,SeeSAR
+70827,Cc1cnc(-n2ccc(C#CCO)c2)c(Oc2ccn(Cc3cccnc3)c2)c1,SeeSAR
+70828,Cc1cnc(-n2ccc(C#CCO)c2)c(Nc2ccn(Cc3cccnc3)c2)c1,SeeSAR
+70829,Cc1ccc(-c2ccc(C#CCO)s2)c(Nc2ccn(Cc3cccnc3)c2)c1,SeeSAR
+70830,Cc1ccc(-c2ccc(C#CCO)s2)c(Oc2ccn(Cc3cccnc3)c2)c1,SeeSAR
+70831,Nc1c(-c2c[nH]cn2)ccnc1-n1cccc1,SeeSAR
+70832,NC(=O)N1CCN(c2cccnc2-n2cccc2)CC1,SeeSAR
+70833,c1ccn(-c2nccc3nc(N4CCNCC4)[nH]c23)c1,SeeSAR
+70834,c1ccn(-c2nccc3c2N=C(N2CCNCC2)C3)c1,SeeSAR
+70835,c1ccn(-c2nccc3sc(N4CCNCC4)nc23)c1,SeeSAR
+70836,c1ccn(-c2nccc3oc(N4CCNCC4)nc23)c1,SeeSAR
+70837,NC(=O)N1CCN(C(=O)c2cccnc2-n2cccc2)CC1,SeeSAR
+70838,c1ccn(-c2cc(-c3cn[nH]c3-c3ccncc3)ccn2)c1,SeeSAR
+70839,c1cncc(Cn2ccc(-c3cccnc3-n3cccc3)c2)c1,SeeSAR
+70840,Nc1c(-c2cn[nH]c2-c2ccncc2)ccnc1-n1cccc1,SeeSAR
+70841,NC(=O)N1CCN(c2nc3c(-n4cccc4)nccc3o2)CC1,SeeSAR
+70842,NC(=O)N1CCN(c2nc3c(-n4cccc4)nccc3s2)CC1,SeeSAR
+70843,c1cnc(-n2cccc2)c(NCc2c[nH]nc2-c2ccncc2)c1,SeeSAR
+70844,c1cnc(-n2cccc2)c(CNc2cn[nH]c2-c2ccncc2)c1,SeeSAR
+70845,c1cnc(-n2cccc2)c(CCc2c[nH]nc2-c2ccncc2)c1,SeeSAR
+70846,c1cnc(-n2cccc2)c(CSc2c[nH]nc2-c2ccncc2)c1,SeeSAR
+70847,c1cnc(-n2cccc2)c(SCc2cn[nH]c2-c2ccncc2)c1,SeeSAR
+70848,c1cnc(-n2cccc2)c(COc2cn[nH]c2-c2ccncc2)c1,SeeSAR
+70849,c1cnc(-n2cccc2)c(OCc2c[nH]nc2-c2ccncc2)c1,SeeSAR
+70850,CCS(=O)(=O)NCc1ccc(NC2CCOCC2)nc1,SeeSAR
+70851,CCS(=O)(=O)NCc1ccc(OC2CCOCC2)nc1,SeeSAR
+70852,CCS(=O)(=O)NCc1ccc(CC2CCOCC2)nc1,SeeSAR
+70853,Cc1cc(Cn2nc(-c3cncc(F)c3)ccc2=O)on1,SeeSAR
+70854,CNS(=O)(=O)c1cccc2c(=O)n(Cc3cc(C)no3)nc(C)c12,SeeSAR
+70855,Nc1nc(-c2ccc(Nc3ccc(-c4cc(CC(=O)O)cc(CC(=O)O)c4)s3)cc2)cs1,SeeSAR

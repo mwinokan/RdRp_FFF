@@ -1,0 +1,93 @@
+id,smiles,tags
+743,CC(Cn1cccn1)NC1=NCCCS1,acceptable
+1191,CCS(=O)(=O)NCC1CCCN(Cc2cccc3ccccc23)C1,Knitwork impure merge
+1237,CCS(=O)(=O)N(C)C1CCN(C(=O)Cc2cccnc2)CC1,acceptable
+1453,O=S(=O)(CCc1cnoc1)NC(c1ccncc1)C1CCC1,acceptable
+1504,O=S(=O)(CCc1cnoc1)NC(c1cccnc1)C1CC1,acceptable
+1548,O=S(=O)(CCc1cnoc1)NC(c1ccccc1)c1cccnc1,acceptable
+1569,Cc1cnc(CC(=O)NCc2ccc(=O)[nH]n2)s1,Knitwork pure merge
+1623,CCS(=O)(=O)NCc1cn(CCCn2cncn2)nn1,acceptable
+1778,O=C(O)c1csc(-c2ccc(=O)[nH]n2)n1,Knitwork pure merge
+1905,NCc1csc(-c2ccc(=O)[nH]n2)n1,Knitwork impure merge
+1941,CN(c1cccnc1)S(=O)(=O)CCC1CCCO1,acceptable
+2600,CC(C)(C)OCC(O)c1ccncn1,acceptable
+2614,CCCN(CCC)S(=O)(=O)NC(C)c1ncccn1,Knitwork impure merge
+2658,CC(NS(=O)(=O)CC(C)(C)C#N)c1ncccn1,acceptable
+2829,CCS(=O)(=O)NCC1CC(=O)N(c2ccc(C)cc2)C1,Knitwork impure merge
+3075,CCS(=O)(=O)NCC1CC(=O)N(c2ccc(Cl)cc2)C1,acceptable
+3914,CCS(=O)(=O)NCC1CN(c2ncc(F)cn2)Cc2cncn21,Knitwork pure merge
+4670,CCCc1nnc(NS(=O)(=O)c2ccc3c(c2)OCCO3)s1,acceptable
+4745,O=c1ccc(-c2cccnc2)nn1Cc1nsc2ccccc12,Knitwork impure merge
+5076,CCCn1ccc(CNCc2ccc3c(n2)OCCO3)n1,acceptable
+5550,CC(C)(C)OCC(O)c1cscn1,Knitwork impure merge
+5555,C=CCN(C)S(=O)(=O)NC(C)c1nccs1,Knitwork impure merge
+5616,CC(NS(=O)(=O)CCCCC#N)c1nccs1,acceptable
+5663,CC(CC(C)C(F)F)NS(=O)(=O)Cc1cscn1,acceptable
+5802,CC(c1ccccc1)S(=O)(=O)NC(c1ncccn1)C1CC1,acceptable
+6445,CCCCN(O)C(=O)c1ccccn1,acceptable
+6489,CCCC(NS(=O)(=O)CC(C)(C)C(F)(F)F)c1ccccn1,acceptable
+6527,CCC(NS(=O)(=O)N(C)C)c1ccncc1,acceptable
+6748,C=C(C(=O)OC)C(O)c1ccncc1,acceptable
+6935,CCCOCC(O)c1cccnc1,acceptable
+6945,CC(C)(C)OCC(O)c1ccccn1,Knitwork pure merge
+6950,CCC(NS(=O)(=O)CCC(F)(F)C(F)F)c1cccnc1,acceptable
+6954,O=C1C=C(c2ccccn2)CCCC1,acceptable
+7755,CCS(=O)(=O)NCc1nc2cc(Cl)ccc2[nH]1,Knitwork impure merge
+8588,CCS(=O)(=O)NCc1ccc(C=CC(=O)O)s1,acceptable
+8715,c1cc(-c2cnc[nH]2)ccn1,acceptable
+9207,CCOC(=O)CC(C)OC(=O)c1ccnn1-c1ccncc1,acceptable
+9237,C=C(Cn1ccnc1)C(=O)NC(CO)Cc1cccnc1,Knitwork impure merge
+9420,O=C(C=Cc1cscn1)OCCCCC1CCCO1,acceptable
+10197,OC1(CNCc2ccn[nH]2)CCOC1,acceptable
+10237,CC1(CNCc2ccn[nH]2)CCOC1,acceptable
+10275,OC1COCC1CNCc1ccn[nH]1,acceptable
+10384,O=C(O)c1cc(S(=O)(=O)NCc2nccs2)c[nH]1,acceptable
+10412,COC(=O)CCN(Cc1cccnc1)S(=O)(=O)C1CCOC1,acceptable
+11480,CC(Nc1cnc(-n2cccc2)cn1)c1ccccn1,acceptable
+11581,Cc1cnc(CNC(C)c2cncs2)[nH]1,acceptable
+12388,CC(n1nc(-c2cncs2)nc1-c1cc[nH]c1)C(F)(F)F,acceptable
+12483,Nc1cc(NCc2c[nH]cn2)ccn1,acceptable
+13088,COCCN(Cc1cncs1)C(=O)Cn1cnc(C(=O)O)c1,acceptable
+13403,O=C(CCC(=O)c1ccc[nH]1)OC(c1cccnc1)C(F)(F)F,acceptable
+13623,CC(Oc1cccnc1)C(=O)NCC(CO)c1cccnc1,acceptable
+13838,CC(=O)NCCC(C)NC(=O)c1csc(-c2ccccn2)n1,acceptable
+14066,CC(O)c1ncc(CNC(CCc2ccccc2)CC(=O)O)s1,acceptable
+14067,CCc1ncc(CNC(CCc2ccccc2)CC(=O)O)s1,Knitwork pure merge
+14551,Cc1ncsc1COC(=O)COc1ccsc1,acceptable
+14654,c1ccc(N2CCCOCC2)nc1,Knitwork impure merge
+15070,CN(CCNC(=O)CC1CCCCO1)C(=O)c1cccnc1,Knitwork impure merge
+15286,CC(C)c1[nH]ccc1C(=O)NCCN(CCO)C(=O)c1ccncc1,acceptable
+15419,CCN(CCNC(=O)c1ccncc1)C(=O)c1cc[nH]c1C(C)C,acceptable
+15932,CCc1nc(-n2cccc2)sc1C(=O)OC(C)CC,acceptable
+16150,O=C(NOC1CCOC1)N1CCN(c2cccnc2)C(=O)C1,Knitwork impure merge
+16185,O=C1CN(c2nc(C3CCOC3)ns2)CCN1c1cccnc1,acceptable
+17072,CC(NC(C)C1CCCO1)c1ccc(-c2cccnc2)cc1,acceptable
+17764,CCC(NC(=O)Nc1ccc(OC(F)F)cn1)C1CCCO1,acceptable
+18275,CCC1OCCC1CNCc1cc[nH]n1,Knitwork impure merge
+18620,C=CCNC(=O)c1ccc(N2CCC(c3ccn[nH]3)C2)nc1,acceptable
+18861,CNS(=O)(=O)c1ccc(N2CCC(c3ccn[nH]3)C2)nc1,acceptable
+18883,CS(=N)(=O)c1ccc(N2CCC(c3ccn[nH]3)C2)nc1,acceptable
+18884,OCc1ccnc(N2CCC(c3ccn[nH]3)C2)c1,acceptable
+18885,CS(=O)(=O)c1ccc(N2CCC(c3ccn[nH]3)C2)nc1,acceptable
+21062,CC(=O)NCCN(Cc1ccsc1)C(=O)c1cnccc1O,acceptable
+21233,c1cncc(-c2nnc(-c3ccnc(-n4ccnc4)c3)o2)c1,Knitwork impure merge
+21483,CN(C)S(N)(=O)=NC(=O)c1cnn(C)c1-n1cccc1,acceptable
+21752,O=C(CCCn1ccnc1)NC(CO)C(O)c1cccnc1,acceptable
+22012,Cn1ncc(C(=O)OCCCCC(C)(F)F)c1-n1cccc1,acceptable
+22253,O=C(O)C1CCOC1CNCc1cncs1,acceptable
+22360,CCC1(C(N)c2cncs2)CCCO1,acceptable
+22539,CC(CC(=O)Nc1cn[nH]c1C#N)C1CCCO1,Knitwork impure merge
+23087,NCC1CC(CNCc2cncs2)CO1,acceptable
+23189,O=S(=O)(NCC1CCCO1)c1cnn(C2CCCC2)c1,acceptable
+23249,CN(C)C(=O)Cn1ccc(NS(=O)(=O)N2CCCCC2)n1,acceptable
+23300,CC(Cc1cnc[nH]1)C(=O)NCc1nnc(N2CCCC2)o1,acceptable
+23454,c1nc(-c2n[nH]c3c2CCCC3)c[nH]1,Knitwork impure merge
+23751,CC(CNC(=O)Nc1ncc(CC2CCOCC2)s1)S(N)(=O)=O,Knitwork impure merge
+24397,CSCC(C)CNC(C)c1cn(C)nc1C1CCOCC1,acceptable
+24657,CC(=Cc1ccccn1)C(=O)N(C)C1(C(=O)O)CCOC1,acceptable
+25743,N#Cc1ccc(-c2nccs2)[nH]1,acceptable
+26114,COCCNC(=O)CN(C)c1ccc(-c2ccncc2)cn1,acceptable
+26127,O=C(NC1CCC12CNC2)c1ccc(-c2ccncc2)nc1,Knitwork impure merge
+67404,Cc1sc(C(C)NC(=O)C(C)C)c(C)c1CCNc1ccn(Cc2cccnc2)c1,acceptable
+67721,Nc1c(CC(=O)O)cc(CC(=O)O)cc1-c1ccccc1,acceptable
+68657,Nc1nc(-c2ccc(N(CC(=O)N3CCOCC3)C3CCCCC3)cc2)cs1,acceptable
