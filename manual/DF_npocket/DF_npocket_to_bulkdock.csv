@@ -43,9 +43,9 @@ C(c1c(-[n]2cccc2)nccc1)Sc1c[nH]nc1-c1ccncc1,d0160a,d0472a,
 C(c1c(-c2ccncc2)[nH]nc1)Sc1c(-[n]2cccc2)nccc1,d0160a,d0472a,
 C(c1c(-[n]2cccc2)nccc1)Oc1c(-c2ccncc2)[nH]nc1,d0160a,d0472a,
 C(c1c[nH]nc1-c1ccncc1)Oc1c(-[n]2cccc2)nccc1,d0160a,d0472a,
-CCS(=O)(=O)NCc1ccc(NC2CCOCC2)nc1,v23a,,
-CCS(=O)(=O)NCc1ccc(OC2CCOCC2)nc1,v23a,,
-CCS(=O)(=O)NCc1ccc(CC2CCOCC2)nc1,v23a,,
-Cc1cc(Cn2nc(-c3cncc(F)c3)ccc2=O)on1,v25a,,
+CCS(=O)(=O)NCc1ccc(NC2CCOCC2)nc1,d0174a,d0279a,d0615a
+CCS(=O)(=O)NCc1ccc(OC2CCOCC2)nc1,d0174a,d0279a,d0615a
+CCS(=O)(=O)NCc1ccc(CC2CCOCC2)nc1,d0174a,d0279a,d0615a
+Cc1cc(Cn2nc(-c3cncc(F)c3)ccc2=O)on1,d0174a,d0279a,d0615a
 CNS(=O)(=O)c1cccc2c(=O)n(Cc3cc(C)no3)nc(C)c12,v495a,,
 Nc1nc(-c2ccc(Nc3ccc(-c4cc(CC(=O)O)cc(CC(=O)O)c4)s3)cc2)cs1,v511a,,
