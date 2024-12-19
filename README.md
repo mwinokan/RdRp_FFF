@@ -11,6 +11,13 @@ Fast Forward Fragments campaign for NS5 RdRp (Zika + DENV2)
 
 - Thumb site 2 [35 observations](https://fragalysis.diamond.ac.uk/viewer/react/projects/143/136)
 
+### Algorithm output summary:
+
+![newplot-86](https://github.com/user-attachments/assets/6513d2e0-a820-4a59-8b42-f2b18ea8dd2b)
+
+![Screenshot 2024-12-19 at 10 35 02](https://github.com/user-attachments/assets/c35d6dc6-be68-4a60-97b9-b0687b76e6bf)
+
+
 ## [SLACK PLANNER](https://xchem-workspace.slack.com/lists/T01MX6021AR/F07SNQ7N7QD)
 
 ## Knitwork
