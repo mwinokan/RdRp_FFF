@@ -1,22 +1,22 @@
 id,smiles,tags
 743,CC(Cn1cccn1)NC1=NCCCS1,"{'AC curated INTERESTING', 'Knitwork pure merge', 'Cavity B merge', 'Fragmenstein placed', 'acceptable'}"
-772,CCS(=O)(=O)NCc1ncccc1OC,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork pure merge', 'Fragmenstein placed', 'JA curated YES', 'acceptable'}"
+,,
 778,CCS(=O)(=O)NCc1ccc(N2CCCc3ccccc32)nc1,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork pure merge', 'Fragmenstein placed', 'acceptable'}"
-791,CCS(=O)(=O)NCc1ncccc1F,"{'DF curated INTERESTING', 'JA curated YES', 'Knitwork impure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge'}"
-808,CCS(=O)(=O)NCc1nc(Cl)ccc1Br,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork pure merge', 'Fragmenstein placed', 'JA curated YES', 'acceptable'}"
-850,CCS(=O)(=O)NCc1ccncc1C,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork pure merge', 'Fragmenstein placed', 'JA curated YES', 'acceptable'}"
-852,CCS(=O)(=O)NCc1ncccc1C,"{'DF curated INTERESTING', 'JA curated YES', 'Knitwork impure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge'}"
-856,CCS(=O)(=O)NCc1ncc(C)cc1C,"{'DF curated INTERESTING', 'JA curated YES', 'Knitwork impure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge'}"
-885,CCS(=O)(=O)NCc1cnc(C)cc1C,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork pure merge', 'Fragmenstein placed', 'JA curated YES', 'acceptable'}"
-886,CCS(=O)(=O)NCc1ncccc1Cl,"{'DF curated INTERESTING', 'JA curated YES', 'Knitwork impure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge'}"
-890,CCS(=O)(=O)NCc1ccncc1Cl,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork pure merge', 'Fragmenstein placed', 'JA curated YES', 'acceptable'}"
-897,CCS(=O)(=O)NCc1ccc(OCc2ccccn2)cc1,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork pure merge', 'Fragmenstein placed', 'JA curated YES', 'acceptable'}"
-915,CCS(=O)(=O)NCc1cnccc1C,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork pure merge', 'Fragmenstein placed', 'JA curated YES', 'acceptable'}"
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
 983,CCS(=O)(=O)NCC1CCCC2CC12,"{'DF curated INTERESTING', 'Knitwork impure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge'}"
 1191,CCS(=O)(=O)NCC1CCCN(Cc2cccc3ccccc23)C1,"{'DF curated INTERESTING', 'Knitwork impure merge', 'AC curated INTERESTING', 'Fragmenstein placed', 'Green Site/RNA tunnel merge'}"
 1194,CCS(=O)(=O)NCC1C=CCCCC1,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork impure merge', 'Fragmenstein placed', 'acceptable'}"
 1237,CCS(=O)(=O)N(C)C1CCN(C(=O)Cc2cccnc2)CC1,"{'Thumb Site 2 merge', 'AC curated INTERESTING', 'Knitwork pure merge', 'Fragmenstein placed', 'acceptable'}"
-1345,CCS(=O)(=O)N(C)c1cccnc1,"{'DF curated INTERESTING', 'JA curated YES', 'Thumb Site 2 merge', 'Knitwork impure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge', 'acceptable'}"
+,,
 1453,O=S(=O)(CCc1cnoc1)NC(c1ccncc1)C1CCC1,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork impure merge', 'AC curated INTERESTING', 'Fragmenstein placed', 'acceptable'}"
 1465,CCS(=O)(=O)NCC1CCCC2(CC2)C1,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork impure merge', 'Fragmenstein placed', 'acceptable'}"
 1504,O=S(=O)(CCc1cnoc1)NC(c1cccnc1)C1CC1,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork impure merge', 'AC curated INTERESTING', 'Fragmenstein placed', 'acceptable'}"
@@ -29,10 +29,10 @@ id,smiles,tags
 2600,CC(C)(C)OCC(O)c1ccncn1,"{'Thumb Site 2 merge', 'Knitwork impure merge', 'AC curated INTERESTING', 'Fragmenstein placed', 'acceptable'}"
 2614,CCCN(CCC)S(=O)(=O)NC(C)c1ncccn1,"{'AC curated INTERESTING', 'Knitwork impure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge'}"
 2658,CC(NS(=O)(=O)CC(C)(C)C#N)c1ncccn1,"{'Thumb Site 2 merge', 'Knitwork impure merge', 'AC curated INTERESTING', 'Fragmenstein placed', 'acceptable'}"
-2664,CC(NS(=O)(=O)CC#N)c1ncccn1,"{'DF curated INTERESTING', 'JA curated YES', 'Knitwork impure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge'}"
-2829,CCS(=O)(=O)NCC1CC(=O)N(c2ccc(C)cc2)C1,"{'Green Site/RNA tunnel merge', 'Knitwork impure merge', 'AC curated INTERESTING', 'Fragmenstein placed', 'JA curated YES'}"
-3075,CCS(=O)(=O)NCC1CC(=O)N(c2ccc(Cl)cc2)C1,"{'Thumb Site 2 merge', 'AC curated INTERESTING', 'Knitwork pure merge', 'Fragmenstein placed', 'JA curated YES', 'acceptable'}"
-3098,CCS(=O)(=O)NCc1ccc(C(=O)N2CC(=O)N2)cc1,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork impure merge', 'Fragmenstein placed', 'JA curated YES', 'acceptable'}"
+,,
+,,
+,,
+,,
 3859,CC(C)(C(=O)NCCN1CCCC1=O)c1cc(C(F)(F)F)ccn1,"{'JA curated INTERESTING', 'Knitwork pure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge', 'acceptable'}"
 3914,CCS(=O)(=O)NCC1CN(c2ncc(F)cn2)Cc2cncn21,"{'DF curated INTERESTING', 'AC curated INTERESTING', 'Knitwork pure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge'}"
 4621,O=C1CCCN1C1CCN(c2ncccc2OC(F)F)C1,"{'JA curated INTERESTING', 'Knitwork pure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge', 'acceptable'}"
@@ -48,7 +48,7 @@ id,smiles,tags
 5850,C=CC(C)(CC)NS(=O)(=O)c1cscn1,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork impure merge', 'Fragmenstein placed', 'acceptable'}"
 5927,CC(NS(=O)(=O)CC(C)C(C)(F)F)c1nccs1,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork impure merge', 'Fragmenstein placed', 'acceptable'}"
 6140,CC(NS(=O)(=O)CBr)c1cncs1,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork impure merge', 'Fragmenstein placed', 'acceptable'}"
-6353,CCCS(=O)(=O)NC(C)c1cccnc1,"{'DF curated INTERESTING', 'JA curated YES', 'Knitwork pure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge'}"
+,,
 6445,CCCCN(O)C(=O)c1ccccn1,"{'Thumb Site 2 merge', 'Knitwork impure merge', 'AC curated INTERESTING', 'Fragmenstein placed', 'acceptable'}"
 6465,CC(CCNS(=O)(=O)Cc1ccncc1)C(F)F,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork impure merge', 'Fragmenstein placed', 'acceptable'}"
 6489,CCCC(NS(=O)(=O)CC(C)(C)C(F)(F)F)c1ccccn1,"{'Thumb Site 2 merge', 'Knitwork impure merge', 'AC curated INTERESTING', 'Fragmenstein placed', 'acceptable'}"
@@ -63,8 +63,8 @@ id,smiles,tags
 6945,CC(C)(C)OCC(O)c1ccccn1,"{'AC curated INTERESTING', 'Knitwork pure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge'}"
 6950,CCC(NS(=O)(=O)CCC(F)(F)C(F)F)c1cccnc1,"{'DF curated INTERESTING', 'Thumb Site 2 merge', 'Knitwork impure merge', 'AC curated YES', 'Fragmenstein placed', 'acceptable'}"
 6954,O=C1C=C(c2ccccn2)CCCC1,"{'Thumb Site 2 merge', 'Knitwork impure merge', 'AC curated YES', 'Fragmenstein placed', 'acceptable'}"
-7755,CCS(=O)(=O)NCc1nc2cc(Cl)ccc2[nH]1,"{'DF curated INTERESTING', 'JA curated YES', 'Knitwork impure merge', 'AC curated INTERESTING', 'Fragmenstein placed', 'Green Site/RNA tunnel merge'}"
-8588,CCS(=O)(=O)NCc1ccc(C=CC(=O)O)s1,"{'Thumb Site 2 merge', 'AC curated YES', 'Knitwork pure merge', 'Fragmenstein placed', 'JA curated YES', 'acceptable'}"
+,,
+,,
 8715,c1cc(-c2cnc[nH]2)ccn1,"{'Primer grip/N-pocket merge', 'Knitwork impure merge', 'DF curated YES', 'AC curated YES', 'Fragmenstein placed', 'acceptable'}"
 9207,CCOC(=O)CC(C)OC(=O)c1ccnn1-c1ccncc1,"{'Primer grip/N-pocket merge', 'Knitwork impure merge', 'AC curated INTERESTING', 'Fragmenstein placed', 'Green Site/RNA tunnel merge', 'acceptable'}"
 9237,C=C(Cn1ccnc1)C(=O)NC(CO)Cc1cccnc1,"{'Knitwork impure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge', 'AC curated YES'}"
@@ -192,7 +192,7 @@ id,smiles,tags
 67403,O=C(Nc1ccn(Cc2cccnc2)c1)C1CCCO1,"{'SeeSAR', 'DF'}"
 67404,Cc1sc(C(C)NC(=O)C(C)C)c(C)c1CCNc1ccn(Cc2cccnc2)c1,"{'Primer grip/N-pocket merge', 'Fragmenstein pure merge', 'AC curated INTERESTING', 'Fragmenstein placed', 'acceptable'}"
 67405,c1cncc(Cn2ccc(Nc3cccnc3-n3cccc3)c2)c1,"{'DF curated INTERESTING', 'Primer grip/N-pocket merge', 'Fragmenstein pure merge', 'DF', 'SeeSAR', 'Fragmenstein placed', 'acceptable'}"
-67410,N#Cc1nc[nH]c1Nc1cccn1Cc1cccnc1,"{'Primer grip/N-pocket merge', 'Fragmenstein pure merge', 'DF curated YES', 'Fragmenstein placed', 'JA curated YES', 'acceptable'}"
+,,
 67424,O=C(Nc1ccc(Cc2cccnc2)cn1)C1CCCO1,"{'SeeSAR', 'DF'}"
 67427,Cc1ncc(Cc2ccc(NC(=O)C3CCCO3)nc2)s1,"{'SeeSAR', 'DF'}"
 67659,COc1c(CC(=O)O)cc(CC(=O)O)cc1-c1ccc(C#CCO)s1,"{'Primer grip/N-pocket merge', 'Fragmenstein pure merge', 'DF curated YES', 'Fragmenstein placed', 'acceptable'}"
@@ -200,13 +200,13 @@ id,smiles,tags
 67721,Nc1c(CC(=O)O)cc(CC(=O)O)cc1-c1ccccc1,"{'Primer grip/N-pocket merge', 'Fragmenstein pure merge', 'DF curated YES', 'AC curated YES', 'Fragmenstein placed', 'acceptable'}"
 67990,Cc1cc2cccc(NCC3CCNC3)n2n1,"{'DF curated INTERESTING', 'Fragmenstein pure merge', 'Fragmenstein placed', 'Green Site/RNA tunnel merge', 'acceptable'}"
 68657,Nc1nc(-c2ccc(N(CC(=O)N3CCOCC3)C3CCCCC3)cc2)cs1,"{'Fragmenstein pure merge', 'Thumb Site 2 merge', 'AC curated INTERESTING', 'Fragmenstein placed', 'acceptable'}"
-68667,CCS(=O)(=O)NCc1ccc2c(c1)OC(Oc1ccc(S(=O)(=O)N3CCNCC3)cc1)O2,"{'Fragmenstein pure merge', 'Thumb Site 2 merge', 'DF curated YES', 'Fragmenstein placed', 'JA curated YES', 'acceptable'}"
+,,
 68673,CCc1c(NCc2ccc3c(c2)OCO3)n[nH]c1O,"{'DF curated INTERESTING', 'Fragmenstein pure merge', 'Thumb Site 2 merge', 'Fragmenstein placed', 'acceptable'}"
 68932,Cc1cc(Cn2[nH]c3c(c2=O)CCCC3)on1,"{'DF curated INTERESTING', 'Fragmenstein pure merge', 'Thumb Site 2 merge', 'Fragmenstein placed', 'acceptable'}"
 68987,CC1CCN(S(=O)(=O)N2CC(c3ccccc3)C2)C1,"{'DF curated INTERESTING', 'Fragmenstein pure merge', 'Thumb Site 2 merge', 'Fragmenstein placed', 'acceptable'}"
 69057,Cc1cnc(N(C)CC2CCOC2)c(Cl)c1,"{'DF curated INTERESTING', 'Fragmenstein pure merge', 'Thumb Site 2 merge', 'Fragmenstein placed', 'acceptable'}"
 69116,N#Cc1ccc(Cn2cnc3ccccc32)cc1O,"{'DF curated INTERESTING', 'Fragmenstein pure merge', 'Thumb Site 2 merge', 'Fragmenstein placed', 'acceptable'}"
-69322,NC(c1ccccc1)c1ccc(-c2cc(CC(=O)O)cc(CC(=O)O)c2)s1,"{'DF curated INTERESTING', 'Fragmenstein pure merge', 'Thumb Site 2 merge', 'Fragmenstein placed', 'JA curated YES', 'acceptable'}"
+,,
 70811,Nc1cccnc1-n1ccc(C#CCO)c1,"{'SeeSAR', 'DF'}"
 70812,COc1cccnc1-n1ccc(C#CCO)c1,"{'SeeSAR', 'DF'}"
 70813,CNc1cccnc1-n1ccc(C#CCO)c1,"{'SeeSAR', 'DF'}"
