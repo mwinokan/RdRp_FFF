@@ -1,0 +1,111 @@
+,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+0,C3098,CCS(=O)(=O)NCc1ccc(C(=O)N2CC(=O)N2)cc1,Amidation,O=C1CNN1,CCS(=O)(=O)NCc1ccc(C(=O)O)cc1,CCS(=O)(=O)NCc1ccc(C(=O)N2CC(=O)N2)cc1,,,,d0174a,d0566a,,d0174a,C3098
+1,C36458,Cc1cnccc1NC(=O)Cc1coc2ccccc12,Amidation,Cc1cnccc1N,O=C(O)Cc1coc2ccccc12,Cc1cnccc1NC(=O)Cc1coc2ccccc12,,,,d0472b,3vws-a,3vws-b,d0472b,C36458
+2,C44380,CC(CN1CCCC1=O)NC(=O)C=Cc1ccc2c(c1)CCCN2C,Amidation,CC(N)CN1CCCC1=O,CN1CCCc2cc(C=CC(=O)O)ccc21,CC(CN1CCCC1=O)NC(=O)C=Cc1ccc2c(c1)CCCN2C,,,,z0364a,z1018a,z0875c,z0364a,C44380
+3,C20299,O=C(Nc1cccnc1C1CC1)c1cn[nH]c1,Amidation,O=C(O)c1cn[nH]c1,Nc1cccnc1C1CC1,O=C(Nc1cccnc1C1CC1)c1cn[nH]c1,,,,d0160a,d0472a,,d0160a,C20299
+4,C28013,Cc1ccc(NC(=O)c2ccncc2)c2cccnc12,Amidation,O=C(O)c1ccncc1,Cc1ccc(N)c2cccnc12,Cc1ccc(NC(=O)c2ccncc2)c2cccnc12,,,,d0472b,z1040a,z1040a,d0472b,C28013
+5,C29639,O=C(Nc1ccc(Cl)c2ncccc12)c1ccncc1,Amidation,O=C(O)c1ccncc1,Nc1ccc(Cl)c2ncccc12,O=C(Nc1ccc(Cl)c2ncccc12)c1ccncc1,,,,z0221a,z1040a,,z0221a,C29639
+6,C34583,O=C(CCc1csc2ccccc12)NC1CCNC2(CC2)C1,Amidation,O=C(O)CCc1csc2ccccc12,NC1CCNC2(CC2)C1,O=C(CCc1csc2ccccc12)NC1CCNC2(CC2)C1,,,,z0384a,3vws-b,,z0384a,C34583
+7,C55535,O=C(Cc1cc2ccccc2o1)NCc1nsc2ccccc12,Amidation,O=C(O)Cc1cc2ccccc2o1,NCc1nsc2ccccc12,O=C(Cc1cc2ccccc2o1)NCc1nsc2ccccc12,,,,z0111a,3vws-b,,z0111a,C55535
+8,C4093,O=C1CCCN1CCNC(=O)C1(c2ccccn2)CC1,Amidation,NCCN1CCCC1=O,O=C(O)C1(c2ccccn2)CC1,O=C1CCCN1CCNC(=O)C1(c2ccccn2)CC1,,,,d0472b,z1018a,,d0472b,C4093
+9,C41552,O=C(Cc1ccn(C2CCCC2)n1)NCCN1CCCC1=O,Amidation,NCCN1CCCC1=O,O=C(O)Cc1ccn(C2CCCC2)n1,O=C(Cc1ccn(C2CCCC2)n1)NCCN1CCCC1=O,,,,z0215a,z1018a,,z0215a,C41552
+10,C19774,CC(NC(=O)c1ccnc(-n2cccc2)c1)c1ncc[nH]1,Amidation,CC(N)c1ncc[nH]1,O=C(O)c1ccnc(-n2cccc2)c1,CC(NC(=O)c1ccnc(-n2cccc2)c1)c1ncc[nH]1,,,,d0472a,z0103a,,d0472a,C19774
+11,C28628,O=C(NCCc1cccc2ccccc12)c1cccc2cc[nH]c12,Amidation,O=C(O)c1cccc2cc[nH]c12,NCCc1cccc2ccccc12,O=C(NCCc1cccc2ccccc12)c1cccc2cc[nH]c12,,,,z0041a,3vws-b,,z0041a,C28628
+12,C65404,CC(CN1CCCC1=O)NC(=O)c1cccc2ncccc12,Amidation,O=C(O)c1cccc2ncccc12,CC(N)CN1CCCC1=O,CC(CN1CCCC1=O)NC(=O)c1cccc2ncccc12,,,,z1018a,z1040a,,z1018a,C65404
+13,C65434,COc1ccc2cccnc2c1CNC(=O)CCN1CCCC1=O,Amidation,O=C(O)CCN1CCCC1=O,COc1ccc2cccnc2c1CN,COc1ccc2cccnc2c1CNC(=O)CCN1CCCC1=O,,,,z1018a,z1040a,,z1018a,C65434
+14,C28301,CCn1cc(NC(=O)CCCc2csc3ccccc23)cn1,Amidation,CCn1cc(N)cn1,O=C(O)CCCc1csc2ccccc12,CCn1cc(NC(=O)CCCc2csc3ccccc23)cn1,,,,z0653a,3vws-a,,z0653a,C28301
+15,C52471,CC(CN1CCCC1=O)NC(=O)Cc1n[nH]c2c1CCCC2,Amidation,CC(N)CN1CCCC1=O,O=C(O)Cc1n[nH]c2c1CCCC2,CC(CN1CCCC1=O)NC(=O)Cc1n[nH]c2c1CCCC2,,,,z0936a,z1018a,,z0936a,C52471
+16,C65691,O=C(NCCN1CCCC1=O)c1cc(O)nc2ccccc12,Amidation,NCCN1CCCC1=O,O=C(O)c1cc(O)nc2ccccc12,O=C(NCCN1CCCC1=O)c1cc(O)nc2ccccc12,,,,z1018a,z1040a,,z1018a,C65691
+17,C35920,O=C(CCCc1ccncc1)NCc1coc2ccccc12,Amidation,NCc1coc2ccccc12,O=C(O)CCCc1ccncc1,O=C(CCCc1ccncc1)NCc1coc2ccccc12,,,,d0472b,3vws-a,,d0472b,C35920
+18,C13884,CC(C)CC(NC(=O)c1cnc(-c2ccccn2)s1)C(F)(F)F,Amidation,O=C(O)c1cnc(-c2ccccn2)s1,CC(C)CC(N)C(F)(F)F,CC(C)CC(NC(=O)c1cnc(-c2ccccn2)s1)C(F)(F)F,,,,d0264a,d0472a,,d0264a,C13884
+19,C23289,CC(CC(=O)Nc1c[nH]nc1-c1nccs1)N1CCCCC1=O,Amidation,Nc1c[nH]nc1Br,CC(CC(=O)O)N1CCCCC1=O,CC(CC(=O)Nc1c[nH]nc1Br)N1CCCCC1=O,Sp2-sp2 Suzuki coupling,OB(O)c1nccs1,CC(CC(=O)Nc1c[nH]nc1-c1nccs1)N1CCCCC1=O,z0215a,z1018a,,z0215a,C23289
+20,C23289,CC(CC(=O)Nc1c[nH]nc1-c1nccs1)N1CCCCC1=O,Amidation,Nc1c[nH]nc1Cl,CC(CC(=O)O)N1CCCCC1=O,CC(CC(=O)Nc1c[nH]nc1Cl)N1CCCCC1=O,Sp2-sp2 Suzuki coupling,CC1(C)OB(c2nccs2)OC1(C)C,CC(CC(=O)Nc1c[nH]nc1-c1nccs1)N1CCCCC1=O,z0215a,z1018a,,z0215a,C23289
+21,C36458,Cc1cnccc1NC(=O)Cc1coc2ccccc12,Amidation,O=C(O)Cc1coc2ccccc12,Cc1cnccc1N,Cc1cnccc1NC(=O)Cc1coc2ccccc12,,,,d0472b,3vws-a,,d0472b,C36458
+22,C44380,CC(CN1CCCC1=O)NC(=O)C=Cc1ccc2c(c1)CCCN2C,Amidation,CN1CCCc2cc(C=CC(=O)O)ccc21,CC(N)CN1CCCC1=O,CC(CN1CCCC1=O)NC(=O)C=Cc1ccc2c(c1)CCCN2C,,,,z0364a,z1018a,,z0364a,C44380
+23,C56786,O=C(Cc1noc2ccccc12)NCCc1cc2ccccc2o1,Amidation,O=C(O)Cc1noc2ccccc12,NCCc1cc2ccccc2o1,O=C(Cc1noc2ccccc12)NCCc1cc2ccccc2o1,,,,z0111a,3vws-b,,z0111a,C56786
+24,C65691,O=C(NCCN1CCCC1=O)c1cc(O)nc2ccccc12,Amidation,O=C(O)c1cc(O)nc2ccccc12,NCCN1CCCC1=O,O=C(NCCN1CCCC1=O)c1cc(O)nc2ccccc12,,,,z1018a,z1040a,,z1018a,C65691
+25,C34583,O=C(CCc1csc2ccccc12)NC1CCNC2(CC2)C1,Amidation,O=C(O)CCc1csc2ccccc12,CC(C)(C)OC(=O)N1CCC(N)CC12CC2,CC(C)(C)OC(=O)N1CCC(NC(=O)CCc2csc3ccccc23)CC12CC2,N-Boc deprotection,CC(C)(C)OC(=O)N1CCC(NC(=O)CCc2csc3ccccc23)CC12CC2,O=C(CCc1csc2ccccc12)NC1CCNC2(CC2)C1,z0384a,3vws-b,,z0384a,C34583
+26,C19774,CC(NC(=O)c1ccnc(-n2cccc2)c1)c1ncc[nH]1,Amidation,O=C(O)c1ccnc(I)c1,CC(N)c1ncc[nH]1,CC(NC(=O)c1ccnc(I)c1)c1ncc[nH]1,Iodo N-arylation,c1cc[nH]c1,CC(NC(=O)c1ccnc(-n2cccc2)c1)c1ncc[nH]1,d0472a,z0103a,,d0472a,C19774
+27,C55535,O=C(Cc1cc2ccccc2o1)NCc1nsc2ccccc12,Amide Schotten-Baumann with amine,O=C(Cl)Cc1cc2ccccc2o1,NCc1nsc2ccccc12,O=C(Cc1cc2ccccc2o1)NCc1nsc2ccccc12,,,,z0111a,3vws-b,,z0111a,C55535
+28,C54938,O=C1CCCCN1CCCNc1ccnc2ccc([N+](=O)[O-])cc12,Buchwald-Hartwig amination,O=[N+]([O-])c1ccc2nccc(Br)c2c1,NCCCN1CCCCC1=O,O=C1CCCCN1CCCNc1ccnc2ccc([N+](=O)[O-])cc12,,,,z1018a,z1040a,,z1018a,C54938
+29,C37923,CCOC(=O)c1cnccc1NCC(C)(O)COC,Buchwald-Hartwig amination,COCC(C)(O)CN,CCOC(=O)c1cnccc1Cl,CCOC(=O)c1cnccc1NCC(C)(O)COC,,,,z0628a,z0637a,,z0628a,C37923
+30,C54938,O=C1CCCCN1CCCNc1ccnc2ccc([N+](=O)[O-])cc12,Buchwald-Hartwig amination,O=[N+]([O-])c1ccc2nccc(Cl)c2c1,NCCCN1CCCCC1=O,O=C1CCCCN1CCCNc1ccnc2ccc([N+](=O)[O-])cc12,,,,z1018a,z1040a,,z1018a,C54938
+31,C12548,Cc1cnccc1NCc1c[nH]cn1,Buchwald-Hartwig amination,NCc1c[nH]cn1,Cc1cnccc1Br,Cc1cnccc1NCc1c[nH]cn1,,,,d0615b,z0875c,,z0875c,C12548
+32,C12548,Cc1cnccc1NCc1c[nH]cn1,Chan-Lam coupling (amination),NCc1c[nH]cn1,Cc1cnccc1B(O)O,Cc1cnccc1NCc1c[nH]cn1,,,,d0615b,z0875c,,z0875c,C12548
+33,C56786,O=C(Cc1noc2ccccc12)NCCc1cc2ccccc2o1,Ester amidation,NCCc1cc2ccccc2o1,CCOC(=O)Cc1noc2ccccc12,O=C(Cc1noc2ccccc12)NCCc1cc2ccccc2o1,,,,z0111a,3vws-b,,z0111a,C56786
+34,C1443,CC(C)(CO)NC(=O)c1csc(-c2ccsc2)n1,Ester amidation,CCOC(=O)c1csc(-c2ccsc2)n1,CC(C)(N)CO,CC(C)(CO)NC(=O)c1csc(-c2ccsc2)n1,,,,d0248a,d0376a,,d0248a,C1443
+35,C20299,O=C(Nc1cccnc1C1CC1)c1cn[nH]c1,Ester amidation,Nc1cccnc1C1CC1,COC(=O)c1cn[nH]c1,O=C(Nc1cccnc1C1CC1)c1cn[nH]c1,,,,d0160a,d0472a,,d0160a,C20299
+36,C4093,O=C1CCCN1CCNC(=O)C1(c2ccccn2)CC1,Ester amidation,NCCN1CCCC1=O,COC(=O)C1(c2ccccn2)CC1,O=C1CCCN1CCNC(=O)C1(c2ccccn2)CC1,,,,d0472b,z1018a,,d0472b,C4093
+37,C41552,O=C(Cc1ccn(C2CCCC2)n1)NCCN1CCCC1=O,Ester amidation,NCCN1CCCC1=O,COC(=O)Cc1ccn(C2CCCC2)n1,O=C(Cc1ccn(C2CCCC2)n1)NCCN1CCCC1=O,,,,z0215a,z1018a,,z0215a,C41552
+38,C28628,O=C(NCCc1cccc2ccccc12)c1cccc2cc[nH]c12,Ester amidation,NCCc1cccc2ccccc12,CCOC(=O)c1cccc2cc[nH]c12,O=C(NCCc1cccc2ccccc12)c1cccc2cc[nH]c12,,,,z0041a,3vws-b,,z0041a,C28628
+39,C28628,O=C(NCCc1cccc2ccccc12)c1cccc2cc[nH]c12,Ester amidation,NCCc1cccc2ccccc12,COC(=O)c1cccc2cc[nH]c12,O=C(NCCc1cccc2ccccc12)c1cccc2cc[nH]c12,,,,z0041a,3vws-b,,z0041a,C28628
+40,C65404,CC(CN1CCCC1=O)NC(=O)c1cccc2ncccc12,Ester amidation,COC(=O)c1cccc2ncccc12,CC(N)CN1CCCC1=O,CC(CN1CCCC1=O)NC(=O)c1cccc2ncccc12,,,,z1018a,z1040a,,z1018a,C65404
+41,C65404,CC(CN1CCCC1=O)NC(=O)c1cccc2ncccc12,Ester amidation,CCOC(=O)c1cccc2ncccc12,CC(N)CN1CCCC1=O,CC(CN1CCCC1=O)NC(=O)c1cccc2ncccc12,,,,z1018a,z1040a,,z1018a,C65404
+42,C35920,O=C(CCCc1ccncc1)NCc1coc2ccccc12,Ester amidation,NCc1coc2ccccc12,CCOC(=O)CCCc1ccncc1,O=C(CCCc1ccncc1)NCc1coc2ccccc12,,,,d0472b,3vws-a,,d0472b,C35920
+43,C35920,O=C(CCCc1ccncc1)NCc1coc2ccccc12,Ester amidation,NCc1coc2ccccc12,COC(=O)CCCc1ccncc1,O=C(CCCc1ccncc1)NCc1coc2ccccc12,,,,d0472b,3vws-a,,d0472b,C35920
+44,C13884,CC(C)CC(NC(=O)c1cnc(-c2ccccn2)s1)C(F)(F)F,Ester amidation,CCOC(=O)c1cnc(-c2ccccn2)s1,CC(C)CC(N)C(F)(F)F,CC(C)CC(NC(=O)c1cnc(-c2ccccn2)s1)C(F)(F)F,,,,d0264a,d0472a,,d0264a,C13884
+45,C4091,O=C(OCCCN1CCCC1=O)c1ccnc(C2CC2)c1,Ester Schotten-Baumann,O=C1CCCN1CCCO,O=C(Cl)c1ccnc(C2CC2)c1,O=C(OCCCN1CCCC1=O)c1ccnc(C2CC2)c1,,,,d0566a,d0615a,,d0566a,C4091
+46,C37461,O=C(OCC#CCSc1nnc(-c2ccncc2)o1)c1cc2ccccc2o1,Ester Schotten-Baumann,OCC#CCSc1nnc(-c2ccncc2)o1,O=C(Cl)c1cc2ccccc2o1,O=C(OCC#CCSc1nnc(-c2ccncc2)o1)c1cc2ccccc2o1,,,,z0637a,3vws-a,,z0637a,C37461
+47,C33434,CC(O)CNC(=O)Nc1cccc2cccnc12,Formation of urea from two amines,Nc1cccc2cccnc12,CC(O)CN,CC(O)CNC(=O)Nc1cccc2cccnc12,,,,z0211a,z0881a,,z0211a,C33434
+48,C49374,Cc1cccc(NC(=O)NCC(C)O)n1,Formation of urea from two amines,Cc1cccc(N)n1,CC(O)CN,Cc1cccc(NC(=O)NCC(C)O)n1,,,,z0211a,z0637a,,z0211a,C49374
+49,C43135,CC(NC(=O)Nc1cccc2[nH]ccc12)C(O)C(F)F,Formation of urea from two amines,Nc1cccc2[nH]ccc12,CC(N)C(O)C(F)F,CC(NC(=O)Nc1cccc2[nH]ccc12)C(O)C(F)F,,,,z0041a,z0211a,,z0041a,C43135
+50,C56548,CC(O)CNC(=O)Nc1cc(C2CC2)n(C)n1,Formation of urea from two amines,CC(O)CN,Cn1nc(N)cc1C1CC1,CC(O)CNC(=O)Nc1cc(C2CC2)n(C)n1,,,,z0211a,z0215a,,z0211a,C56548
+51,C35145,CCCn1ccc2ccc(NC(=O)NCC(C)O)cc21,Formation of urea from two amines,CC(O)CN,CCCn1ccc2ccc(N)cc21,CCCn1ccc2ccc(NC(=O)NCC(C)O)cc21,,,,z0136a,z0211a,,z0136a,C35145
+52,C55149,Cc1cc(NC(=O)NCC(C)O)nn1-c1ccccc1,Formation of urea from two amines,CC(O)CN,Cc1cc(N)nn1-c1ccccc1,Cc1cc(NC(=O)NCC(C)O)nn1-c1ccccc1,,,,z0211a,z0215a,,z0211a,C55149
+53,C55156,CC(O)CNC(=O)Nc1cc(-c2ccsc2)nn1C,Formation of urea from two amines,CC(O)CN,Cn1nc(-c2ccsc2)cc1N,CC(O)CNC(=O)Nc1cc(-c2ccsc2)nn1C,,,,z0211a,z0215a,,z0211a,C55156
+54,C55174,CC(O)CNC(=O)Nc1ccn(-c2ncccn2)n1,Formation of urea from two amines,CC(O)CN,Nc1ccn(-c2ncccn2)n1,CC(O)CNC(=O)Nc1ccn(-c2ncccn2)n1,,,,z0211a,z0215a,,z0211a,C55174
+55,C55598,CC(O)CNC(=O)Nc1cccc(-n2cccn2)c1,Formation of urea from two amines,CC(O)CN,Nc1cccc(-n2cccn2)c1,CC(O)CNC(=O)Nc1cccc(-n2cccn2)c1,,,,z0211a,z0215a,,z0211a,C55598
+56,C55856,Cc1ccn(-c2cccc(NC(=O)NCC(C)O)c2)n1,Formation of urea from two amines,CC(O)CN,Cc1ccn(-c2cccc(N)c2)n1,Cc1ccn(-c2cccc(NC(=O)NCC(C)O)c2)n1,,,,z0211a,z0215a,,z0211a,C55856
+57,C49374,Cc1cccc(NC(=O)NCC(C)O)n1,Formation of urea from two amines,CC(O)CN,Cc1cccc(N)n1,Cc1cccc(NC(=O)NCC(C)O)n1,,,,z0211a,z0637a,,z0211a,C49374
+58,C54733,Cc1cc(NC(=O)NCC(C)O)nn1CC(F)(F)F,Formation of urea from two amines,CC(O)CN,Cc1cc(N)nn1CC(F)(F)F,Cc1cc(NC(=O)NCC(C)O)nn1CC(F)(F)F,,,,z0211a,z0215a,,z0211a,C54733
+59,C54945,Cc1cc(NC(=O)NCC(C)O)nn1C1CC1,Formation of urea from two amines,CC(O)CN,Cc1cc(N)nn1C1CC1,Cc1cc(NC(=O)NCC(C)O)nn1C1CC1,,,,z0211a,z0215a,,z0211a,C54945
+60,C55155,COCCCn1ccc(NC(=O)NCC(C)O)n1,Formation of urea from two amines,CC(O)CN,COCCCn1ccc(N)n1,COCCCn1ccc(NC(=O)NCC(C)O)n1,,,,z0211a,z0215a,,z0211a,C55155
+61,C55262,COC(=O)c1cc(NC(=O)NCC(C)O)nn1C,Formation of urea from two amines,CC(O)CN,COC(=O)c1cc(N)nn1C,COC(=O)c1cc(NC(=O)NCC(C)O)nn1C,,,,z0211a,z0215a,,z0211a,C55262
+62,C55996,Cc1cc(NC(=O)NCC(C)O)n(-c2ccccc2)n1,Formation of urea from two amines,CC(O)CN,Cc1cc(N)n(-c2ccccc2)n1,Cc1cc(NC(=O)NCC(C)O)n(-c2ccccc2)n1,,,,z0211a,z0215a,,z0211a,C55996
+63,C56765,CC(O)CNC(=O)Nc1ccn(C2CCC2)n1,Formation of urea from two amines,CC(O)CN,Nc1ccn(C2CCC2)n1,CC(O)CNC(=O)Nc1ccn(C2CCC2)n1,,,,z0211a,z0215a,,z0211a,C56765
+64,C53809,CC(O)CNC(=O)Nc1cccc2c1OC(C)(C)CC2,Formation of urea from two amines,CC(O)CN,CC1(C)CCc2cccc(N)c2O1,CC(O)CNC(=O)Nc1cccc2c1OC(C)(C)CC2,,,,z0211a,z0991a,,z0211a,C53809
+65,C46539,O=C(Nc1cccc2c1OCCC2)NC(CCO)C(F)(F)F,Formation of urea from two amines,Nc1cccc2c1OCCC2,NC(CCO)C(F)(F)F,O=C(Nc1cccc2c1OCCC2)NC(CCO)C(F)(F)F,,,,z0211a,z0991a,,z0211a,C46539
+66,C54862,CCC(C)n1ncc(NC(=O)NCC(C)O)c1C,Formation of urea from two amines,CC(O)CN,CCC(C)n1ncc(N)c1C,CCC(C)n1ncc(NC(=O)NCC(C)O)c1C,,,,z0211a,z0215a,,z0211a,C54862
+67,C48477,CC(=O)c1csc(-c2nccc3ccccc23)n1,Hantzsch thiazole synthesis,NC(=S)c1nccc2ccccc12,CC(=O)C(=O)CCl,CC(=O)c1csc(-c2nccc3ccccc23)n1,,,,z0111a,z0496a,,z0111a,C48477
+68,C44380,CC(CN1CCCC1=O)NC(=O)C=Cc1ccc2c(c1)CCCN2C,Heck reaction (intermolecular),CN1CCCc2cc(Br)ccc21,C=CC(=O)NC(C)CN1CCCC1=O,CC(CN1CCCC1=O)NC(=O)C=Cc1ccc2c(c1)CCCN2C,,,,z0364a,z1018a,,z0364a,C44380
+69,C734,CC(C)n1cc(NC2=NCCCS2)cn1,N-nucleophilic aromatic substitution,NC1=NCCCS1,CC(C)n1cc(Br)cn1,CC(C)n1cc(NC2=NCCCS2)cn1,,,,z0767a,z0892b,,z0767a,C734
+70,C32376,c1ccc(N2CCOc3ccccc3C2)nc1,N-nucleophilic aromatic substitution,c1ccc2c(c1)CNCCO2,Brc1ccccn1,c1ccc(N2CCOc3ccccc3C2)nc1,,,,d0472b,z0581a,,d0472b,C32376
+71,C60663,c1nc2ccc(NCc3ccc4occc4c3)cn2n1,N-nucleophilic aromatic substitution,NCc1ccc2occc2c1,Ic1ccc2ncnn2c1,c1nc2ccc(NCc3ccc4occc4c3)cn2n1,,,,z0521a,3vws-a,,z0521a,C60663
+72,70838,c1ccn(-c2cc(-c3cn[nH]c3-c3ccncc3)ccn2)c1,N-nucleophilic aromatic substitution,c1cc[nH]c1,CC1(C)OB(c2ccnc(Br)c2)OC1(C)C,CC1(C)OB(c2ccnc(-n3cccc3)c2)OC1(C)C,Sp2-sp2 Suzuki coupling,Brc1cn[nH]c1-c1ccncc1,c1ccn(-c2cc(-c3cn[nH]c3-c3ccncc3)ccn2)c1,d0160a,d0472a,z0875c,d0160a,70838
+73,C49503,Cc1nc(CNc2nccc3ccccc23)cs1,N-nucleophilic aromatic substitution,Ic1nccc2ccccc12,Cc1nc(CN)cs1,Cc1nc(CNc2nccc3ccccc23)cs1,,,,z0111a,z0496a,,z0111a,C49503
+74,C49503,Cc1nc(CNc2nccc3ccccc23)cs1,N-nucleophilic aromatic substitution,Cc1nc(CN)cs1,Brc1nccc2ccccc12,Cc1nc(CNc2nccc3ccccc23)cs1,,,,z0111a,z0496a,,z0111a,C49503
+75,C734,CC(C)n1cc(NC2=NCCCS2)cn1,N-nucleophilic aromatic substitution,NC1=NCCCS1,CC(C)n1cc(I)cn1,CC(C)n1cc(NC2=NCCCS2)cn1,,,,z0767a,z0892b,,z0767a,C734
+76,C32376,c1ccc(N2CCOc3ccccc3C2)nc1,N-nucleophilic aromatic substitution,c1ccc2c(c1)CNCCO2,Ic1ccccn1,c1ccc(N2CCOc3ccccc3C2)nc1,,,,d0472b,z0581a,,d0472b,C32376
+77,C60663,c1nc2ccc(NCc3ccc4occc4c3)cn2n1,N-nucleophilic aromatic substitution,NCc1ccc2occc2c1,Clc1ccc2ncnn2c1,c1nc2ccc(NCc3ccc4occc4c3)cn2n1,,,,z0521a,3vws-a,,z0521a,C60663
+78,C54938,O=C1CCCCN1CCCNc1ccnc2ccc([N+](=O)[O-])cc12,N-nucleophilic aromatic substitution,O=[N+]([O-])c1ccc2nccc(Br)c2c1,NCCCN1CCCCC1=O,O=C1CCCCN1CCCNc1ccnc2ccc([N+](=O)[O-])cc12,,,,z1018a,z1040a,,z1018a,C54938
+79,C65515,O=C1CCCN1C1CCN(c2c(Br)cnc3ccccc23)C1,N-nucleophilic aromatic substitution,O=C1CCCN1C1CCNC1,Clc1c(Br)cnc2ccccc12,O=C1CCCN1C1CCN(c2c(Br)cnc3ccccc23)C1,,,,z1018a,z1040a,,z1018a,C65515
+80,C12483,Nc1cc(NCc2c[nH]cn2)ccn1,N-nucleophilic aromatic substitution,Nc1cc(F)ccn1,NCc1c[nH]cn1,Nc1cc(NCc2c[nH]cn2)ccn1,,,,d0191a,z0103a,,d0191a,C12483
+81,C68384,Cn1c(=O)n(CCN2CCCC2=O)c(=S)c2ccccc21,Nucleophilic substitution with amine,O=C1CCCN1CCI,Cn1c(=O)[nH]c(=S)c2ccccc21,Cn1c(=O)n(CCN2CCCC2=O)c(=S)c2ccccc21,,,,z0309a,z1018a,,z0309a,C68384
+82,67403,O=C(Nc1ccn(Cc2cccnc2)c1)C1CCCO1,Nucleophilic substitution with amine,Nc1cc[nH]c1,BrCc1cccnc1,Nc1ccn(Cc2cccnc2)c1,Ester amidation,CC(C)(C)OC(=O)C1CCCO1,O=C(Nc1ccn(Cc2cccnc2)c1)C1CCCO1,d0191a,d0254a,,d0191a,67403
+83,70839,c1cncc(Cn2ccc(-c3cccnc3-n3cccc3)c2)c1,Nucleophilic substitution with amine,ClCc1cccnc1,CC1(C)OB(c2cc[nH]c2)OC1(C)C,CC1(C)OB(c2ccn(Cc3cccnc3)c2)OC1(C)C,Sp2-sp2 Suzuki coupling,Clc1cccnc1-n1cccc1,c1cncc(Cn2ccc(-c3cccnc3-n3cccc3)c2)c1,d0191a,d0472a,,d0191a,70839
+84,C68384,Cn1c(=O)n(CCN2CCCC2=O)c(=S)c2ccccc21,Nucleophilic substitution with amine,O=c1[nH]c(=S)c2ccccc2[nH]1,O=C1CCCN1CCCl,O=C1CCCN1CCn1c(=O)[nH]c2ccccc2c1=S,Nucleophilic substitution with amine,CI,Cn1c(=O)n(CCN2CCCC2=O)c(=S)c2ccccc21,z0309a,z1018a,,z0309a,C68384
+85,C60663,c1nc2ccc(NCc3ccc4occc4c3)cn2n1,Nucleophilic substitution with amine,Nc1ccc2ncnn2c1,ClCc1ccc2occc2c1,c1nc2ccc(NCc3ccc4occc4c3)cn2n1,,,,z0521a,3vws-a,,z0521a,C60663
+86,C10275,OC1COCC1CNCc1ccn[nH]1,Nucleophilic substitution with amine,NCC1COCC1O,BrCc1ccn[nH]1,OC1COCC1CNCc1ccn[nH]1,,,,d0160a,d0254a,,d0160a,C10275
+87,C10275,OC1COCC1CNCc1ccn[nH]1,Nucleophilic substitution with amine,NCC1COCC1O,ClCc1ccn[nH]1,OC1COCC1CNCc1ccn[nH]1,,,,d0160a,d0254a,,d0160a,C10275
+88,C49503,Cc1nc(CNc2nccc3ccccc23)cs1,Reductive amination,Cc1nc(C=O)cs1,Nc1nccc2ccccc12,Cc1nc(CNc2nccc3ccccc23)cs1,,,,z0111a,z0496a,,z0111a,C49503
+89,C10275,OC1COCC1CNCc1ccn[nH]1,Reductive amination,O=Cc1cc[nH]n1,NCC1COCC1O,OC1COCC1CNCc1ccn[nH]1,,,,d0160a,d0254a,,d0160a,C10275
+90,C12548,Cc1cnccc1NCc1c[nH]cn1,Reductive amination,Cc1cnccc1N,O=Cc1c[nH]cn1,Cc1cnccc1NCc1c[nH]cn1,,,,d0615b,z0875c,,z0875c,C12548
+91,C34650,c1ccc(CNc2ccc3ccoc3c2)nc1,Reductive amination,Nc1ccc2ccoc2c1,O=Cc1ccccn1,c1ccc(CNc2ccc3ccoc3c2)nc1,,,,z0637a,3vws-a,,z0637a,C34650
+92,C36233,Fc1ccc2c(c1)N(Cc1cnc[nH]1)CCC2,Reductive amination,O=Cc1cnc[nH]1,Fc1ccc2c(c1)NCCC2,Fc1ccc2c(c1)N(Cc1cnc[nH]1)CCC2,,,,d0378a,z0904a,,d0378a,C36233
+93,C56537,Brc1ccnc2c(NCc3ccncc3)cccc12,Reductive amination,O=Cc1ccncc1,Nc1cccc2c(Br)ccnc12,Brc1ccnc2c(NCc3ccncc3)cccc12,,,,z0221a,z1040a,,z0221a,C56537
+94,C61386,c1cnc2c(c1)CCCC2NCc1cccnc1N1CCCC1,Reductive amination,O=Cc1cccnc1N1CCCC1,NC1CCCc2cccnc21,c1cnc2c(c1)CCCC2NCc1cccnc1N1CCCC1,,,,d0472b,z0200a,,d0472b,C61386
+95,70817,COc1cc(C)cnc1-n1ccc(C#CCO)c1,Sonogashira coupling,C#CCO,Brc1cc[nH]c1,OCC#Cc1cc[nH]c1,N-nucleophilic aromatic substitution,COc1cc(C)cnc1Cl,COc1cc(C)cnc1-n1ccc(C#CCO)c1,d0472a,5hmz-a,,d0472a,70817
+96,C48477,CC(=O)c1csc(-c2nccc3ccccc23)n1,Sp2-sp2 Suzuki coupling,CC1(C)OB(c2nccc3ccccc23)OC1(C)C,CC(=O)c1csc(Br)n1,CC(=O)c1csc(-c2nccc3ccccc23)n1,,,,z0111a,z0496a,,z0111a,C48477
+97,C49455,Nc1csc(-c2nccc3ccccc23)n1,Sp2-sp2 Suzuki coupling,CC1(C)OB(c2nccc3ccccc23)OC1(C)C,Nc1csc(Br)n1,Nc1csc(-c2nccc3ccccc23)n1,,,,z0111a,z0496a,,z0111a,C49455
+98,C66259,Cc1c[nH]nc1-c1cccc(NC(=O)C2CCCO2)n1,Sp2-sp2 Suzuki coupling,O=C(Nc1cccc(Cl)n1)C1CCCO1,Cc1c[nH]nc1B1OC(C)(C)C(C)(C)O1,Cc1c[nH]nc1-c1cccc(NC(=O)C2CCCO2)n1,,,,d0160a,d0254a,,d0160a,C66259
+99,C48477,CC(=O)c1csc(-c2nccc3ccccc23)n1,Sp2-sp2 Suzuki coupling,OB(O)c1nccc2ccccc12,CC(=O)c1csc(Cl)n1,CC(=O)c1csc(-c2nccc3ccccc23)n1,,,,z0111a,z0496a,,z0111a,C48477
+100,67424,O=C(Nc1ccc(Cc2cccnc2)cn1)C1CCCO1,Sp3-sp2 Suzuki coupling,O=C(Nc1ccc(Cl)cn1)C1CCCO1,CC1(C)OB(Cc2cccnc2)OC1(C)C,O=C(Nc1ccc(Cc2cccnc2)cn1)C1CCCO1,,,,d0160a,d0254a,,d0160a,67424
+101,C34583,O=C(CCc1csc2ccccc12)NC1CCNC2(CC2)C1,Sp3-sp2 Suzuki coupling,Ic1csc2ccccc12,CC(C)(C)OC(=O)CCB(O)O,CC(C)(C)OC(=O)CCc1csc2ccccc12,Ester amidation,NC1CCNC2(CC2)C1,O=C(CCc1csc2ccccc12)NC1CCNC2(CC2)C1,z0384a,3vws-b,,z0384a,C34583
+102,C60687,Cc1oc2ccccc2c1C(=O)OCc1ccn2ncnc2c1,Steglich esterification,OCc1ccn2ncnc2c1,Cc1oc2ccccc2c1C(=O)O,Cc1oc2ccccc2c1C(=O)OCc1ccn2ncnc2c1,,,,z0521a,3vws-b,,z0521a,C60687
+103,C28106,O=C(OCCN1CCCc2ccccc21)c1ncsc1Br,Steglich esterification,OCCN1CCCc2ccccc21,O=C(O)c1ncsc1Br,O=C(OCCN1CCCc2ccccc21)c1ncsc1Br,,,,z0165a,z0628a,,z0165a,C28106
+104,C4091,O=C(OCCCN1CCCC1=O)c1ccnc(C2CC2)c1,Steglich esterification,O=C1CCCN1CCCO,O=C(O)c1ccnc(C2CC2)c1,O=C(OCCCN1CCCC1=O)c1ccnc(C2CC2)c1,,,,d0566a,d0615a,,d0566a,C4091
+105,C45330,CCOC(=O)C1CCCc2ccccc21,Steglich esterification,CCO,O=C(O)C1CCCc2ccccc21,CCOC(=O)C1CCCc2ccccc21,,,,z0165a,z0628a,,z0165a,C45330
+106,C47311,CCOC(=O)C1c2occc2CCC12CC2,Steglich esterification,CCO,O=C(O)C1c2occc2CCC12CC2,CCOC(=O)C1c2occc2CCC12CC2,,,,z0165a,z0628a,,z0165a,C47311
+107,C37461,O=C(OCC#CCSc1nnc(-c2ccncc2)o1)c1cc2ccccc2o1,Steglich esterification,O=C(O)c1cc2ccccc2o1,OCC#CCSc1nnc(-c2ccncc2)o1,O=C(OCC#CCSc1nnc(-c2ccncc2)o1)c1cc2ccccc2o1,,,,z0637a,3vws-a,,z0637a,C37461
+108,C45330,CCOC(=O)C1CCCc2ccccc21,Steglich esterification,O=C(O)C1CCCc2ccccc21,CCO,CCOC(=O)C1CCCc2ccccc21,,,,z0165a,z0628a,,z0165a,C45330
+109,C37461,O=C(OCC#CCSc1nnc(-c2ccncc2)o1)c1cc2ccccc2o1,Steglich esterification,OCC#CCSc1nnc(-c2ccncc2)o1,O=C(O)c1cc2ccccc2o1,O=C(OCC#CCSc1nnc(-c2ccncc2)o1)c1cc2ccccc2o1,,,,z0637a,3vws-a,,z0637a,C37461
