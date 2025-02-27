@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+68,C44380,CC(CN1CCCC1=O)NC(=O)C=Cc1ccc2c(c1)CCCN2C,Heck reaction (intermolecular),CN1CCCc2cc(Br)ccc21,C=CC(=O)NC(C)CN1CCCC1=O,CC(CN1CCCC1=O)NC(=O)C=Cc1ccc2c(c1)CCCN2C,,,,z0364a,z1018a,,z0364a,C44380

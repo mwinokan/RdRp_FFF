@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+95,70817,COc1cc(C)cnc1-n1ccc(C#CCO)c1,Sonogashira coupling,C#CCO,Brc1cc[nH]c1,OCC#Cc1cc[nH]c1,N-nucleophilic aromatic substitution,COc1cc(C)cnc1Cl,COc1cc(C)cnc1-n1ccc(C#CCO)c1,d0472a,5hmz-a,,d0472a,C70817

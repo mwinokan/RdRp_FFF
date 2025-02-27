@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+64,C53809,CC(O)CNC(=O)Nc1cccc2c1OC(C)(C)CC2,Formation of urea from two amines,CC(O)CN,CC1(C)CCc2cccc(N)c2O1,CC(O)CNC(=O)Nc1cccc2c1OC(C)(C)CC2,,,,z0211a,z0991a,,z0211a,C53809

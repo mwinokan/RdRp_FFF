@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+26,C19774,CC(NC(=O)c1ccnc(-n2cccc2)c1)c1ncc[nH]1,Amidation,O=C(O)c1ccnc(I)c1,CC(N)c1ncc[nH]1,CC(NC(=O)c1ccnc(I)c1)c1ncc[nH]1,Iodo N-arylation,c1cc[nH]c1,CC(NC(=O)c1ccnc(-n2cccc2)c1)c1ncc[nH]1,d0472a,z0103a,,d0472a,C19774

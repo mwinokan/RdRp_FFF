@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+102,C60687,Cc1oc2ccccc2c1C(=O)OCc1ccn2ncnc2c1,Steglich esterification,OCc1ccn2ncnc2c1,Cc1oc2ccccc2c1C(=O)O,Cc1oc2ccccc2c1C(=O)OCc1ccn2ncnc2c1,,,,z0521a,3vws-b,,z0521a,C60687

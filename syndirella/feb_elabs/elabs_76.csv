@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+76,C32376,c1ccc(N2CCOc3ccccc3C2)nc1,N-nucleophilic aromatic substitution,c1ccc2c(c1)CNCCO2,Ic1ccccn1,c1ccc(N2CCOc3ccccc3C2)nc1,,,,d0472b,z0581a,,d0472b,C32376

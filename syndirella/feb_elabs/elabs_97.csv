@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+97,C49455,Nc1csc(-c2nccc3ccccc23)n1,Sp2-sp2 Suzuki coupling,CC1(C)OB(c2nccc3ccccc23)OC1(C)C,Nc1csc(Br)n1,Nc1csc(-c2nccc3ccccc23)n1,,,,z0111a,z0496a,,z0111a,C49455

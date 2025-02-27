@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+20,C23289,CC(CC(=O)Nc1c[nH]nc1-c1nccs1)N1CCCCC1=O,Amidation,Nc1c[nH]nc1Cl,CC(CC(=O)O)N1CCCCC1=O,CC(CC(=O)Nc1c[nH]nc1Cl)N1CCCCC1=O,Sp2-sp2 Suzuki coupling,CC1(C)OB(c2nccs2)OC1(C)C,CC(CC(=O)Nc1c[nH]nc1-c1nccs1)N1CCCCC1=O,z0215a,z1018a,,z0215a,C23289

@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+72,70838,c1ccn(-c2cc(-c3cn[nH]c3-c3ccncc3)ccn2)c1,N-nucleophilic aromatic substitution,c1cc[nH]c1,CC1(C)OB(c2ccnc(Br)c2)OC1(C)C,CC1(C)OB(c2ccnc(-n3cccc3)c2)OC1(C)C,Sp2-sp2 Suzuki coupling,Brc1cn[nH]c1-c1ccncc1,c1ccn(-c2cc(-c3cn[nH]c3-c3ccncc3)ccn2)c1,d0160a,d0472a,z0875c,d0160a,C70838

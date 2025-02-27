@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+81,C68384,Cn1c(=O)n(CCN2CCCC2=O)c(=S)c2ccccc21,Nucleophilic substitution with amine,O=C1CCCN1CCI,Cn1c(=O)[nH]c(=S)c2ccccc21,Cn1c(=O)n(CCN2CCCC2=O)c(=S)c2ccccc21,,,,z0309a,z1018a,,z0309a,C68384

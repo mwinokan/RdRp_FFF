@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+29,C37923,CCOC(=O)c1cnccc1NCC(C)(O)COC,Buchwald-Hartwig amination,COCC(C)(O)CN,CCOC(=O)c1cnccc1Cl,CCOC(=O)c1cnccc1NCC(C)(O)COC,,,,z0628a,z0637a,,z0628a,C37923

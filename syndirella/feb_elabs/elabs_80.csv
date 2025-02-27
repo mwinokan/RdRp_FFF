@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+80,C12483,Nc1cc(NCc2c[nH]cn2)ccn1,N-nucleophilic aromatic substitution,Nc1cc(F)ccn1,NCc1c[nH]cn1,Nc1cc(NCc2c[nH]cn2)ccn1,,,,d0191a,z0103a,,d0191a,C12483

@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+83,70839,c1cncc(Cn2ccc(-c3cccnc3-n3cccc3)c2)c1,Nucleophilic substitution with amine,ClCc1cccnc1,CC1(C)OB(c2cc[nH]c2)OC1(C)C,CC1(C)OB(c2ccn(Cc3cccnc3)c2)OC1(C)C,Sp2-sp2 Suzuki coupling,Clc1cccnc1-n1cccc1,c1cncc(Cn2ccc(-c3cccnc3-n3cccc3)c2)c1,d0191a,d0472a,,d0191a,C70839

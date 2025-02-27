@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+6,C34583,O=C(CCc1csc2ccccc12)NC1CCNC2(CC2)C1,Amidation,O=C(O)CCc1csc2ccccc12,NC1CCNC2(CC2)C1,O=C(CCc1csc2ccccc12)NC1CCNC2(CC2)C1,,,,z0384a,3vws-b,,z0384a,C34583

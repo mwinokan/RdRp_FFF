@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+31,C12548,Cc1cnccc1NCc1c[nH]cn1,Buchwald-Hartwig amination,NCc1c[nH]cn1,Cc1cnccc1Br,Cc1cnccc1NCc1c[nH]cn1,,,,d0615b,z0875c,,z0875c,C12548

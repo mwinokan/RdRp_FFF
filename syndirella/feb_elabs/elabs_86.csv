@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+86,C10275,OC1COCC1CNCc1ccn[nH]1,Nucleophilic substitution with amine,NCC1COCC1O,BrCc1ccn[nH]1,OC1COCC1CNCc1ccn[nH]1,,,,d0160a,d0254a,,d0160a,C10275

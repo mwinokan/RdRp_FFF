@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+78,C54938,O=C1CCCCN1CCCNc1ccnc2ccc([N+](=O)[O-])cc12,N-nucleophilic aromatic substitution,O=[N+]([O-])c1ccc2nccc(Br)c2c1,NCCCN1CCCCC1=O,O=C1CCCCN1CCCNc1ccnc2ccc([N+](=O)[O-])cc12,,,,z1018a,z1040a,,z1018a,C54938

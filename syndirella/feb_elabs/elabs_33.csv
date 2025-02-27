@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+33,C56786,O=C(Cc1noc2ccccc12)NCCc1cc2ccccc2o1,Ester amidation,NCCc1cc2ccccc2o1,CCOC(=O)Cc1noc2ccccc12,O=C(Cc1noc2ccccc12)NCCc1cc2ccccc2o1,,,,z0111a,3vws-b,,z0111a,C56786

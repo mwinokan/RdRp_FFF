@@ -1,0 +1,2 @@
+Unnamed: 0,HIPPO_ID,smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+88,C49503,Cc1nc(CNc2nccc3ccccc23)cs1,Reductive amination,Cc1nc(C=O)cs1,Nc1nccc2ccccc12,Cc1nc(CNc2nccc3ccccc23)cs1,,,,z0111a,z0496a,,z0111a,C49503
