@@ -16,6 +16,10 @@ Flavi_NS5_RdRp_6ld2/
 **/knitwork_impure_output/prolif_prioritized
 **/knitwork_temp
 
+**/syndirella/elabs/*_elabs
+**/syndirella/mar_elabs/elabs_*
+**/syndirella/feb_elabs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,50 @@
+import hippo
+
+from sqlite3 import DatabaseError
+
+import mrich as logger
+
+animal = hippo.HIPPO("RdRp_FFF", "../../BulkDock/TARGETS/Flavi_NS5_RdRp/Flavi_NS5_RdRp.sqlite")
+animal.db.backup()
+
+bases = animal.compounds(tag="elaborated iter1 scaffold")
+elabs = bases.elabs
+products = bases + elabs
+
+# animal.db.execute('DROP TABLE route')
+# animal.db.execute('DROP TABLE component')
+
+# animal.db.create_table_route()
+# animal.db.create_table_component()
+
+logger.var("products", products)
+
+for i, c in logger.track(enumerate(products), total=len(products)):
+
+    try:
+        reactions = c.reactions
+    except DatabaseError:
+        logger.error(f"Error getting {c}'s reactions")
+        continue
+
+    for reaction in reactions:
+
+        try:
+            recipes = reaction.get_recipes()
+        except DatabaseError:
+            logger.error(f"Error getting {reaction}'s ({c}) recipes")
+            continue
+
+        for recipe in recipes:
+
+            route = animal.register_route(recipe=recipe)
+
+            logger.print(f"registered {route=}")
+
+    if i % 100 == 99:
+        logger.success("Committing...")
+        animal.db.commit()
+
+animal.db.close()
+
+# sb.sh --job-name RdRp_routes -pgpu --exclusive $HOME2/slurm/run_python.sh 6_routes.py

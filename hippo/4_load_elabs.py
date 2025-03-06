@@ -7,7 +7,7 @@ mrich.var("hippo", hippo.__file__)
 animal = hippo.HIPPO("RdRp_FFF", "../../BulkDock/TARGETS/Flavi_NS5_RdRp/Flavi_NS5_RdRp.sqlite")
 animal.db.backup()
 
-output_root = Path("../syndirella/elabs/")
+output_root = Path("../syndirella/mar_elabs/")
 
 files = list(output_root.glob("*/*-*-?/*to_hippo*"))
 
