@@ -1,0 +1,6023 @@
+ver_1.2
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    4.4699   -0.6014    0.8834 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7461    0.5403    0.1570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6176    0.8214   -1.0768 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4772   -0.0323   -0.3098 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3907   -0.2642    0.4752 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4148   -0.8037   -0.3261 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9061   -1.2384   -0.0461 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9652   -0.3244   -0.2749 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8490    0.9519   -0.2142 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0437    1.7743   -0.4781 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1141    1.3457    0.5337 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8509    0.1008    0.0349 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5870   -0.9968   -0.6798 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9717   -0.8762   -1.6062 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2282   -0.3969   -1.5524 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+  6 14  1  0
+ 14 15  2  0
+ 15  4  1  0
+ 13  8  1  0
+M  END
+>  <ref_url>  (1) 
+https://hippo.winokan.com
+
+>  <submitter_name>  (1) 
+Max Winokan
+
+>  <submitter_email>  (1) 
+max.winokan@diamond.ac.uk
+
+>  <submitter_institution>  (1) 
+DLS
+
+>  <generation_date>  (1) 
+2025-03-10
+
+>  <method>  (1) 
+iter1_elaborated_scaffolds
+
+>  <SLURM_JOB_ID>  (1) 
+SLURM_JOB_ID
+
+>  <SLURM_JOB_NAME>  (1) 
+SLURM_JOB_NAME
+
+>  <csv_name>  (1) 
+csv_name
+
+>  <scratch_subdir>  (1) 
+scratch_subdir
+
+>  <fragmenstein_runtime>  (1) 
+fragmenstein_runtime
+
+>  <fragmenstein_outcome>  (1) 
+fragmenstein_outcome
+
+>  <fragmenstein_mode>  (1) 
+fragmenstein_mode
+
+>  <fragmenstein_error>  (1) 
+fragmenstein_error
+
+>  <exports>  (1) 
+exports
+
+>  <HIPPO Pose ID>  (1) 
+HIPPO Pose ID
+
+>  <HIPPO Compound ID>  (1) 
+HIPPO Compound ID
+
+>  <smiles>  (1) 
+smiles
+
+>  <ref_pdb>  (1) 
+protein reference
+
+>  <ref_mols>  (1) 
+fragment inspirations
+
+>  <original ID>  (1) 
+original ID
+
+>  <compound inchikey>  (1) 
+compound inchikey
+
+>  <distance_score>  (1) 
+distance_score
+
+>  <energy_score>  (1) 
+energy_score
+
+>  <subsites>  (1) 
+subsites
+
+$$$$
+QOAMYTSWHMHASV-UHFFFAOYSA-N
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+  -26.1623  -61.4232   -3.3084 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0009  -60.7536   -1.9364 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8817  -61.4650   -1.1829 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7948  -59.3124   -1.9992 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0066  -58.5456   -1.1816 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0934  -57.2617   -1.6524 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.3443  -56.2428   -1.1971 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.7059  -54.9360   -1.0070 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.7545  -54.1549   -0.6409 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.8780  -52.7325   -0.3944 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0093  -52.0928   -1.1607 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3158  -52.7140   -0.7350 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3724  -54.4530   -1.1867 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0008  -57.3404   -2.7221 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.4288  -58.5859   -2.9386 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+  6 14  1  0
+ 14 15  2  0
+ 15  4  1  0
+ 13  8  1  0
+M  END
+>  <tags>  (1) 
+Fragmenstein;best elaborated iter1 scaffold poses;Knitwork impure merge;Cavity B merge;Enamine_unavailable
+
+>  <alias>  (1) 
+None
+
+>  <fragmenstein_outcome>  (1) 
+too moved
+
+>  <SLURM_JOB_NAME>  (1) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_cavity_b_impure_split4000_batch000
+
+>  <merge_set>  (1) 
+nan
+
+>  <ref_pdb>  (1) 
+z0892b
+
+>  <HIPPO Pose ID>  (1) 
+299
+
+>  <exports>  (1) 
+/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (1) 
+nan
+
+>  <subsites>  (1) 
+Cavity B
+
+>  <original ID>  (1) 
+QOAMYTSWHMHASV-UHFFFAOYSA-N
+
+>  <inchikey>  (1) 
+QOAMYTSWHMHASV-UHFFFAOYSA-N
+
+>  <original SMILES>  (1) 
+CC(C)n1cc(NC2=NCCCS2)cn1
+
+>  <HIPPO Compound ID>  (1) 
+734
+
+>  <SLURM_JOB_ID>  (1) 
+211008
+
+>  <ref_mols>  (1) 
+z0767a,z0892b
+
+>  <fragmenstein_runtime>  (1) 
+21.583449602127075
+
+>  <scratch_subdir>  (1) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/211008/C299-P174
+
+>  <distance_score>  (1) 
+0.95083
+
+>  <name>  (1) 
+QOAMYTSWHMHASV-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (1) 
+expansion
+
+>  <fragmenstein_error>  (1) 
+
+
+>  <energy_score>  (1) 
+-35.222787
+
+>  <csv_name>  (1) 
+RdRp_knitwork_cavity_b_impure_split4000_batch000.csv
+
+$$$$
+KAFGNTYOOWFSHX-UHFFFAOYSA-N
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+  -14.6855  -69.4381  -22.7780 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.2184  -69.5907  -21.3684 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.9351  -69.7814  -20.1390 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.0448  -68.6488  -20.1971 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.5475  -70.1813  -18.8864 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.1176  -71.1352  -20.6653 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.8594  -70.9676  -21.3969 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.6340  -71.2049  -20.5481 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.5720  -70.8041  -19.2056 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.4026  -70.9678  -18.4659 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2669  -71.5082  -19.0691 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0122  -71.5162  -18.2831 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0655  -71.8949  -17.1159 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8803  -71.0131  -18.8832 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6776  -70.5506  -20.2143 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2326  -70.3786  -19.6377 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1920  -69.8882  -20.0036 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5991  -70.9808  -18.4402 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3348  -71.9720  -20.3826 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.5018  -71.7944  -21.1254 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  3  5  2  0
+  3  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 16 18  1  0
+ 11 19  1  0
+ 19 20  2  0
+ 20  8  1  0
+ 18 14  1  0
+M  END
+>  <tags>  (2) 
+DF curated INTERESTING;Fragmenstein placed;Knitwork impure merge;acceptable;best elaborated iter1 scaffold poses;iter1 scaffolds;JA curated YES;Thumb Site 2 merge;Enamine_unavailable
+
+>  <alias>  (2) 
+None
+
+>  <fragmenstein_outcome>  (2) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (2) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_thumb_site_2_impure_split4000_batch001
+
+>  <merge_set>  (2) 
+nan
+
+>  <ref_pdb>  (2) 
+d0566a
+
+>  <HIPPO Pose ID>  (2) 
+35982
+
+>  <exports>  (2) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_thumb_site_2_impure_split4000_batch001_211014.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_thumb_site_2_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/curation/Curated_DF.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (2) 
+nan
+
+>  <subsites>  (2) 
+Thumb Site 2
+
+>  <original ID>  (2) 
+KAFGNTYOOWFSHX-UHFFFAOYSA-N
+
+>  <inchikey>  (2) 
+KAFGNTYOOWFSHX-UHFFFAOYSA-N
+
+>  <original SMILES>  (2) 
+CCS(=O)(=O)NCc1ccc(C(=O)N2CC(=O)N2)cc1
+
+>  <HIPPO Compound ID>  (2) 
+3098
+
+>  <SLURM_JOB_ID>  (2) 
+211014
+
+>  <ref_mols>  (2) 
+d0174a,d0566a
+
+>  <fragmenstein_runtime>  (2) 
+4.798282146453857
+
+>  <scratch_subdir>  (2) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/211014/C3098-P45
+
+>  <distance_score>  (2) 
+0.972484
+
+>  <name>  (2) 
+KAFGNTYOOWFSHX-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (2) 
+expansion
+
+>  <fragmenstein_error>  (2) 
+
+
+>  <energy_score>  (2) 
+-89.018391
+
+>  <csv_name>  (2) 
+RdRp_knitwork_thumb_site_2_impure_split4000_batch001.csv
+
+$$$$
+DJVQSQXCKGQNJE-UHFFFAOYSA-N
+     RDKit          3D
+
+ 14 15  0  0  0  0  0  0  0  0999 V2000
+  -16.2378  -43.8993  -22.7721 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.7749  -44.0430  -21.3554 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.6875  -45.3164  -20.7945 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.2518  -45.5909  -19.5423 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.9008  -44.5233  -18.8014 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.9674  -43.2141  -19.2505 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.4165  -42.9565  -20.5506 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.4956  -41.6251  -21.0125 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.4198  -41.2328  -21.9463 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.0910  -40.9331  -21.3184 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.2832  -41.7915  -20.6074 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.2191  -41.0488  -20.1908 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.3952  -39.7858  -20.6790 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.5043  -39.6855  -21.3790 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+  7  2  1  0
+ 14 10  1  0
+M  END
+>  <tags>  (3) 
+Fragmenstein placed;acceptable;best elaborated iter1 scaffold poses;DF curated YES;Primer grip/N-pocket merge;Knitwork pure merge;iter1 scaffolds;Enamine_Quote_1970815
+
+>  <alias>  (3) 
+None
+
+>  <fragmenstein_outcome>  (3) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (3) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_primer_grip_n_pocket_pure_split1800_batch006
+
+>  <merge_set>  (3) 
+nan
+
+>  <ref_pdb>  (3) 
+d0472a
+
+>  <HIPPO Pose ID>  (3) 
+69511
+
+>  <exports>  (3) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_primer_grip_n_pocket_pure_split1800_batch006_217040.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_primer_grip_n_pocket_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/curation/Curated_DF.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (3) 
+nan
+
+>  <subsites>  (3) 
+Primer grip/N-pocket
+
+>  <original ID>  (3) 
+DJVQSQXCKGQNJE-UHFFFAOYSA-N
+
+>  <inchikey>  (3) 
+DJVQSQXCKGQNJE-UHFFFAOYSA-N
+
+>  <original SMILES>  (3) 
+Cc1cnccc1NCc1c[nH]cn1
+
+>  <HIPPO Compound ID>  (3) 
+12548
+
+>  <SLURM_JOB_ID>  (3) 
+217040
+
+>  <ref_mols>  (3) 
+d0472a,z0875c
+
+>  <fragmenstein_runtime>  (3) 
+1.837259
+
+>  <scratch_subdir>  (3) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217040/C12548-P42
+
+>  <distance_score>  (3) 
+0.997294
+
+>  <name>  (3) 
+DJVQSQXCKGQNJE-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (3) 
+expansion
+
+>  <fragmenstein_error>  (3) 
+None
+
+>  <energy_score>  (3) 
+-27.523897
+
+>  <csv_name>  (3) 
+RdRp_knitwork_primer_grip_n_pocket_pure_split1800_batch006.csv
+
+$$$$
+HGMRINZTTPAZBD-LBPRGKRZSA-N
+     RDKit          3D
+
+ 23 24  0  0  0  0  0  0  0  0999 V2000
+  -23.9826  -43.9045  -19.6309 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.3706  -44.0818  -18.1663 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8426  -43.6855  -18.0194 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1411  -45.5380  -17.6955 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.8885  -45.7376  -16.8178 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -21.6750  -45.5796  -17.6281 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.9479  -44.3126  -18.0980 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1500  -43.1929  -17.8545 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.9059  -44.6623  -19.0394 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.8585  -44.4015  -20.3910 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.6407  -44.6351  -20.9988 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.7432  -44.9339  -20.0720 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.2836  -44.7434  -20.2346 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.7667  -44.2880  -21.4478 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.4469  -43.8444  -21.4988 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.6837  -43.8470  -20.3402 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.2565  -44.3449  -19.1863 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.5176  -44.8251  -19.1130 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.4308  -45.3517  -18.5349 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.9578  -47.0917  -16.0877 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.0617  -47.1432  -15.0856 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.7054  -48.1178  -16.9342 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1719  -47.3163  -15.5357 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  5  4  1  6
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 12 19  1  0
+  5 20  1  0
+ 20 21  1  0
+ 20 22  1  0
+ 20 23  1  0
+ 19  9  1  0
+ 18 13  1  0
+M  END
+>  <tags>  (4) 
+Enamine_Quote_1977854;Fragmenstein placed;acceptable;best elaborated iter1 scaffold poses;DF curated YES;Primer grip/N-pocket merge;Knitwork pure merge;iter1 scaffolds;Enamine_Quote_1970815
+
+>  <alias>  (4) 
+None
+
+>  <fragmenstein_outcome>  (4) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (4) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_primer_grip_n_pocket_pure_split1800_batch003
+
+>  <merge_set>  (4) 
+nan
+
+>  <ref_pdb>  (4) 
+d0472a
+
+>  <HIPPO Pose ID>  (4) 
+73409
+
+>  <exports>  (4) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_primer_grip_n_pocket_pure_split1800_batch003_217037.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_primer_grip_n_pocket_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/curation/Curated_DF.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (4) 
+nan
+
+>  <subsites>  (4) 
+Primer grip/N-pocket
+
+>  <original ID>  (4) 
+HGMRINZTTPAZBD-LBPRGKRZSA-N
+
+>  <inchikey>  (4) 
+HGMRINZTTPAZBD-LBPRGKRZSA-N
+
+>  <original SMILES>  (4) 
+CC(C)C[C@H](NC(=O)c1cnc(-c2ccccn2)s1)C(F)(F)F
+
+>  <HIPPO Compound ID>  (4) 
+13884
+
+>  <SLURM_JOB_ID>  (4) 
+217037
+
+>  <ref_mols>  (4) 
+d0264a,d0472a
+
+>  <fragmenstein_runtime>  (4) 
+12.097528
+
+>  <scratch_subdir>  (4) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217037/C13884-P42
+
+>  <distance_score>  (4) 
+0.941505
+
+>  <name>  (4) 
+HGMRINZTTPAZBD-LBPRGKRZSA-N
+
+>  <fragmenstein_mode>  (4) 
+expansion
+
+>  <fragmenstein_error>  (4) 
+None
+
+>  <energy_score>  (4) 
+-40.513359
+
+>  <csv_name>  (4) 
+RdRp_knitwork_primer_grip_n_pocket_pure_split1800_batch003.csv
+
+$$$$
+KZGPDDSEMZONAM-UHFFFAOYSA-N
+     RDKit          3D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+  -28.3111  -29.5560  -21.5704 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4196  -30.1173  -20.5696 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2777  -30.7685  -21.0023 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1255  -30.9935  -22.2015 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3458  -31.1656  -20.0391 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.2115  -32.0170  -20.5526 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3590  -31.4484  -21.6945 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.7963  -32.4513  -22.5969 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3751  -32.5357  -22.8239 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.2665  -32.8994  -24.2888 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.5312  -33.6977  -24.5591 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.5219  -33.0582  -23.6206 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.7320  -33.1166  -23.7628 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5788  -30.9941  -18.6547 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.4254  -31.3297  -17.4688 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9435  -30.5241  -18.2409 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.3699  -30.5015  -16.8938 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6830  -30.1819  -16.5492 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.5929  -29.8860  -17.5465 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1732  -29.8620  -18.8743 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.8441  -30.1582  -19.2294 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  3  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+  5 14  1  0
+ 14 15  2  0
+ 14 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21  2  1  0
+ 12  8  1  0
+ 21 16  1  0
+M  END
+>  <tags>  (5) 
+Fragmenstein placed;acceptable;DF curated NO;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;JA curated YES;Fragmenstein pure merge;iter1 scaffolds;Enamine_unavailable
+
+>  <alias>  (5) 
+None
+
+>  <fragmenstein_outcome>  (5) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (5) 
+BulkDock.place:Flavi_NS5_RdRp:green_site_rna_tunnel_fstein_bulkdock_input_split1000_batch001
+
+>  <merge_set>  (5) 
+nan
+
+>  <ref_pdb>  (5) 
+z0309a
+
+>  <HIPPO Pose ID>  (5) 
+81355
+
+>  <exports>  (5) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/green_site_rna_tunnel_fstein_bulkdock_input_split1000_batch001_217910.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/green_site_rna_tunnel_fstein_bulkdock_input_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (5) 
+nan
+
+>  <subsites>  (5) 
+Green Site/RNA tunnel
+
+>  <original ID>  (5) 
+KZGPDDSEMZONAM-UHFFFAOYSA-N
+
+>  <inchikey>  (5) 
+KZGPDDSEMZONAM-UHFFFAOYSA-N
+
+>  <original SMILES>  (5) 
+Cn1c(=O)n(CCN2CCCC2=O)c(=S)c2ccccc21
+
+>  <HIPPO Compound ID>  (5) 
+68384
+
+>  <SLURM_JOB_ID>  (5) 
+217910
+
+>  <ref_mols>  (5) 
+z0309a,z1018a
+
+>  <fragmenstein_runtime>  (5) 
+2.103494
+
+>  <scratch_subdir>  (5) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217910/C68384-P113
+
+>  <distance_score>  (5) 
+0.777669
+
+>  <name>  (5) 
+KZGPDDSEMZONAM-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (5) 
+expansion
+
+>  <fragmenstein_error>  (5) 
+None
+
+>  <energy_score>  (5) 
+-34.154073
+
+>  <csv_name>  (5) 
+green_site_rna_tunnel_fstein_bulkdock_input_split1000_batch001.csv
+
+$$$$
+YAOSTISNIUSXMX-UHFFFAOYSA-N
+     RDKit          3D
+
+ 20 22  0  0  0  0  0  0  0  0999 V2000
+  -25.6059  -30.8882  -20.2103 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3699  -30.0305  -20.3965 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4386  -29.4329  -19.4734 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.8474  -29.8130  -18.1966 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2191  -29.7539  -17.9717 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.7301  -30.2057  -16.7702 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.8758  -30.7251  -15.8005 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6300  -31.3315  -14.3587 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4872  -30.7635  -15.9648 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6962  -31.2297  -14.9663 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3599  -31.2244  -15.1270 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.7378  -30.7399  -16.2512 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5420  -30.2589  -17.2770 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9545  -30.2842  -17.1853 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3158  -29.3044  -21.6786 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6133  -30.0108  -22.8384 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3072  -29.4180  -24.0456 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7465  -28.1954  -24.1357 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4614  -27.5390  -22.9883 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7449  -28.0365  -21.7329 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+  2 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 14  4  1  0
+ 20 15  1  0
+ 14  9  1  0
+M  END
+>  <tags>  (6) 
+Fragmenstein placed;acceptable;best elaborated iter1 scaffold poses;Enamine_Order_1968912;Green Site/RNA tunnel merge;JA curated YES;Knitwork pure merge;iter1 scaffolds
+
+>  <alias>  (6) 
+None
+
+>  <fragmenstein_outcome>  (6) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (6) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch003
+
+>  <merge_set>  (6) 
+nan
+
+>  <ref_pdb>  (6) 
+z0221a
+
+>  <HIPPO Pose ID>  (6) 
+94375
+
+>  <exports>  (6) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch003_217074.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/JA_curated_and_manual_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (6) 
+nan
+
+>  <subsites>  (6) 
+Green Site/RNA tunnel
+
+>  <original ID>  (6) 
+YAOSTISNIUSXMX-UHFFFAOYSA-N
+
+>  <inchikey>  (6) 
+YAOSTISNIUSXMX-UHFFFAOYSA-N
+
+>  <original SMILES>  (6) 
+O=C(Nc1ccc(Cl)c2ncccc12)c1ccncc1
+
+>  <HIPPO Compound ID>  (6) 
+29639
+
+>  <SLURM_JOB_ID>  (6) 
+217074
+
+>  <ref_mols>  (6) 
+z0221a,z1040a
+
+>  <fragmenstein_runtime>  (6) 
+3.122275
+
+>  <scratch_subdir>  (6) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217074/C29639-P105
+
+>  <distance_score>  (6) 
+0.805216
+
+>  <name>  (6) 
+YAOSTISNIUSXMX-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (6) 
+expansion
+
+>  <fragmenstein_error>  (6) 
+None
+
+>  <energy_score>  (6) 
+-10.708304
+
+>  <csv_name>  (6) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch003.csv
+
+$$$$
+QYRRPPSGQNMPRP-UHFFFAOYSA-N
+     RDKit          3D
+
+ 18 20  0  0  0  0  0  0  0  0999 V2000
+  -25.5741  -28.5941  -25.0462 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5588  -28.0426  -23.6879 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1899  -28.6075  -22.6921 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0713  -27.8169  -21.5658 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6714  -28.3538  -20.3201 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7349  -29.8246  -20.3436 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.8993  -30.1801  -19.6555 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.9700  -30.3567  -20.4546 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.1662  -30.3893  -19.8547 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.3207  -30.2754  -18.4866 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2046  -30.1899  -17.6583 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3353  -30.1274  -16.2633 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.2135  -30.0109  -15.4442 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9476  -29.9476  -16.0083 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8136  -30.0029  -17.3932 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9390  -30.1357  -18.2426 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3631  -26.6483  -21.7335 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.7922  -26.5593  -23.3420 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  4 17  2  0
+ 17 18  1  0
+ 18  2  1  0
+ 16  7  1  0
+ 16 11  1  0
+M  END
+>  <tags>  (7) 
+Enamine_Quote_1977854;JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds;LCD curated INTERESTING
+
+>  <alias>  (7) 
+None
+
+>  <fragmenstein_outcome>  (7) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (7) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch005
+
+>  <merge_set>  (7) 
+nan
+
+>  <ref_pdb>  (7) 
+z0496a
+
+>  <HIPPO Pose ID>  (7) 
+95988
+
+>  <exports>  (7) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch005_217076.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (7) 
+nan
+
+>  <subsites>  (7) 
+Green Site/RNA tunnel
+
+>  <original ID>  (7) 
+QYRRPPSGQNMPRP-UHFFFAOYSA-N
+
+>  <inchikey>  (7) 
+QYRRPPSGQNMPRP-UHFFFAOYSA-N
+
+>  <original SMILES>  (7) 
+Cc1nc(CNc2nccc3ccccc23)cs1
+
+>  <HIPPO Compound ID>  (7) 
+49503
+
+>  <SLURM_JOB_ID>  (7) 
+217076
+
+>  <ref_mols>  (7) 
+z0111a,z0496a
+
+>  <fragmenstein_runtime>  (7) 
+2.335611
+
+>  <scratch_subdir>  (7) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217076/C49503-P136
+
+>  <distance_score>  (7) 
+0.926212
+
+>  <name>  (7) 
+QYRRPPSGQNMPRP-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (7) 
+expansion
+
+>  <fragmenstein_error>  (7) 
+None
+
+>  <energy_score>  (7) 
+-61.013959
+
+>  <csv_name>  (7) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch005.csv
+
+$$$$
+GZPXXQDQKSPFSB-MRVPVSSYSA-N
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+  -30.4593  -30.0594  -19.4820 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.9934  -30.0280  -19.5352 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1624  -30.0090  -20.6352 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8918  -30.2940  -20.1136 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8022  -30.6912  -20.8086 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6080  -30.9125  -22.3320 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3180  -30.7160  -23.2001 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.2063  -31.5731  -22.3152 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3797  -32.0317  -23.3993 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.0325  -32.5424  -22.8911 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -21.0822  -32.8414  -24.0335 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.4320  -31.5798  -22.0216 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8732  -30.2631  -18.7846 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1672  -30.1524  -18.4450 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6121  -30.5547  -17.0800 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.6253  -30.5974  -15.9262 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.7544  -29.6161  -15.9203 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  6
+ 10 12  1  0
+  4 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 14  2  1  0
+ 17 15  1  0
+M  END
+>  <tags>  (8) 
+Enamine_Quote_1977854;JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds;LCD curated INTERESTING
+
+>  <alias>  (8) 
+None
+
+>  <fragmenstein_outcome>  (8) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (8) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012
+
+>  <merge_set>  (8) 
+nan
+
+>  <ref_pdb>  (8) 
+z0215a
+
+>  <HIPPO Pose ID>  (8) 
+98289
+
+>  <exports>  (8) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012_217083.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (8) 
+nan
+
+>  <subsites>  (8) 
+Green Site/RNA tunnel
+
+>  <original ID>  (8) 
+GZPXXQDQKSPFSB-MRVPVSSYSA-N
+
+>  <inchikey>  (8) 
+GZPXXQDQKSPFSB-MRVPVSSYSA-N
+
+>  <original SMILES>  (8) 
+Cc1cc(NC(=O)NC[C@@H](C)O)nn1C1CC1
+
+>  <HIPPO Compound ID>  (8) 
+54945
+
+>  <SLURM_JOB_ID>  (8) 
+217083
+
+>  <ref_mols>  (8) 
+z0211a,z0215a
+
+>  <fragmenstein_runtime>  (8) 
+5.450071
+
+>  <scratch_subdir>  (8) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217083/C54945-P104
+
+>  <distance_score>  (8) 
+0.871954
+
+>  <name>  (8) 
+GZPXXQDQKSPFSB-MRVPVSSYSA-N
+
+>  <fragmenstein_mode>  (8) 
+expansion
+
+>  <fragmenstein_error>  (8) 
+None
+
+>  <energy_score>  (8) 
+-30.250293
+
+>  <csv_name>  (8) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012.csv
+
+$$$$
+UIINRFUWBVLBNK-NSHDSACASA-N
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+  -30.0178  -30.1408  -19.3035 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5877  -29.9694  -19.6251 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9861  -30.1000  -20.8739 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6352  -30.2465  -20.5877 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5724  -30.6649  -21.2896 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4076  -30.9055  -22.7950 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1246  -30.7108  -23.6517 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.0250  -31.5813  -22.7885 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3108  -32.2290  -23.8348 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.8079  -32.0275  -23.6201 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -21.0551  -33.2572  -24.0591 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.5055  -31.7862  -22.2376 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3668  -29.9313  -19.3454 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.5417  -29.8183  -18.7151 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4320  -29.8138  -17.2990 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5234  -29.8887  -16.4473 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3121  -30.4034  -15.1750 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0417  -30.8454  -14.7912 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.9249  -30.5522  -15.5389 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1199  -29.9984  -16.7836 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  1
+ 10 12  1  0
+  4 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 14  2  1  0
+ 20 15  1  0
+M  END
+>  <tags>  (9) 
+Enamine_Quote_1977854;Fragmenstein placed;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;Enamine_Quote_1970815
+
+>  <alias>  (9) 
+None
+
+>  <fragmenstein_outcome>  (9) 
+too contorted
+
+>  <SLURM_JOB_NAME>  (9) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012
+
+>  <merge_set>  (9) 
+nan
+
+>  <ref_pdb>  (9) 
+z0211a
+
+>  <HIPPO Pose ID>  (9) 
+98359
+
+>  <exports>  (9) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012_217083.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (9) 
+nan
+
+>  <subsites>  (9) 
+Green Site/RNA tunnel
+
+>  <original ID>  (9) 
+UIINRFUWBVLBNK-NSHDSACASA-N
+
+>  <inchikey>  (9) 
+UIINRFUWBVLBNK-NSHDSACASA-N
+
+>  <original SMILES>  (9) 
+Cc1cc(NC(=O)NC[C@H](C)O)nn1-c1ccccc1
+
+>  <HIPPO Compound ID>  (9) 
+55149
+
+>  <SLURM_JOB_ID>  (9) 
+217083
+
+>  <ref_mols>  (9) 
+z0211a,z0215a
+
+>  <fragmenstein_runtime>  (9) 
+4.114101
+
+>  <scratch_subdir>  (9) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217083/C55149-P102
+
+>  <distance_score>  (9) 
+0.900206
+
+>  <name>  (9) 
+UIINRFUWBVLBNK-NSHDSACASA-N
+
+>  <fragmenstein_mode>  (9) 
+expansion
+
+>  <fragmenstein_error>  (9) 
+None
+
+>  <energy_score>  (9) 
+18.950566
+
+>  <csv_name>  (9) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012.csv
+
+$$$$
+VEAPMNAYWNOMRJ-VIFPVBQESA-N
+     RDKit          3D
+
+ 18 18  0  0  0  0  0  0  0  0999 V2000
+  -25.9324  -31.3916  -14.2725 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.3163  -31.1119  -14.4797 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4996  -30.4555  -15.7331 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.9613  -30.5382  -16.1462 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3096  -29.6006  -17.2980 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6518  -29.8489  -18.5652 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2473  -29.9301  -19.7935 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.2437  -30.2458  -20.6789 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0862  -30.3521  -19.8832 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8890  -30.8780  -20.2453 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4681  -31.6207  -21.5432 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0528  -31.8174  -22.5008 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.0425  -32.0758  -21.1271 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.1056  -32.9504  -21.7978 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.2292  -32.1553  -22.7656 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -21.3969  -33.0414  -23.6684 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3227  -31.3647  -21.9909 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.3139  -29.9744  -18.6245 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  6
+ 15 17  1  0
+  9 18  2  0
+ 18  6  1  0
+M  END
+>  <tags>  (10) 
+Enamine_Quote_1977854;JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds;LCD curated INTERESTING
+
+>  <alias>  (10) 
+None
+
+>  <fragmenstein_outcome>  (10) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (10) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012
+
+>  <merge_set>  (10) 
+nan
+
+>  <ref_pdb>  (10) 
+z0215a
+
+>  <HIPPO Pose ID>  (10) 
+98391
+
+>  <exports>  (10) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012_217083.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (10) 
+nan
+
+>  <subsites>  (10) 
+Green Site/RNA tunnel
+
+>  <original ID>  (10) 
+VEAPMNAYWNOMRJ-VIFPVBQESA-N
+
+>  <inchikey>  (10) 
+VEAPMNAYWNOMRJ-VIFPVBQESA-N
+
+>  <original SMILES>  (10) 
+COCCCn1ccc(NC(=O)NC[C@H](C)O)n1
+
+>  <HIPPO Compound ID>  (10) 
+55155
+
+>  <SLURM_JOB_ID>  (10) 
+217083
+
+>  <ref_mols>  (10) 
+z0211a,z0215a
+
+>  <fragmenstein_runtime>  (10) 
+4.600829
+
+>  <scratch_subdir>  (10) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217083/C55155-P104
+
+>  <distance_score>  (10) 
+0.716111
+
+>  <name>  (10) 
+VEAPMNAYWNOMRJ-VIFPVBQESA-N
+
+>  <fragmenstein_mode>  (10) 
+expansion
+
+>  <fragmenstein_error>  (10) 
+None
+
+>  <energy_score>  (10) 
+-41.942987
+
+>  <csv_name>  (10) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012.csv
+
+$$$$
+WVGFLLFSIMGYJN-LURJTMIESA-N
+     RDKit          3D
+
+ 18 18  0  0  0  0  0  0  0  0999 V2000
+  -28.1924  -30.2379  -14.9656 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.7663  -29.8365  -16.2542 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.7783  -29.7594  -17.1577 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.9616  -29.6694  -16.8632 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.2159  -29.9018  -18.4675 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8890  -30.0957  -18.8143 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8879  -30.3524  -20.1897 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8024  -30.7679  -20.8882 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5743  -30.8762  -22.4172 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2400  -30.5600  -23.2839 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.2225  -31.6325  -22.4178 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4897  -32.2222  -23.4987 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.9842  -31.9725  -23.3934 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -21.2165  -33.1318  -23.9960 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.5837  -31.8297  -22.0252 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1043  -30.2240  -20.7074 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.9038  -30.0243  -19.6452 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.3236  -30.1442  -19.8444 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  3  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  1
+ 13 15  1  0
+  7 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 17  5  1  0
+M  END
+>  <tags>  (11) 
+Enamine_Quote_1977854;JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds;LCD curated INTERESTING
+
+>  <alias>  (11) 
+None
+
+>  <fragmenstein_outcome>  (11) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (11) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012
+
+>  <merge_set>  (11) 
+nan
+
+>  <ref_pdb>  (11) 
+z0211a
+
+>  <HIPPO Pose ID>  (11) 
+98483
+
+>  <exports>  (11) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012_217083.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (11) 
+nan
+
+>  <subsites>  (11) 
+Green Site/RNA tunnel
+
+>  <original ID>  (11) 
+WVGFLLFSIMGYJN-LURJTMIESA-N
+
+>  <inchikey>  (11) 
+WVGFLLFSIMGYJN-LURJTMIESA-N
+
+>  <original SMILES>  (11) 
+COC(=O)c1cc(NC(=O)NC[C@H](C)O)nn1C
+
+>  <HIPPO Compound ID>  (11) 
+55262
+
+>  <SLURM_JOB_ID>  (11) 
+217083
+
+>  <ref_mols>  (11) 
+z0211a,z0215a
+
+>  <fragmenstein_runtime>  (11) 
+3.844751
+
+>  <scratch_subdir>  (11) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217083/C55262-P102
+
+>  <distance_score>  (11) 
+0.897217
+
+>  <name>  (11) 
+WVGFLLFSIMGYJN-LURJTMIESA-N
+
+>  <fragmenstein_mode>  (11) 
+expansion
+
+>  <fragmenstein_error>  (11) 
+None
+
+>  <energy_score>  (11) 
+-30.224196
+
+>  <csv_name>  (11) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012.csv
+
+$$$$
+FGZCUNYQGFTGLS-LLVKDONJSA-N
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+  -31.0631  -30.0978  -20.3224 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6327  -29.9385  -20.0717 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5765  -29.9119  -20.9795 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4506  -30.1563  -20.2164 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2742  -30.5984  -20.7734 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8548  -30.7385  -22.2773 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.4077  -30.4328  -23.2272 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.5150  -31.5069  -22.0990 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.5579  -31.9595  -23.0831 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.2371  -32.4636  -22.5071 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -21.2684  -32.8482  -23.6155 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.6310  -31.4583  -21.6976 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.8627  -30.0396  -18.8828 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1991  -30.1204  -17.6336 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9910  -30.1623  -16.4632 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4067  -30.3352  -15.2174 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0277  -30.4543  -15.1192 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.2362  -30.3838  -16.2632 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8174  -30.2097  -17.5223 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2092  -29.9080  -18.8203 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  6
+ 10 12  1  0
+  4 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 13 20  1  0
+ 20  2  2  0
+ 19 14  1  0
+M  END
+>  <tags>  (12) 
+Enamine_Quote_1977854;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;JA curated INTERESTING;Knitwork pure merge;iter1 scaffolds;Enamine_Quote_1970815;LCD curated INTERESTING
+
+>  <alias>  (12) 
+None
+
+>  <fragmenstein_outcome>  (12) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (12) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012
+
+>  <merge_set>  (12) 
+nan
+
+>  <ref_pdb>  (12) 
+z0215a
+
+>  <HIPPO Pose ID>  (12) 
+98948
+
+>  <exports>  (12) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012_217083.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (12) 
+nan
+
+>  <subsites>  (12) 
+Green Site/RNA tunnel
+
+>  <original ID>  (12) 
+FGZCUNYQGFTGLS-LLVKDONJSA-N
+
+>  <inchikey>  (12) 
+FGZCUNYQGFTGLS-LLVKDONJSA-N
+
+>  <original SMILES>  (12) 
+Cc1cc(NC(=O)NC[C@@H](C)O)n(-c2ccccc2)n1
+
+>  <HIPPO Compound ID>  (12) 
+55996
+
+>  <SLURM_JOB_ID>  (12) 
+217083
+
+>  <ref_mols>  (12) 
+z0211a,z0215a
+
+>  <fragmenstein_runtime>  (12) 
+6.014448
+
+>  <scratch_subdir>  (12) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217083/C55996-P104
+
+>  <distance_score>  (12) 
+0.985805
+
+>  <name>  (12) 
+FGZCUNYQGFTGLS-LLVKDONJSA-N
+
+>  <fragmenstein_mode>  (12) 
+expansion
+
+>  <fragmenstein_error>  (12) 
+None
+
+>  <energy_score>  (12) 
+-6.224139
+
+>  <csv_name>  (12) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012.csv
+
+$$$$
+GTOPDHADXIWWQI-MRVPVSSYSA-N
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+  -21.1779  -32.8099  -23.9742 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.1820  -32.4904  -22.8850 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -21.5971  -31.5617  -21.9654 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4864  -31.9191  -23.4534 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.3132  -31.3848  -22.4017 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7926  -30.9240  -22.4241 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.5225  -30.8377  -23.2928 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.9932  -30.6248  -20.9100 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1047  -30.2717  -20.2281 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3993  -30.0155  -20.7222 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1864  -29.9395  -19.5935 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3365  -30.1087  -18.5339 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.7772  -30.4869  -17.1839 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.6326  -30.5578  -16.1336 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6192  -29.9195  -15.1515 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3412  -29.3233  -16.3724 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0551  -30.2136  -18.9016 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 12 17  1  0
+ 17  9  2  0
+ 16 13  1  0
+M  END
+>  <tags>  (13) 
+Enamine_Quote_1977854;JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds;LCD curated INTERESTING
+
+>  <alias>  (13) 
+None
+
+>  <fragmenstein_outcome>  (13) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (13) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012
+
+>  <merge_set>  (13) 
+nan
+
+>  <ref_pdb>  (13) 
+z0215a
+
+>  <HIPPO Pose ID>  (13) 
+99305
+
+>  <exports>  (13) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012_217083.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (13) 
+nan
+
+>  <subsites>  (13) 
+Green Site/RNA tunnel
+
+>  <original ID>  (13) 
+GTOPDHADXIWWQI-MRVPVSSYSA-N
+
+>  <inchikey>  (13) 
+GTOPDHADXIWWQI-MRVPVSSYSA-N
+
+>  <original SMILES>  (13) 
+C[C@@H](O)CNC(=O)Nc1ccn(C2CCC2)n1
+
+>  <HIPPO Compound ID>  (13) 
+56765
+
+>  <SLURM_JOB_ID>  (13) 
+217083
+
+>  <ref_mols>  (13) 
+z0211a,z0215a
+
+>  <fragmenstein_runtime>  (13) 
+3.659463
+
+>  <scratch_subdir>  (13) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217083/C56765-P104
+
+>  <distance_score>  (13) 
+0.736324
+
+>  <name>  (13) 
+GTOPDHADXIWWQI-MRVPVSSYSA-N
+
+>  <fragmenstein_mode>  (13) 
+expansion
+
+>  <fragmenstein_error>  (13) 
+None
+
+>  <energy_score>  (13) 
+-8.271996
+
+>  <csv_name>  (13) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch012.csv
+
+$$$$
+PPLQPJVUYBOHPD-UHFFFAOYSA-N
+     RDKit          3D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+  -27.3273  -29.6754  -22.2254 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8270  -30.0563  -21.1744 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5159  -30.3800  -21.0989 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0635  -31.5764  -20.4389 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.4616  -32.5387  -21.4467 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3786  -31.8609  -22.2762 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.7342  -32.7605  -23.2105 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3060  -32.7426  -23.4025 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1140  -33.2042  -24.8328 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.3682  -33.9985  -25.1563 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3999  -33.3530  -24.2737 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.6046  -33.3870  -24.4604 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.6244  -30.0688  -19.9192 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.0098  -30.0748  -20.0338 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.7492  -30.0641  -18.8728 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2078  -30.0148  -17.6402 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.8595  -29.9892  -17.5200 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2570  -29.9095  -16.1449 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1562  -30.1292  -14.9545 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0913  -31.1316  -15.2766 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0467  -30.0127  -18.6468 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+  2 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 17 21  2  0
+ 11  7  1  0
+ 21 13  1  0
+ 20 18  1  0
+M  END
+>  <tags>  (14) 
+Enamine_Quote_1977854;JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds
+
+>  <alias>  (14) 
+None
+
+>  <fragmenstein_outcome>  (14) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (14) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch010
+
+>  <merge_set>  (14) 
+nan
+
+>  <ref_pdb>  (14) 
+z0215a
+
+>  <HIPPO Pose ID>  (14) 
+105979
+
+>  <exports>  (14) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch010_217081.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (14) 
+nan
+
+>  <subsites>  (14) 
+Green Site/RNA tunnel
+
+>  <original ID>  (14) 
+PPLQPJVUYBOHPD-UHFFFAOYSA-N
+
+>  <inchikey>  (14) 
+PPLQPJVUYBOHPD-UHFFFAOYSA-N
+
+>  <original SMILES>  (14) 
+O=C(OCCCN1CCCC1=O)c1ccnc(C2CC2)c1
+
+>  <HIPPO Compound ID>  (14) 
+4091
+
+>  <SLURM_JOB_ID>  (14) 
+217081
+
+>  <ref_mols>  (14) 
+z0215a,z1018a
+
+>  <fragmenstein_runtime>  (14) 
+7.53621
+
+>  <scratch_subdir>  (14) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217081/C4091-P104
+
+>  <distance_score>  (14) 
+0.746188
+
+>  <name>  (14) 
+PPLQPJVUYBOHPD-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (14) 
+expansion
+
+>  <fragmenstein_error>  (14) 
+None
+
+>  <energy_score>  (14) 
+-17.290364
+
+>  <csv_name>  (14) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch010.csv
+
+$$$$
+GEKOBKXDLILBGR-UHFFFAOYSA-N
+     RDKit          3D
+
+ 20 22  0  0  0  0  0  0  0  0999 V2000
+  -24.5606  -33.1347  -24.4185 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3813  -33.1501  -24.1092 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.2721  -33.7369  -24.9400 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.0527  -32.9916  -24.4207 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3764  -32.7057  -22.9689 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.8167  -32.6576  -22.9398 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.5384  -31.7829  -22.0368 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.5922  -32.4803  -21.1756 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6471  -31.5638  -20.8130 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1221  -31.5355  -21.2177 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.7456  -32.2882  -21.8468 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.7758  -30.2463  -20.7609 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.0457  -30.0944  -19.2730 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3383  -30.1735  -18.7499 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.5450  -30.0635  -17.3773 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.4576  -29.8720  -16.5420 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2053  -29.7980  -17.1206 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9817  -29.8951  -18.4504 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.7240  -29.5780  -21.7507 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.3773  -28.9908  -21.5236 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 12 19  1  0
+ 19 20  1  0
+  6  2  1  0
+ 20 12  1  0
+ 18 13  1  0
+M  END
+>  <tags>  (15) 
+Enamine_Quote_1977854;JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds
+
+>  <alias>  (15) 
+None
+
+>  <fragmenstein_outcome>  (15) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (15) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch010
+
+>  <merge_set>  (15) 
+nan
+
+>  <ref_pdb>  (15) 
+z0215a
+
+>  <HIPPO Pose ID>  (15) 
+106018
+
+>  <exports>  (15) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch010_217081.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (15) 
+nan
+
+>  <subsites>  (15) 
+Green Site/RNA tunnel
+
+>  <original ID>  (15) 
+GEKOBKXDLILBGR-UHFFFAOYSA-N
+
+>  <inchikey>  (15) 
+GEKOBKXDLILBGR-UHFFFAOYSA-N
+
+>  <original SMILES>  (15) 
+O=C1CCCN1CCNC(=O)C1(c2ccccn2)CC1
+
+>  <HIPPO Compound ID>  (15) 
+4093
+
+>  <SLURM_JOB_ID>  (15) 
+217081
+
+>  <ref_mols>  (15) 
+z0215a,z1018a
+
+>  <fragmenstein_runtime>  (15) 
+6.603807
+
+>  <scratch_subdir>  (15) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217081/C4093-P104
+
+>  <distance_score>  (15) 
+0.72299
+
+>  <name>  (15) 
+GEKOBKXDLILBGR-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (15) 
+expansion
+
+>  <fragmenstein_error>  (15) 
+None
+
+>  <energy_score>  (15) 
+-13.818041
+
+>  <csv_name>  (15) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch010.csv
+
+$$$$
+MOWNOSLAQYMJTK-UHFFFAOYSA-N
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+  -25.9153  -30.5769  -23.1172 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3396  -30.7419  -22.0406 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.6605  -30.0139  -21.7153 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3278  -30.2069  -20.4265 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.7134  -30.1739  -20.1613 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.7977  -30.0834  -18.7973 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5101  -30.0673  -18.3487 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.0616  -29.5339  -17.0937 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6113  -29.8435  -16.7232 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.5842  -29.9660  -15.2209 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.0258  -30.1195  -14.7769 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.9421  -29.9497  -15.9490 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.6060  -30.2490  -19.3088 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8183  -31.6119  -20.8875 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.7106  -32.5456  -20.8380 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4366  -31.9755  -21.4965 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.8270  -32.7809  -22.5519 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3961  -32.7310  -22.7532 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.2006  -32.9592  -24.2383 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.4463  -33.7133  -24.6669 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4876  -33.2186  -23.6949 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.6893  -33.2601  -23.9025 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+  7 13  1  0
+  2 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  2  0
+ 13  4  2  0
+ 21 17  1  0
+ 12  8  1  0
+M  END
+>  <tags>  (16) 
+Enamine_Quote_1977854;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;JA curated INTERESTING;Knitwork pure merge;iter1 scaffolds;Enamine_Quote_1970815
+
+>  <alias>  (16) 
+None
+
+>  <fragmenstein_outcome>  (16) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (16) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch016
+
+>  <merge_set>  (16) 
+nan
+
+>  <ref_pdb>  (16) 
+z1018a
+
+>  <HIPPO Pose ID>  (16) 
+106992
+
+>  <exports>  (16) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch016_217087.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (16) 
+nan
+
+>  <subsites>  (16) 
+Green Site/RNA tunnel
+
+>  <original ID>  (16) 
+MOWNOSLAQYMJTK-UHFFFAOYSA-N
+
+>  <inchikey>  (16) 
+MOWNOSLAQYMJTK-UHFFFAOYSA-N
+
+>  <original SMILES>  (16) 
+O=C(Cc1ccn(C2CCCC2)n1)NCCN1CCCC1=O
+
+>  <HIPPO Compound ID>  (16) 
+41552
+
+>  <SLURM_JOB_ID>  (16) 
+217087
+
+>  <ref_mols>  (16) 
+z0936a,z1018a
+
+>  <fragmenstein_runtime>  (16) 
+4.387921
+
+>  <scratch_subdir>  (16) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217087/C41552-P206
+
+>  <distance_score>  (16) 
+0.892855
+
+>  <name>  (16) 
+MOWNOSLAQYMJTK-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (16) 
+expansion
+
+>  <fragmenstein_error>  (16) 
+None
+
+>  <energy_score>  (16) 
+-19.142453
+
+>  <csv_name>  (16) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch016.csv
+
+$$$$
+VDFCXTONXACPCO-CYBMUJFWSA-N
+     RDKit          3D
+
+ 19 19  0  0  0  0  0  0  0  0999 V2000
+  -25.6150  -30.7805  -22.5123 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3174  -31.7980  -21.6456 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6065  -31.2773  -20.3493 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.6173  -30.3911  -20.2117 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3302  -29.9616  -21.1042 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.8172  -30.0809  -18.7818 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1194  -29.8433  -18.3516 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.4676  -29.6082  -17.0596 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.4652  -29.5912  -16.1639 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1370  -29.7950  -16.4964 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7882  -30.0273  -17.8311 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4402  -30.2671  -18.1578 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.9606  -31.6162  -17.7399 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4231  -31.5957  -17.7368 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -22.9214  -31.9147  -19.1522 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.0849  -30.2609  -17.3041 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.7766  -32.4872  -16.6722 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.8066  -33.8658  -16.9733 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.5826  -34.3763  -17.4715 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  6
+ 14 16  1  0
+ 14 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 11  6  1  0
+M  END
+>  <tags>  (17) 
+JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds;LCD curated INTERESTING;Enamine_unavailable
+
+>  <alias>  (17) 
+None
+
+>  <fragmenstein_outcome>  (17) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (17) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch015
+
+>  <merge_set>  (17) 
+nan
+
+>  <ref_pdb>  (17) 
+z0637a
+
+>  <HIPPO Pose ID>  (17) 
+117872
+
+>  <exports>  (17) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch015_217086.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (17) 
+nan
+
+>  <subsites>  (17) 
+Green Site/RNA tunnel
+
+>  <original ID>  (17) 
+VDFCXTONXACPCO-CYBMUJFWSA-N
+
+>  <inchikey>  (17) 
+VDFCXTONXACPCO-CYBMUJFWSA-N
+
+>  <original SMILES>  (17) 
+CCOC(=O)c1cnccc1NC[C@@](C)(O)COC
+
+>  <HIPPO Compound ID>  (17) 
+37923
+
+>  <SLURM_JOB_ID>  (17) 
+217086
+
+>  <ref_mols>  (17) 
+z0628a,z0637a
+
+>  <fragmenstein_runtime>  (17) 
+3.992747
+
+>  <scratch_subdir>  (17) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217086/C37923-P151
+
+>  <distance_score>  (17) 
+0.967583
+
+>  <name>  (17) 
+VDFCXTONXACPCO-CYBMUJFWSA-N
+
+>  <fragmenstein_mode>  (17) 
+expansion
+
+>  <fragmenstein_error>  (17) 
+None
+
+>  <energy_score>  (17) 
+-81.441744
+
+>  <csv_name>  (17) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch015.csv
+
+$$$$
+XZCHKOUIHXKRTC-GFCCVEGCSA-N
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+  -23.8341  -33.2180  -19.7900 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.6108  -32.6226  -20.9575 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -23.6739  -31.8003  -21.8769 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.9404  -32.5900  -22.8543 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.5073  -32.7450  -22.7978 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1230  -33.0525  -24.2331 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.3650  -33.7091  -24.8206 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4842  -33.0754  -24.0327 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.6550  -33.0400  -24.3800 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7213  -31.8143  -20.4626 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6796  -30.8782  -21.2055 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6915  -30.5400  -22.3187 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.8092  -30.3283  -20.3606 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.9269  -29.9237  -21.1074 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.1483  -29.6769  -20.5125 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.2343  -29.7367  -19.1359 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1104  -29.9005  -18.3505 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2837  -29.7473  -17.0305 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1920  -29.7511  -16.2444 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9085  -29.9087  -16.7204 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7414  -30.1329  -18.0821 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.8542  -30.1603  -18.9539 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  2 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+  8  4  1  0
+ 22 13  1  0
+ 22 17  1  0
+M  END
+>  <tags>  (18) 
+Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;JA curated INTERESTING;Knitwork pure merge;iter1 scaffolds;Enamine_Quote_1970815;Enamine_unavailable
+
+>  <alias>  (18) 
+None
+
+>  <fragmenstein_outcome>  (18) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (18) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011
+
+>  <merge_set>  (18) 
+nan
+
+>  <ref_pdb>  (18) 
+z1018a
+
+>  <HIPPO Pose ID>  (18) 
+119882
+
+>  <exports>  (18) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011_217082.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (18) 
+nan
+
+>  <subsites>  (18) 
+Green Site/RNA tunnel
+
+>  <original ID>  (18) 
+XZCHKOUIHXKRTC-GFCCVEGCSA-N
+
+>  <inchikey>  (18) 
+XZCHKOUIHXKRTC-GFCCVEGCSA-N
+
+>  <original SMILES>  (18) 
+C[C@H](CN1CCCC1=O)NC(=O)c1cccc2ncccc12
+
+>  <HIPPO Compound ID>  (18) 
+65404
+
+>  <SLURM_JOB_ID>  (18) 
+217082
+
+>  <ref_mols>  (18) 
+z1018a,z1040a
+
+>  <fragmenstein_runtime>  (18) 
+5.61817
+
+>  <scratch_subdir>  (18) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217082/C65404-P206
+
+>  <distance_score>  (18) 
+0.843755
+
+>  <name>  (18) 
+XZCHKOUIHXKRTC-GFCCVEGCSA-N
+
+>  <fragmenstein_mode>  (18) 
+expansion
+
+>  <fragmenstein_error>  (18) 
+None
+
+>  <energy_score>  (18) 
+-45.046073
+
+>  <csv_name>  (18) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011.csv
+
+$$$$
+GNOBTQCXYBMFAB-UHFFFAOYSA-N
+     RDKit          3D
+
+ 24 26  0  0  0  0  0  0  0  0999 V2000
+  -30.2528  -29.7127  -20.9036 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.3002  -30.6909  -19.8734 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2560  -30.5773  -18.9935 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6252  -30.3364  -17.6758 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6506  -30.2725  -16.6943 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2992  -30.4117  -17.0378 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3153  -30.3703  -16.0458 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.9710  -30.4436  -16.3714 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.6445  -30.5644  -17.6957 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5663  -30.6476  -18.6822 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8948  -30.6044  -18.3744 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9047  -30.7737  -19.3477 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.5766  -31.2086  -20.7601 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2692  -31.7616  -20.8920 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8063  -33.1157  -21.4754 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.4136  -33.9556  -22.0081 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.3085  -33.1967  -21.2020 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.5290  -32.0848  -21.9029 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.8344  -32.5557  -23.0800 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.4873  -33.0473  -23.0374 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1351  -33.1213  -24.5058 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.4489  -33.5006  -25.1750 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4655  -32.8377  -24.2817 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.6314  -32.6361  -24.5695 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 15 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  2  0
+ 12  3  1  0
+ 23 19  1  0
+ 11  6  1  0
+M  END
+>  <tags>  (19) 
+Enamine_Quote_1977854;JA curated NO;Fragmenstein placed;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge
+
+>  <alias>  (19) 
+None
+
+>  <fragmenstein_outcome>  (19) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (19) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011
+
+>  <merge_set>  (19) 
+nan
+
+>  <ref_pdb>  (19) 
+z1040a
+
+>  <HIPPO Pose ID>  (19) 
+120066
+
+>  <exports>  (19) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011_217082.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (19) 
+nan
+
+>  <subsites>  (19) 
+Green Site/RNA tunnel
+
+>  <original ID>  (19) 
+GNOBTQCXYBMFAB-UHFFFAOYSA-N
+
+>  <inchikey>  (19) 
+GNOBTQCXYBMFAB-UHFFFAOYSA-N
+
+>  <original SMILES>  (19) 
+COc1ccc2cccnc2c1CNC(=O)CCN1CCCC1=O
+
+>  <HIPPO Compound ID>  (19) 
+65434
+
+>  <SLURM_JOB_ID>  (19) 
+217082
+
+>  <ref_mols>  (19) 
+z1018a,z1040a
+
+>  <fragmenstein_runtime>  (19) 
+6.519452
+
+>  <scratch_subdir>  (19) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217082/C65434-P208
+
+>  <distance_score>  (19) 
+0.958207
+
+>  <name>  (19) 
+GNOBTQCXYBMFAB-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (19) 
+expansion
+
+>  <fragmenstein_error>  (19) 
+None
+
+>  <energy_score>  (19) 
+-27.278727
+
+>  <csv_name>  (19) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011.csv
+
+$$$$
+NLPSSNMFGBLZAP-UHFFFAOYSA-N
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+  -27.1967  -30.2682  -22.3865 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2213  -30.8945  -21.4052 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3512  -32.0798  -20.9578 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3257  -32.8090  -21.6639 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1514  -31.9158  -22.0903 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.2179  -32.6043  -22.9617 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.8198  -32.7429  -22.6608 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1852  -32.9417  -24.0225 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.2889  -33.5362  -24.8852 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.5361  -32.9941  -24.2501 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.6321  -32.9675  -24.7810 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.2583  -30.5338  -20.3957 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.4959  -30.2335  -20.9414 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.5551  -30.0991  -20.0983 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -31.7717  -29.8546  -20.6289 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.4921  -30.1818  -18.7736 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2789  -30.3334  -18.2399 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2115  -30.3151  -16.8619 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9952  -30.4098  -16.1931 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8136  -30.5033  -16.9164 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8558  -30.5362  -18.3080 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.0922  -30.4875  -18.9965 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+  2 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 14 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+ 10  6  1  0
+ 22 12  1  0
+ 22 17  1  0
+M  END
+>  <tags>  (20) 
+Enamine_Quote_1977854;JA curated NO;Fragmenstein placed;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge
+
+>  <alias>  (20) 
+None
+
+>  <fragmenstein_outcome>  (20) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (20) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011
+
+>  <merge_set>  (20) 
+nan
+
+>  <ref_pdb>  (20) 
+z1040a
+
+>  <HIPPO Pose ID>  (20) 
+120781
+
+>  <exports>  (20) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011_217082.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (20) 
+nan
+
+>  <subsites>  (20) 
+Green Site/RNA tunnel
+
+>  <original ID>  (20) 
+NLPSSNMFGBLZAP-UHFFFAOYSA-N
+
+>  <inchikey>  (20) 
+NLPSSNMFGBLZAP-UHFFFAOYSA-N
+
+>  <original SMILES>  (20) 
+O=C(NCCN1CCCC1=O)c1cc(O)nc2ccccc12
+
+>  <HIPPO Compound ID>  (20) 
+65691
+
+>  <SLURM_JOB_ID>  (20) 
+217082
+
+>  <ref_mols>  (20) 
+z1018a,z1040a
+
+>  <fragmenstein_runtime>  (20) 
+4.185887
+
+>  <scratch_subdir>  (20) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217082/C65691-P208
+
+>  <distance_score>  (20) 
+0.805255
+
+>  <name>  (20) 
+NLPSSNMFGBLZAP-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (20) 
+expansion
+
+>  <fragmenstein_error>  (20) 
+None
+
+>  <energy_score>  (20) 
+-76.243004
+
+>  <csv_name>  (20) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011.csv
+
+$$$$
+XPDDKFHYDJHELS-UHFFFAOYSA-N
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+  -24.6107  -31.6016  -13.1238 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.8349  -30.8176  -13.4942 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1619  -29.5535  -14.2657 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5432  -29.5683  -14.8927 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8130  -30.7354  -15.8356 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1386  -30.4957  -16.5091 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1915  -30.0307  -17.8213 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.4321  -29.8150  -18.3938 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6016  -30.0231  -17.7520 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.5259  -30.4659  -16.4807 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3345  -30.7096  -15.8234 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.2956  -30.8311  -13.4353 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3927  -31.8479  -12.9975 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.7310  -32.1948  -14.2797 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.4443  -31.8881  -14.6698 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.2550  -32.1771  -15.9824 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.4240  -32.6918  -16.4539 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.6638  -33.0806  -17.7694 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.9472  -33.5538  -18.0579 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.9236  -33.6347  -17.0652 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.6508  -33.2435  -15.7480 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3666  -32.7548  -15.4380 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+  2 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+ 11  6  1  0
+ 22 14  1  0
+ 22 17  1  0
+M  END
+>  <tags>  (21) 
+Enamine_Quote_1977854;JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds;LCD curated INTERESTING
+
+>  <alias>  (21) 
+None
+
+>  <fragmenstein_outcome>  (21) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (21) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch002
+
+>  <merge_set>  (21) 
+nan
+
+>  <ref_pdb>  (21) 
+z0215a
+
+>  <HIPPO Pose ID>  (21) 
+124588
+
+>  <exports>  (21) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch002_217073.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (21) 
+nan
+
+>  <subsites>  (21) 
+Green Site/RNA tunnel
+
+>  <original ID>  (21) 
+XPDDKFHYDJHELS-UHFFFAOYSA-N
+
+>  <inchikey>  (21) 
+XPDDKFHYDJHELS-UHFFFAOYSA-N
+
+>  <original SMILES>  (21) 
+O=C(CCCc1ccncc1)NCc1coc2ccccc12
+
+>  <HIPPO Compound ID>  (21) 
+35920
+
+>  <SLURM_JOB_ID>  (21) 
+217073
+
+>  <ref_mols>  (21) 
+z0215a,3vws-a
+
+>  <fragmenstein_runtime>  (21) 
+3.360136
+
+>  <scratch_subdir>  (21) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217073/C35920-P104
+
+>  <distance_score>  (21) 
+0.982226
+
+>  <name>  (21) 
+XPDDKFHYDJHELS-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (21) 
+expansion
+
+>  <fragmenstein_error>  (21) 
+None
+
+>  <energy_score>  (21) 
+-25.21299
+
+>  <csv_name>  (21) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch002.csv
+
+$$$$
+ZUCZAINLLDMSCJ-UHFFFAOYSA-N
+     RDKit          3D
+
+ 28 31  0  0  0  0  0  0  0  0999 V2000
+  -24.1465  -37.3197  -21.2543 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.9819  -36.2671  -21.8581 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8805  -35.7939  -22.7667 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0556  -35.2784  -22.1334 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.9400  -33.8128  -22.0949 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7031  -32.6345  -22.1350 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.2781  -31.2341  -22.2592 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.5626  -30.1637  -22.9507 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.6021  -29.9975  -21.5739 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.8985  -29.7832  -21.6421 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3571  -29.7231  -20.3419 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3038  -29.8795  -19.5683 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.2051  -29.9711  -18.1201 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9733  -29.9986  -17.4574 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9627  -30.1588  -16.0818 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.0788  -30.2817  -15.3351 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2549  -30.2560  -15.9944 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3700  -30.0957  -17.3622 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1516  -30.0552  -20.2838 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.8943  -35.3311  -21.6971 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.5866  -34.1426  -22.3387 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.5212  -33.5463  -21.6218 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.8165  -32.3329  -21.6950 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.7913  -32.1008  -20.7676 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.4473  -33.0633  -19.8145 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.1391  -34.2756  -19.7282 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1757  -34.4627  -20.6379 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.9890  -35.5515  -20.6937 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  3  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 12 19  1  0
+  2 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 26  1  0
+ 26 27  2  0
+ 27 28  1  0
+ 19  9  1  0
+ 28 20  1  0
+ 18 13  1  0
+ 27 22  1  0
+M  END
+>  <tags>  (22) 
+JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds;LCD curated INTERESTING;Enamine_unavailable
+
+>  <alias>  (22) 
+None
+
+>  <fragmenstein_outcome>  (22) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (22) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch001
+
+>  <merge_set>  (22) 
+nan
+
+>  <ref_pdb>  (22) 
+z0215a
+
+>  <HIPPO Pose ID>  (22) 
+129038
+
+>  <exports>  (22) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch001_217072.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (22) 
+nan
+
+>  <subsites>  (22) 
+Green Site/RNA tunnel
+
+>  <original ID>  (22) 
+ZUCZAINLLDMSCJ-UHFFFAOYSA-N
+
+>  <inchikey>  (22) 
+ZUCZAINLLDMSCJ-UHFFFAOYSA-N
+
+>  <original SMILES>  (22) 
+O=C(OCC#CCSc1nnc(-c2ccncc2)o1)c1cc2ccccc2o1
+
+>  <HIPPO Compound ID>  (22) 
+37461
+
+>  <SLURM_JOB_ID>  (22) 
+217072
+
+>  <ref_mols>  (22) 
+z0215a,3vws-b
+
+>  <fragmenstein_runtime>  (22) 
+3.323275
+
+>  <scratch_subdir>  (22) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217072/C37461-P104
+
+>  <distance_score>  (22) 
+0.487406
+
+>  <name>  (22) 
+ZUCZAINLLDMSCJ-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (22) 
+expansion
+
+>  <fragmenstein_error>  (22) 
+None
+
+>  <energy_score>  (22) 
+-36.364527
+
+>  <csv_name>  (22) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch001.csv
+
+$$$$
+OHJDLUXFTXKBRG-ZETCQYMHSA-N
+     RDKit          3D
+
+ 19 19  0  0  0  0  0  0  0  0999 V2000
+  -30.4476  -30.4413  -19.1915 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.9730  -30.4023  -19.1836 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.0804  -30.1901  -20.2087 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8285  -30.5481  -19.6774 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7136  -30.8192  -20.3994 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5239  -30.9872  -21.9360 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2665  -30.8437  -22.7899 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.0591  -31.5055  -21.9562 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.2722  -32.0349  -23.0402 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.7637  -32.0497  -22.7880 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -21.0853  -33.0935  -23.6659 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.4849  -32.3647  -21.4202 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8873  -30.7599  -18.3616 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.2074  -30.7006  -18.0840 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6789  -31.1884  -16.8070 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6770  -30.1246  -15.7514 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3033  -28.9974  -16.1508 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3344  -30.5615  -14.6459 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4306  -29.7954  -15.3485 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  6
+ 10 12  1  0
+  4 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 16 18  1  0
+ 16 19  1  0
+ 14  2  1  0
+M  END
+>  <tags>  (23) 
+Enamine_Quote_1977854;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;JA curated INTERESTING;Knitwork pure merge;iter1 scaffolds;Enamine_Quote_1970815;LCD curated INTERESTING
+
+>  <alias>  (23) 
+None
+
+>  <fragmenstein_outcome>  (23) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (23) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch006
+
+>  <merge_set>  (23) 
+nan
+
+>  <ref_pdb>  (23) 
+z0653a
+
+>  <HIPPO Pose ID>  (23) 
+130431
+
+>  <exports>  (23) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch006_217077.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (23) 
+nan
+
+>  <subsites>  (23) 
+Green Site/RNA tunnel
+
+>  <original ID>  (23) 
+OHJDLUXFTXKBRG-ZETCQYMHSA-N
+
+>  <inchikey>  (23) 
+OHJDLUXFTXKBRG-ZETCQYMHSA-N
+
+>  <original SMILES>  (23) 
+Cc1cc(NC(=O)NC[C@H](C)O)nn1CC(F)(F)F
+
+>  <HIPPO Compound ID>  (23) 
+54733
+
+>  <SLURM_JOB_ID>  (23) 
+217077
+
+>  <ref_mols>  (23) 
+z0211a,z0653a
+
+>  <fragmenstein_runtime>  (23) 
+4.14878
+
+>  <scratch_subdir>  (23) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217077/C54733-P153
+
+>  <distance_score>  (23) 
+0.785891
+
+>  <name>  (23) 
+OHJDLUXFTXKBRG-ZETCQYMHSA-N
+
+>  <fragmenstein_mode>  (23) 
+expansion
+
+>  <fragmenstein_error>  (23) 
+None
+
+>  <energy_score>  (23) 
+-8.969837
+
+>  <csv_name>  (23) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch006.csv
+
+$$$$
+NQDDIJLQMDSXML-BDAKNGLRSA-N
+     RDKit          3D
+
+ 18 18  0  0  0  0  0  0  0  0999 V2000
+  -29.6233  -30.9117  -15.4212 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6949  -30.2014  -16.7657 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2489  -31.1212  -17.8991 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -30.3642  -32.0061  -18.4439 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5354  -30.3857  -18.9415 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1584  -29.9054  -20.0361 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1696  -29.8279  -20.9348 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9389  -30.2164  -20.3848 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8002  -30.6125  -21.0131 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5187  -30.8649  -22.5211 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1838  -30.6996  -23.4324 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1077  -31.5026  -22.4119 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.2961  -32.1433  -23.4103 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.7953  -32.0696  -23.1241 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -21.0551  -33.1574  -23.8889 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.5386  -32.2596  -21.7283 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1658  -30.2960  -19.0330 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2747  -30.4893  -17.8780 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  6
+  3  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  6
+ 14 16  1  0
+  8 17  2  0
+ 17 18  1  0
+ 17  5  1  0
+M  END
+>  <tags>  (24) 
+JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds;LCD curated INTERESTING;Enamine_unavailable
+
+>  <alias>  (24) 
+None
+
+>  <fragmenstein_outcome>  (24) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (24) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch006
+
+>  <merge_set>  (24) 
+nan
+
+>  <ref_pdb>  (24) 
+z0653a
+
+>  <HIPPO Pose ID>  (24) 
+130458
+
+>  <exports>  (24) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch006_217077.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (24) 
+nan
+
+>  <subsites>  (24) 
+Green Site/RNA tunnel
+
+>  <original ID>  (24) 
+NQDDIJLQMDSXML-BDAKNGLRSA-N
+
+>  <inchikey>  (24) 
+NQDDIJLQMDSXML-BDAKNGLRSA-N
+
+>  <original SMILES>  (24) 
+CC[C@@H](C)n1ncc(NC(=O)NC[C@H](C)O)c1C
+
+>  <HIPPO Compound ID>  (24) 
+54862
+
+>  <SLURM_JOB_ID>  (24) 
+217077
+
+>  <ref_mols>  (24) 
+z0211a,z0653a
+
+>  <fragmenstein_runtime>  (24) 
+5.238658
+
+>  <scratch_subdir>  (24) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217077/C54862-P153
+
+>  <distance_score>  (24) 
+0.840132
+
+>  <name>  (24) 
+NQDDIJLQMDSXML-BDAKNGLRSA-N
+
+>  <fragmenstein_mode>  (24) 
+expansion
+
+>  <fragmenstein_error>  (24) 
+None
+
+>  <energy_score>  (24) 
+-19.728977
+
+>  <csv_name>  (24) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch006.csv
+
+$$$$
+QLFFONPVDDKJCE-SNVBAGLBSA-N
+     RDKit          3D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -21.0522  -33.0241  -23.8094 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.9338  -32.5345  -22.6712 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -21.1818  -31.6196  -21.8797 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.2081  -31.8899  -23.2021 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1279  -31.4907  -22.1703 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5499  -30.8767  -22.2740 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2027  -30.6794  -23.1892 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8665  -30.7039  -20.7511 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0531  -30.3536  -20.1118 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1154  -29.9008  -20.8934 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3957  -29.8245  -20.3681 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6166  -30.1766  -19.0464 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5429  -30.5275  -18.2179 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.8398  -30.8741  -16.8740 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9693  -31.2134  -15.8630 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.7261  -31.5656  -14.7716 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.0495  -31.3882  -15.1945 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.1265  -30.9326  -16.4441 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2410  -30.5988  -18.7482 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 13 19  2  0
+ 19  9  1  0
+ 18 14  1  0
+M  END
+>  <tags>  (25) 
+Enamine_Quote_1977854;Fragmenstein placed;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;JA curated INTERESTING;Knitwork pure merge
+
+>  <alias>  (25) 
+None
+
+>  <fragmenstein_outcome>  (25) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (25) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch006
+
+>  <merge_set>  (25) 
+nan
+
+>  <ref_pdb>  (25) 
+z0653a
+
+>  <HIPPO Pose ID>  (25) 
+130715
+
+>  <exports>  (25) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch006_217077.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (25) 
+nan
+
+>  <subsites>  (25) 
+Green Site/RNA tunnel
+
+>  <original ID>  (25) 
+QLFFONPVDDKJCE-SNVBAGLBSA-N
+
+>  <inchikey>  (25) 
+QLFFONPVDDKJCE-SNVBAGLBSA-N
+
+>  <original SMILES>  (25) 
+C[C@@H](O)CNC(=O)Nc1cccc(-n2cccn2)c1
+
+>  <HIPPO Compound ID>  (25) 
+55598
+
+>  <SLURM_JOB_ID>  (25) 
+217077
+
+>  <ref_mols>  (25) 
+z0211a,z0653a
+
+>  <fragmenstein_runtime>  (25) 
+4.003887
+
+>  <scratch_subdir>  (25) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217077/C55598-P153
+
+>  <distance_score>  (25) 
+0.787615
+
+>  <name>  (25) 
+QLFFONPVDDKJCE-SNVBAGLBSA-N
+
+>  <fragmenstein_mode>  (25) 
+expansion
+
+>  <fragmenstein_error>  (25) 
+None
+
+>  <energy_score>  (25) 
+-46.042673
+
+>  <csv_name>  (25) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch006.csv
+
+$$$$
+GLKYHQBKOTZYGD-SSDOTTSWSA-N
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+  -21.0567  -33.0423  -23.8377 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.8842  -32.5173  -22.6758 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -21.1173  -31.5405  -21.9748 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.2053  -31.9321  -23.1587 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.0307  -31.4601  -22.0812 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5469  -31.1218  -22.0494 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3462  -31.2465  -22.8530 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6741  -30.6594  -20.5671 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7804  -30.3722  -19.8246 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8108  -30.1143  -18.4345 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1485  -30.0826  -18.1175 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.7810  -29.9467  -16.7171 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3931  -30.8922  -15.6166 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.7355  -31.0257  -16.2702 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.8208  -30.2419  -19.2926 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.2364  -30.4233  -19.4639 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.0071  -30.3694  -20.3467 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 11 15  1  0
+ 15 16  1  0
+ 15 17  1  0
+ 17  9  2  0
+ 14 12  1  0
+M  END
+>  <tags>  (26) 
+Enamine_Quote_1977854;JA curated NO;Fragmenstein placed;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge
+
+>  <alias>  (26) 
+None
+
+>  <fragmenstein_outcome>  (26) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (26) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch006
+
+>  <merge_set>  (26) 
+nan
+
+>  <ref_pdb>  (26) 
+z0653a
+
+>  <HIPPO Pose ID>  (26) 
+130975
+
+>  <exports>  (26) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch006_217077.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (26) 
+nan
+
+>  <subsites>  (26) 
+Green Site/RNA tunnel
+
+>  <original ID>  (26) 
+GLKYHQBKOTZYGD-SSDOTTSWSA-N
+
+>  <inchikey>  (26) 
+GLKYHQBKOTZYGD-SSDOTTSWSA-N
+
+>  <original SMILES>  (26) 
+C[C@@H](O)CNC(=O)Nc1cc(C2CC2)n(C)n1
+
+>  <HIPPO Compound ID>  (26) 
+56548
+
+>  <SLURM_JOB_ID>  (26) 
+217077
+
+>  <ref_mols>  (26) 
+z0211a,z0653a
+
+>  <fragmenstein_runtime>  (26) 
+3.618871
+
+>  <scratch_subdir>  (26) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217077/C56548-P153
+
+>  <distance_score>  (26) 
+0.926145
+
+>  <name>  (26) 
+GLKYHQBKOTZYGD-SSDOTTSWSA-N
+
+>  <fragmenstein_mode>  (26) 
+expansion
+
+>  <fragmenstein_error>  (26) 
+None
+
+>  <energy_score>  (26) 
+-16.624212
+
+>  <csv_name>  (26) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch006.csv
+
+$$$$
+OXHXBAHSHMBTDQ-NSHDSACASA-N
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+  -24.4584  -31.3358  -14.6622 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7997  -31.3394  -15.3757 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3334  -29.9287  -15.5974 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.5122  -29.8610  -16.4488 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.8041  -29.7455  -16.0132 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6250  -29.7170  -17.1199 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.8081  -29.8343  -18.2767 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.0569  -29.9150  -19.6623 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9875  -30.1566  -20.5348 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7012  -30.3279  -20.0333 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6416  -30.7400  -20.8196 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5257  -30.8699  -22.3565 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2604  -30.5835  -23.1754 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1655  -31.5941  -22.4449 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.5017  -32.1863  -23.5663 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.9849  -31.9915  -23.4775 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -21.2617  -33.1502  -24.1306 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.5578  -31.9085  -22.1103 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.4224  -30.1682  -18.6810 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4932  -29.9323  -17.8219 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  1
+ 16 18  1  0
+ 10 19  1  0
+ 19 20  2  0
+ 20  4  1  0
+ 20  7  1  0
+M  END
+>  <tags>  (27) 
+Enamine_Quote_1977854;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;JA curated INTERESTING;Knitwork pure merge;iter1 scaffolds;Enamine_Quote_1970815;LCD curated INTERESTING
+
+>  <alias>  (27) 
+None
+
+>  <fragmenstein_outcome>  (27) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (27) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch008
+
+>  <merge_set>  (27) 
+nan
+
+>  <ref_pdb>  (27) 
+z0211a
+
+>  <HIPPO Pose ID>  (27) 
+132202
+
+>  <exports>  (27) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch008_217079.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (27) 
+nan
+
+>  <subsites>  (27) 
+Green Site/RNA tunnel
+
+>  <original ID>  (27) 
+OXHXBAHSHMBTDQ-NSHDSACASA-N
+
+>  <inchikey>  (27) 
+OXHXBAHSHMBTDQ-NSHDSACASA-N
+
+>  <original SMILES>  (27) 
+CCCn1ccc2ccc(NC(=O)NC[C@H](C)O)cc21
+
+>  <HIPPO Compound ID>  (27) 
+35145
+
+>  <SLURM_JOB_ID>  (27) 
+217079
+
+>  <ref_mols>  (27) 
+z0041a,z0211a
+
+>  <fragmenstein_runtime>  (27) 
+9.56863
+
+>  <scratch_subdir>  (27) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217079/C35145-P102
+
+>  <distance_score>  (27) 
+0.896831
+
+>  <name>  (27) 
+OXHXBAHSHMBTDQ-NSHDSACASA-N
+
+>  <fragmenstein_mode>  (27) 
+expansion
+
+>  <fragmenstein_error>  (27) 
+None
+
+>  <energy_score>  (27) 
+-4.236385
+
+>  <csv_name>  (27) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch008.csv
+
+$$$$
+WXJNUXZTXDROIJ-QMMMGPOBSA-N
+     RDKit          3D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -21.3896  -33.1582  -24.3603 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.2643  -32.1470  -23.6508 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -21.9971  -32.2374  -22.2394 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.7569  -32.3865  -23.9628 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.5291  -31.9103  -22.8644 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8817  -31.1585  -22.8408 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.5896  -30.8892  -23.6911 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0064  -30.9159  -21.3261 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0349  -30.3970  -20.5949 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8587  -30.3844  -19.2355 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.0088  -29.8692  -18.6694 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.0544  -29.7030  -17.2204 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8522  -29.7181  -16.4192 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1142  -29.7036  -15.0759 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.7731  -29.5495  -14.7963 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1795  -29.5849  -16.4486 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.9400  -29.6359  -19.5978 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3182  -29.9665  -20.7849 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1281  -30.0092  -21.9713 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 11 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 18  9  1  0
+ 16 12  2  0
+M  END
+>  <tags>  (28) 
+Enamine_Quote_1977854;JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds
+
+>  <alias>  (28) 
+None
+
+>  <fragmenstein_outcome>  (28) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (28) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011
+
+>  <merge_set>  (28) 
+nan
+
+>  <ref_pdb>  (28) 
+z0936a
+
+>  <HIPPO Pose ID>  (28) 
+134256
+
+>  <exports>  (28) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011_217082.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (28) 
+nan
+
+>  <subsites>  (28) 
+Green Site/RNA tunnel
+
+>  <original ID>  (28) 
+WXJNUXZTXDROIJ-QMMMGPOBSA-N
+
+>  <inchikey>  (28) 
+WXJNUXZTXDROIJ-QMMMGPOBSA-N
+
+>  <original SMILES>  (28) 
+C[C@H](O)CNC(=O)Nc1cc(-c2ccsc2)nn1C
+
+>  <HIPPO Compound ID>  (28) 
+55156
+
+>  <SLURM_JOB_ID>  (28) 
+217082
+
+>  <ref_mols>  (28) 
+z0211a,z0936a
+
+>  <fragmenstein_runtime>  (28) 
+5.559356
+
+>  <scratch_subdir>  (28) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217082/C55156-P196
+
+>  <distance_score>  (28) 
+0.902423
+
+>  <name>  (28) 
+WXJNUXZTXDROIJ-QMMMGPOBSA-N
+
+>  <fragmenstein_mode>  (28) 
+expansion
+
+>  <fragmenstein_error>  (28) 
+None
+
+>  <energy_score>  (28) 
+-33.785707
+
+>  <csv_name>  (28) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011.csv
+
+$$$$
+VRFUMBMWIYOQKS-QMMMGPOBSA-N
+     RDKit          3D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+  -20.9423  -33.2325  -24.0750 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.7269  -32.0467  -23.5796 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -21.4345  -31.8715  -22.1860 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.2147  -32.3089  -23.8047 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.9624  -31.6985  -22.7645 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3010  -30.9493  -22.8097 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.9473  -30.6553  -23.6938 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5557  -30.8054  -21.3015 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6403  -30.3781  -20.6412 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9026  -30.0228  -21.1317 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6359  -29.7542  -20.0026 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.7631  -29.8693  -18.9372 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.0598  -29.7530  -17.5589 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3629  -29.7474  -17.2487 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6382  -29.9818  -15.9709 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6873  -30.1181  -14.9910 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.3805  -30.0302  -15.3890 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0401  -29.8428  -16.6660 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.5392  -30.2625  -19.3296 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 12 19  1  0
+ 19  9  2  0
+ 18 13  1  0
+M  END
+>  <tags>  (29) 
+Enamine_Quote_1977854;JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds;Enamine_Quote_1970815;LCD curated INTERESTING
+
+>  <alias>  (29) 
+None
+
+>  <fragmenstein_outcome>  (29) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (29) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011
+
+>  <merge_set>  (29) 
+nan
+
+>  <ref_pdb>  (29) 
+z0211a
+
+>  <HIPPO Pose ID>  (29) 
+134267
+
+>  <exports>  (29) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011_217082.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (29) 
+nan
+
+>  <subsites>  (29) 
+Green Site/RNA tunnel
+
+>  <original ID>  (29) 
+VRFUMBMWIYOQKS-QMMMGPOBSA-N
+
+>  <inchikey>  (29) 
+VRFUMBMWIYOQKS-QMMMGPOBSA-N
+
+>  <original SMILES>  (29) 
+C[C@H](O)CNC(=O)Nc1ccn(-c2ncccn2)n1
+
+>  <HIPPO Compound ID>  (29) 
+55174
+
+>  <SLURM_JOB_ID>  (29) 
+217082
+
+>  <ref_mols>  (29) 
+z0211a,z0936a
+
+>  <fragmenstein_runtime>  (29) 
+6.330409
+
+>  <scratch_subdir>  (29) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217082/C55174-P102
+
+>  <distance_score>  (29) 
+0.931112
+
+>  <name>  (29) 
+VRFUMBMWIYOQKS-QMMMGPOBSA-N
+
+>  <fragmenstein_mode>  (29) 
+expansion
+
+>  <fragmenstein_error>  (29) 
+None
+
+>  <energy_score>  (29) 
+-45.80426
+
+>  <csv_name>  (29) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011.csv
+
+$$$$
+LYBJDPXLKAGWQA-NSHDSACASA-N
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+  -25.8269  -30.7094  -14.6554 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9981  -30.2165  -15.3980 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3647  -30.1209  -15.0666 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.9976  -29.7614  -16.2373 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.0170  -29.7683  -17.1950 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1271  -29.8677  -18.5910 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3451  -29.7903  -19.2572 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3535  -29.8415  -20.6492 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1690  -30.0752  -21.3543 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9861  -30.2964  -20.6674 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8216  -30.7192  -21.2787 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4732  -30.8643  -22.7801 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0734  -30.5832  -23.7043 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1192  -31.5939  -22.6537 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.2986  -32.1966  -23.6512 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.8226  -32.1414  -23.2690 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -21.0236  -33.0106  -24.2175 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.6295  -32.6247  -21.9344 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9527  -30.1454  -19.2970 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7919  -29.7957  -16.6387 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  6
+ 16 18  1  0
+ 10 19  2  0
+  5 20  1  0
+ 20  2  2  0
+ 19  6  1  0
+M  END
+>  <tags>  (30) 
+Enamine_Quote_1977854;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Enamine_Order_1968912;Green Site/RNA tunnel merge;JA curated YES;Knitwork pure merge;iter1 scaffolds;LCD curated INTERESTING
+
+>  <alias>  (30) 
+None
+
+>  <fragmenstein_outcome>  (30) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (30) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011
+
+>  <merge_set>  (30) 
+nan
+
+>  <ref_pdb>  (30) 
+z0211a
+
+>  <HIPPO Pose ID>  (30) 
+134697
+
+>  <exports>  (30) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011_217082.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/JA_curated_and_manual_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (30) 
+nan
+
+>  <subsites>  (30) 
+Green Site/RNA tunnel
+
+>  <original ID>  (30) 
+LYBJDPXLKAGWQA-NSHDSACASA-N
+
+>  <inchikey>  (30) 
+LYBJDPXLKAGWQA-NSHDSACASA-N
+
+>  <original SMILES>  (30) 
+Cc1ccn(-c2cccc(NC(=O)NC[C@H](C)O)c2)n1
+
+>  <HIPPO Compound ID>  (30) 
+55856
+
+>  <SLURM_JOB_ID>  (30) 
+217082
+
+>  <ref_mols>  (30) 
+z0211a,z0936a
+
+>  <fragmenstein_runtime>  (30) 
+2.445407
+
+>  <scratch_subdir>  (30) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217082/C55856-P102
+
+>  <distance_score>  (30) 
+0.741055
+
+>  <name>  (30) 
+LYBJDPXLKAGWQA-NSHDSACASA-N
+
+>  <fragmenstein_mode>  (30) 
+expansion
+
+>  <fragmenstein_error>  (30) 
+None
+
+>  <energy_score>  (30) 
+-25.566815
+
+>  <csv_name>  (30) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch011.csv
+
+$$$$
+DEGPAYOEPZCOBR-UHFFFAOYSA-N
+     RDKit          3D
+
+ 20 22  0  0  0  0  0  0  0  0999 V2000
+  -26.0968  -31.7801  -17.3571 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0016  -31.1395  -18.3560 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.2243  -30.6196  -17.9383 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1337  -30.0647  -18.7624 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.8166  -30.0266  -20.0703 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.6256  -30.5052  -20.5870 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6960  -31.0643  -19.7202 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4680  -31.5379  -20.1977 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.9151  -31.6385  -21.6666 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3769  -31.2686  -22.6772 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.5656  -32.3480  -21.5175 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.7625  -32.5725  -22.7573 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.4378  -32.2069  -22.9186 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.9305  -32.6684  -24.0866 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.9364  -33.3267  -24.7163 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.8100  -33.9874  -25.9370 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.9521  -34.6309  -26.4135 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1565  -34.5705  -25.7034 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.2493  -33.8946  -24.4743 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.1018  -33.2726  -23.9583 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+  7  2  1  0
+ 20 12  1  0
+ 20 15  1  0
+M  END
+>  <tags>  (31) 
+Fragmenstein placed;acceptable;best elaborated iter1 scaffold poses;Enamine_Order_1968912;Green Site/RNA tunnel merge;JA curated YES;Knitwork pure merge;iter1 scaffolds
+
+>  <alias>  (31) 
+None
+
+>  <fragmenstein_outcome>  (31) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (31) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch008
+
+>  <merge_set>  (31) 
+nan
+
+>  <ref_pdb>  (31) 
+z0411a
+
+>  <HIPPO Pose ID>  (31) 
+155833
+
+>  <exports>  (31) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch008_217079.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/JA_curated_and_manual_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (31) 
+nan
+
+>  <subsites>  (31) 
+Green Site/RNA tunnel
+
+>  <original ID>  (31) 
+DEGPAYOEPZCOBR-UHFFFAOYSA-N
+
+>  <inchikey>  (31) 
+DEGPAYOEPZCOBR-UHFFFAOYSA-N
+
+>  <original SMILES>  (31) 
+Cc1cnccc1NC(=O)Cc1coc2ccccc12
+
+>  <HIPPO Compound ID>  (31) 
+36458
+
+>  <SLURM_JOB_ID>  (31) 
+217079
+
+>  <ref_mols>  (31) 
+z0411a,3vws-a
+
+>  <fragmenstein_runtime>  (31) 
+5.697099
+
+>  <scratch_subdir>  (31) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217079/C36458-P123
+
+>  <distance_score>  (31) 
+0.887184
+
+>  <name>  (31) 
+DEGPAYOEPZCOBR-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (31) 
+expansion
+
+>  <fragmenstein_error>  (31) 
+None
+
+>  <energy_score>  (31) 
+-54.996595
+
+>  <csv_name>  (31) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch008.csv
+
+$$$$
+WZJPHEKPHALAMW-OAHLLOKOSA-N
+     RDKit          3D
+
+ 25 27  0  0  0  0  0  0  0  0999 V2000
+  -23.5284  -32.3419  -19.9256 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.0324  -32.3834  -21.3640 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -22.9421  -31.9364  -22.3456 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.5302  -32.9316  -23.3124 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1473  -33.0219  -23.6928 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1787  -33.4667  -25.1403 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.5385  -34.1212  -25.3160 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3795  -33.3789  -24.3164 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.5832  -33.2147  -24.4051 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.1889  -31.5309  -21.5405 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.5925  -31.8556  -22.0409 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0749  -32.8727  -22.3209 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.3293  -30.5795  -22.2490 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9515  -29.8499  -21.3114 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9429  -30.0586  -19.8654 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1450  -30.2489  -19.1941 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1529  -30.4215  -17.8074 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9690  -30.4109  -17.0512 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7623  -30.2225  -17.7434 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7617  -30.0137  -19.1261 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4495  -30.2531  -17.0126 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5749  -31.2313  -15.8637 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7086  -30.7853  -14.9632 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9840  -30.6690  -15.6758 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.0325  -29.9961  -14.9310 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  2 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 13 14  2  3
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 19 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+  8  4  1  0
+ 20 15  1  0
+ 24 18  1  0
+M  END
+>  <tags>  (32) 
+JA curated NO;Fragmenstein placed;acceptable;LCD curated YES;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Knitwork pure merge;iter1 scaffolds;Enamine_unavailable
+
+>  <alias>  (32) 
+None
+
+>  <fragmenstein_outcome>  (32) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (32) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch004
+
+>  <merge_set>  (32) 
+nan
+
+>  <ref_pdb>  (32) 
+z0904a
+
+>  <HIPPO Pose ID>  (32) 
+156338
+
+>  <exports>  (32) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch004_217075.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_pure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (32) 
+nan
+
+>  <subsites>  (32) 
+Green Site/RNA tunnel
+
+>  <original ID>  (32) 
+WZJPHEKPHALAMW-OAHLLOKOSA-N
+
+>  <inchikey>  (32) 
+WZJPHEKPHALAMW-OAHLLOKOSA-N
+
+>  <original SMILES>  (32) 
+C[C@H](CN1CCCC1=O)NC(=O)C=Cc1ccc2c(c1)CCCN2C
+
+>  <HIPPO Compound ID>  (32) 
+44380
+
+>  <SLURM_JOB_ID>  (32) 
+217075
+
+>  <ref_mols>  (32) 
+z0904a,z1018a
+
+>  <fragmenstein_runtime>  (32) 
+6.674646
+
+>  <scratch_subdir>  (32) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/217075/C44380-P7
+
+>  <distance_score>  (32) 
+0.762527
+
+>  <name>  (32) 
+WZJPHEKPHALAMW-OAHLLOKOSA-N
+
+>  <fragmenstein_mode>  (32) 
+expansion
+
+>  <fragmenstein_error>  (32) 
+None
+
+>  <energy_score>  (32) 
+-54.619278
+
+>  <csv_name>  (32) 
+RdRp_knitwork_green_site_rna_tunnel_pure_split4000_batch004.csv
+
+$$$$
+LQQWCINYCCMFRV-UHFFFAOYSA-N
+     RDKit          3D
+
+ 24 27  0  0  0  0  0  0  0  0999 V2000
+  -25.4165  -33.0678  -19.8921 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7009  -32.6492  -20.9467 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0169  -31.1556  -21.1573 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1530  -30.6906  -20.3038 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3159  -30.3337  -20.8735 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1639  -29.9939  -19.8301 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5019  -30.1147  -18.6468 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.0259  -29.8824  -17.3762 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1543  -30.0796  -16.3000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8308  -30.4797  -16.5072 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3367  -30.7069  -17.8003 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2036  -30.5277  -18.8920 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7372  -33.3546  -22.3367 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5215  -34.7488  -22.6944 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.4424  -35.5111  -21.9033 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.1509  -34.7841  -21.7717 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.6432  -33.6238  -22.3213 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.4682  -33.3105  -21.5975 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.5669  -32.2335  -21.5741 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.4996  -32.2769  -20.6674 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.3146  -33.3738  -19.8216 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.2083  -34.4497  -19.8250 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.2759  -34.3653  -20.7153 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.2763  -35.2812  -20.8457 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+  2 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 12  4  1  0
+ 24 16  1  0
+ 12  7  1  0
+ 23 18  1  0
+M  END
+>  <tags>  (33) 
+Enamine_Quote_1977854;RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf Pose OK;Fragmenstein placed;Knitwork impure merge;LCD curated YES;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;iter1 scaffolds
+
+>  <alias>  (33) 
+None
+
+>  <fragmenstein_outcome>  (33) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (33) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch003
+
+>  <merge_set>  (33) 
+RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf
+
+>  <ref_pdb>  (33) 
+z0111a
+
+>  <HIPPO Pose ID>  (33) 
+174899
+
+>  <exports>  (33) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch003_220454.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/syndirella/Retro_OK_batch3.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (33) 
+0.669853
+
+>  <subsites>  (33) 
+Green Site/RNA tunnel
+
+>  <original ID>  (33) 
+LQQWCINYCCMFRV-UHFFFAOYSA-N
+
+>  <inchikey>  (33) 
+LQQWCINYCCMFRV-UHFFFAOYSA-N
+
+>  <original SMILES>  (33) 
+O=C(Cc1noc2ccccc12)NCCc1cc2ccccc2o1
+
+>  <HIPPO Compound ID>  (33) 
+56786
+
+>  <SLURM_JOB_ID>  (33) 
+220454
+
+>  <ref_mols>  (33) 
+z0111a,3vws-b
+
+>  <fragmenstein_runtime>  (33) 
+3.55849
+
+>  <scratch_subdir>  (33) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/220454/C56786-P88
+
+>  <distance_score>  (33) 
+0.894052
+
+>  <name>  (33) 
+LQQWCINYCCMFRV-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (33) 
+expansion
+
+>  <fragmenstein_error>  (33) 
+None
+
+>  <energy_score>  (33) 
+-21.404264
+
+>  <csv_name>  (33) 
+RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch003.csv
+
+$$$$
+KSLLTEVDKMOHSW-KRWDZBQOSA-N
+     RDKit          3D
+
+ 23 26  0  0  0  0  0  0  0  0999 V2000
+  -29.2191  -30.5832  -16.2216 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.0176  -30.0880  -16.6570 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.7425  -29.7827  -17.9469 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.7050  -29.9964  -18.8829 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.9757  -30.4136  -18.5199 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.2115  -30.7418  -17.1737 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -31.0957  -30.3968  -19.5107 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.8096  -29.8303  -20.8840 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.5896  -28.9582  -20.9704 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.4082  -29.6378  -20.3398 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -28.0638  -30.7702  -21.2248 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9954  -30.4723  -22.1846 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8552  -29.8395  -21.4552 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4241  -28.5731  -21.9074 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.7587  -27.7357  -21.0422 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.5172  -28.2161  -19.7816 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8343  -29.4675  -19.3723 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4665  -30.3297  -20.1962 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6859  -31.6225  -19.7386 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.1140  -32.0417  -18.4622 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.9443  -33.5526  -18.5692 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0309  -33.9459  -19.5379 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0016  -32.8012  -20.5428 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  5  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  6
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  1  0
+  6  1  1  0
+ 18 13  1  0
+ 23 19  1  0
+ 10  4  1  0
+M  END
+>  <tags>  (34) 
+Enamine_Quote_1977854;RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf Pose OK;Fragmenstein placed;Knitwork impure merge;LCD curated YES;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;iter1 scaffolds
+
+>  <alias>  (34) 
+None
+
+>  <fragmenstein_outcome>  (34) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (34) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch001
+
+>  <merge_set>  (34) 
+RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf
+
+>  <ref_pdb>  (34) 
+z0200a
+
+>  <HIPPO Pose ID>  (34) 
+175443
+
+>  <exports>  (34) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch001_220452.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/syndirella/Retro_OK_batch3.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (34) 
+0.636188
+
+>  <subsites>  (34) 
+Green Site/RNA tunnel
+
+>  <original ID>  (34) 
+KSLLTEVDKMOHSW-KRWDZBQOSA-N
+
+>  <inchikey>  (34) 
+KSLLTEVDKMOHSW-KRWDZBQOSA-N
+
+>  <original SMILES>  (34) 
+c1cnc2c(c1)CCC[C@@H]2NCc1cccnc1N1CCCC1
+
+>  <HIPPO Compound ID>  (34) 
+61386
+
+>  <SLURM_JOB_ID>  (34) 
+220452
+
+>  <ref_mols>  (34) 
+d0472b,z0200a
+
+>  <fragmenstein_runtime>  (34) 
+2.506821
+
+>  <scratch_subdir>  (34) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/220452/C61386-P100
+
+>  <distance_score>  (34) 
+0.89828
+
+>  <name>  (34) 
+KSLLTEVDKMOHSW-KRWDZBQOSA-N
+
+>  <fragmenstein_mode>  (34) 
+expansion
+
+>  <fragmenstein_error>  (34) 
+None
+
+>  <energy_score>  (34) 
+-10.941015
+
+>  <csv_name>  (34) 
+RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch001.csv
+
+$$$$
+DHXCDLUKFAKLSY-UHFFFAOYSA-N
+     RDKit          3D
+
+ 24 27  0  0  0  0  0  0  0  0999 V2000
+  -27.1161  -31.9055  -21.8911 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1661  -31.5333  -21.3268 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.7242  -31.3444  -21.8216 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.1230  -31.6610  -23.0853 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.8692  -33.1457  -23.3490 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.1911  -34.0175  -22.3041 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.8404  -35.2396  -22.0204 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3093  -36.1592  -21.1291 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.1094  -35.8716  -20.4922 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.4179  -34.6794  -20.7518 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.2010  -34.4348  -20.0912 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.4836  -33.2634  -20.3131 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.9690  -32.3329  -21.2173 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1628  -32.5762  -21.9033 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.9414  -33.7342  -21.6758 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3344  -31.0529  -19.9078 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3192  -31.0511  -18.9333 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5464  -30.5497  -17.6476 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8060  -30.0652  -17.2783 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.8525  -30.0893  -18.2185 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2262  -29.7258  -18.1772 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.7652  -29.9719  -19.4193 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.7707  -30.4636  -20.2158 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.5935  -30.5689  -19.5024 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+  2 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 23 24  1  0
+ 15  6  1  0
+ 24 16  1  0
+ 15 10  1  0
+ 24 20  2  0
+M  END
+>  <tags>  (35) 
+Enamine_Quote_1977854;RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf Pose OK;Fragmenstein placed;Knitwork impure merge;LCD curated YES;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;iter1 scaffolds
+
+>  <alias>  (35) 
+None
+
+>  <fragmenstein_outcome>  (35) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (35) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch010
+
+>  <merge_set>  (35) 
+RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf
+
+>  <ref_pdb>  (35) 
+z0107a
+
+>  <HIPPO Pose ID>  (35) 
+180920
+
+>  <exports>  (35) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch010_220461.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/syndirella/Retro_OK_batch3.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (35) 
+0.675235
+
+>  <subsites>  (35) 
+Green Site/RNA tunnel
+
+>  <original ID>  (35) 
+DHXCDLUKFAKLSY-UHFFFAOYSA-N
+
+>  <inchikey>  (35) 
+DHXCDLUKFAKLSY-UHFFFAOYSA-N
+
+>  <original SMILES>  (35) 
+O=C(NCCc1cccc2ccccc12)c1cccc2cc[nH]c12
+
+>  <HIPPO Compound ID>  (35) 
+28628
+
+>  <SLURM_JOB_ID>  (35) 
+220461
+
+>  <ref_mols>  (35) 
+z0107a,3vws-b
+
+>  <fragmenstein_runtime>  (35) 
+3.634602
+
+>  <scratch_subdir>  (35) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/220461/C28628-P86
+
+>  <distance_score>  (35) 
+0.774008
+
+>  <name>  (35) 
+DHXCDLUKFAKLSY-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (35) 
+expansion
+
+>  <fragmenstein_error>  (35) 
+None
+
+>  <energy_score>  (35) 
+-41.775808
+
+>  <csv_name>  (35) 
+RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch010.csv
+
+$$$$
+SEXBZMJMGRUWGS-UHFFFAOYSA-N
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+  -31.0069  -30.4844  -20.2150 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.0584  -30.1243  -19.0856 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.8361  -29.5612  -19.6338 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.5899  -30.0804  -19.4050 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0062  -30.0776  -20.6421 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.9140  -30.7612  -21.0408 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.2097  -30.8181  -22.4244 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4221  -30.2233  -23.4061 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.2024  -31.9300  -22.2701 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.5083  -32.2686  -23.5752 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.0642  -33.7248  -23.6423 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.5167  -34.3218  -22.3725 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.9839  -35.5163  -21.8569 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.1863  -35.9875  -20.4352 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1725  -34.6013  -20.4606 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.1572  -34.2919  -19.5343 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.4359  -33.1084  -19.6852 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.7116  -32.2515  -20.7367 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.6904  -32.5818  -21.6782 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.4557  -33.7712  -21.5502 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.8351  -29.2954  -21.4489 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.8968  -28.8526  -20.7811 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+  5 21  1  0
+ 21 22  2  0
+ 22  3  1  0
+ 20 12  1  0
+ 20 15  1  0
+M  END
+>  <tags>  (36) 
+Enamine_Quote_1977854;RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf Pose OK;Fragmenstein placed;Knitwork impure merge;LCD curated YES;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;iter1 scaffolds
+
+>  <alias>  (36) 
+None
+
+>  <fragmenstein_outcome>  (36) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (36) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch004
+
+>  <merge_set>  (36) 
+RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf
+
+>  <ref_pdb>  (36) 
+z0215a
+
+>  <HIPPO Pose ID>  (36) 
+184490
+
+>  <exports>  (36) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch004_220455.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/syndirella/Retro_OK_batch3.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (36) 
+0.518134
+
+>  <subsites>  (36) 
+Green Site/RNA tunnel
+
+>  <original ID>  (36) 
+SEXBZMJMGRUWGS-UHFFFAOYSA-N
+
+>  <inchikey>  (36) 
+SEXBZMJMGRUWGS-UHFFFAOYSA-N
+
+>  <original SMILES>  (36) 
+CCn1cc(NC(=O)CCCc2csc3ccccc23)cn1
+
+>  <HIPPO Compound ID>  (36) 
+28301
+
+>  <SLURM_JOB_ID>  (36) 
+220455
+
+>  <ref_mols>  (36) 
+z0215a,3vws-b
+
+>  <fragmenstein_runtime>  (36) 
+5.225038
+
+>  <scratch_subdir>  (36) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/220455/C28301-P104
+
+>  <distance_score>  (36) 
+0.837353
+
+>  <name>  (36) 
+SEXBZMJMGRUWGS-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (36) 
+expansion
+
+>  <fragmenstein_error>  (36) 
+None
+
+>  <energy_score>  (36) 
+-15.401844
+
+>  <csv_name>  (36) 
+RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch004.csv
+
+$$$$
+FRNXPLHZHRXKEC-UHFFFAOYSA-N
+     RDKit          3D
+
+ 24 26  0  0  0  0  0  0  0  0999 V2000
+  -25.0081  -32.7545  -24.6973 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.8459  -33.0993  -24.4987 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.1514  -34.0973  -25.3991 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.7186  -33.6944  -25.7005 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.9752  -33.1554  -24.4779 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.7737  -33.2400  -23.1909 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.0877  -32.6849  -23.4154 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.7127  -31.9050  -22.3624 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.6293  -32.7849  -21.5158 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4383  -31.9639  -20.5295 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3103  -31.0118  -21.2210 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.5365  -30.6047  -20.6732 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5358  -30.2351  -21.5622 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.7975  -29.9223  -21.0928 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.1362  -29.9598  -19.7955 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1627  -30.1852  -18.9140 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.4757  -30.1415  -17.5591 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.4977  -30.2989  -16.5753 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1762  -30.4478  -16.9812 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0939  -30.6443  -16.0326 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.9333  -30.4858  -16.4397 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3996  -31.0022  -14.8885 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8429  -30.4678  -18.3251 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.8275  -30.4338  -19.3096 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 20 22  1  0
+ 19 23  1  0
+ 23 24  2  0
+  7  2  1  0
+ 24 12  1  0
+ 24 16  1  0
+M  CHG  2  20   1  22  -1
+M  END
+>  <tags>  (37) 
+Enamine_Quote_1977854;RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf Pose OK;Fragmenstein placed;Knitwork impure merge;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge
+
+>  <alias>  (37) 
+None
+
+>  <fragmenstein_outcome>  (37) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (37) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch017
+
+>  <merge_set>  (37) 
+RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf
+
+>  <ref_pdb>  (37) 
+z1040a
+
+>  <HIPPO Pose ID>  (37) 
+185617
+
+>  <exports>  (37) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch017_220468.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/syndirella/Retro_OK_batch3.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (37) 
+0.597887
+
+>  <subsites>  (37) 
+Green Site/RNA tunnel
+
+>  <original ID>  (37) 
+FRNXPLHZHRXKEC-UHFFFAOYSA-N
+
+>  <inchikey>  (37) 
+FRNXPLHZHRXKEC-UHFFFAOYSA-N
+
+>  <original SMILES>  (37) 
+O=C1CCCCN1CCCNc1ccnc2ccc([N+](=O)[O-])cc12
+
+>  <HIPPO Compound ID>  (37) 
+54938
+
+>  <SLURM_JOB_ID>  (37) 
+220468
+
+>  <ref_mols>  (37) 
+z1018a,z1040a
+
+>  <fragmenstein_runtime>  (37) 
+2.574526
+
+>  <scratch_subdir>  (37) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/220468/C54938-P208
+
+>  <distance_score>  (37) 
+0.708355
+
+>  <name>  (37) 
+FRNXPLHZHRXKEC-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (37) 
+expansion
+
+>  <fragmenstein_error>  (37) 
+None
+
+>  <energy_score>  (37) 
+-36.739179
+
+>  <csv_name>  (37) 
+RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch017.csv
+
+$$$$
+XWUQVDZICNOZJP-NSHDSACASA-N
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+  -23.9030  -33.7703  -20.5886 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.7672  -32.2572  -20.6462 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -22.9300  -31.7208  -21.8251 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.5954  -32.6147  -22.9131 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.2238  -32.9708  -23.1733 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.2082  -33.3700  -24.6353 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.6448  -33.7744  -24.9328 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4346  -32.9267  -23.9683 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.6017  -32.6002  -24.1100 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0444  -31.5618  -20.5958 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.4682  -32.0502  -20.9484 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8486  -33.1075  -21.2600 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.3772  -30.8253  -20.9298 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9857  -30.4268  -19.6291 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2967  -30.1248  -19.6448 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6009  -29.8204  -18.3828 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5296  -29.9009  -17.5548 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4411  -30.2342  -18.3308 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0751  -30.3646  -17.7596 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0036  -29.7783  -16.3359 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2379  -30.0166  -15.4518 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5773  -29.6587  -16.1040 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  2 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+  8  4  1  0
+ 18 14  1  0
+ 22 17  1  0
+M  END
+>  <tags>  (38) 
+RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf Pose OK;Fragmenstein placed;Knitwork impure merge;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;Enamine_unavailable
+
+>  <alias>  (38) 
+None
+
+>  <fragmenstein_outcome>  (38) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (38) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch019
+
+>  <merge_set>  (38) 
+RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf
+
+>  <ref_pdb>  (38) 
+z1018a
+
+>  <HIPPO Pose ID>  (38) 
+185920
+
+>  <exports>  (38) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch019_220470.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/syndirella/Retro_OK_batch3.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (38) 
+0.598991
+
+>  <subsites>  (38) 
+Green Site/RNA tunnel
+
+>  <original ID>  (38) 
+XWUQVDZICNOZJP-NSHDSACASA-N
+
+>  <inchikey>  (38) 
+XWUQVDZICNOZJP-NSHDSACASA-N
+
+>  <original SMILES>  (38) 
+C[C@@H](CN1CCCC1=O)NC(=O)Cc1n[nH]c2c1CCCC2
+
+>  <HIPPO Compound ID>  (38) 
+52471
+
+>  <SLURM_JOB_ID>  (38) 
+220470
+
+>  <ref_mols>  (38) 
+z0936a,z1018a
+
+>  <fragmenstein_runtime>  (38) 
+6.67232
+
+>  <scratch_subdir>  (38) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/220470/C52471-P206
+
+>  <distance_score>  (38) 
+0.851756
+
+>  <name>  (38) 
+XWUQVDZICNOZJP-NSHDSACASA-N
+
+>  <fragmenstein_mode>  (38) 
+expansion
+
+>  <fragmenstein_error>  (38) 
+None
+
+>  <energy_score>  (38) 
+-36.06925
+
+>  <csv_name>  (38) 
+RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch019.csv
+
+$$$$
+IANQXEAOAZTNLW-LLVKDONJSA-N
+     RDKit          3D
+
+ 22 23  0  0  0  0  0  0  0  0999 V2000
+  -26.2791  -30.5934  -23.0191 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6534  -30.8410  -22.1006 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.9933  -30.7043  -20.5846 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1802  -30.3321  -19.9567 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3453  -30.2149  -20.7159 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.5746  -30.0244  -20.0962 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6357  -29.9125  -18.7126 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.4674  -29.9298  -17.9430 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2334  -30.1407  -18.5730 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0572  -30.2412  -17.8780 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0834  -29.6495  -16.5807 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2756  -30.0897  -15.7520 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5749  -29.7467  -16.4595 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.2567  -31.5069  -21.9897 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3138  -31.9136  -23.0355 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -23.9727  -32.9290  -23.9910 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.3839  -34.2453  -23.3430 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.9710  -35.0849  -24.3343 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.9548  -32.4125  -22.5363 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1591  -32.7893  -23.5669 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.2923  -31.4823  -21.8211 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.0989  -33.4943  -21.7314 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+  2 14  1  0
+ 14 15  1  0
+ 15 16  1  1
+ 16 17  1  0
+ 17 18  1  0
+ 15 19  1  0
+ 19 20  1  0
+ 19 21  1  0
+ 19 22  1  0
+  9  4  1  0
+ 13  8  1  0
+M  END
+>  <tags>  (39) 
+RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf Pose OK;Fragmenstein placed;Knitwork impure merge;LCD curated YES;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;iter1 scaffolds;Enamine_unavailable
+
+>  <alias>  (39) 
+None
+
+>  <fragmenstein_outcome>  (39) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (39) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch003
+
+>  <merge_set>  (39) 
+RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf
+
+>  <ref_pdb>  (39) 
+z0211a
+
+>  <HIPPO Pose ID>  (39) 
+190746
+
+>  <exports>  (39) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch003_220454.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/syndirella/Retro_OK_batch3.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (39) 
+0.600998
+
+>  <subsites>  (39) 
+Green Site/RNA tunnel
+
+>  <original ID>  (39) 
+IANQXEAOAZTNLW-LLVKDONJSA-N
+
+>  <inchikey>  (39) 
+IANQXEAOAZTNLW-LLVKDONJSA-N
+
+>  <original SMILES>  (39) 
+O=C(Nc1cccc2c1OCCC2)N[C@H](CCO)C(F)(F)F
+
+>  <HIPPO Compound ID>  (39) 
+46539
+
+>  <SLURM_JOB_ID>  (39) 
+220454
+
+>  <ref_mols>  (39) 
+z0211a,z0991a
+
+>  <fragmenstein_runtime>  (39) 
+8.260692
+
+>  <scratch_subdir>  (39) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/220454/C46539-P102
+
+>  <distance_score>  (39) 
+0.684172
+
+>  <name>  (39) 
+IANQXEAOAZTNLW-LLVKDONJSA-N
+
+>  <fragmenstein_mode>  (39) 
+expansion
+
+>  <fragmenstein_error>  (39) 
+None
+
+>  <energy_score>  (39) 
+-27.821767
+
+>  <csv_name>  (39) 
+RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch003.csv
+
+$$$$
+ZTHISXNUAOFTJB-SNVBAGLBSA-N
+     RDKit          3D
+
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+  -24.5596  -33.9366  -20.9674 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4571  -33.0160  -21.4671 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -23.7420  -31.5652  -21.1345 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.9769  -30.9562  -21.8028 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0179  -30.7253  -22.9502 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0340  -30.6974  -20.6791 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.3146  -30.2181  -20.7573 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9532  -29.9863  -21.9504 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2267  -29.6285  -21.6408 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.4668  -29.6070  -20.3272 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.2886  -29.9162  -19.7612 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1439  -29.9361  -18.1732 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1958  -29.8360  -17.3812 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.8213  -30.0051  -16.0675 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4709  -30.1502  -15.8508 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6393  -30.0750  -17.3475 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.0028  -33.2298  -22.8497 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.5633  -33.0999  -23.0602 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.1075  -33.0623  -24.5038 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.8881  -34.0476  -25.3428 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.3500  -33.6895  -25.2657 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.8929  -33.5404  -23.8650 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.1045  -33.6712  -23.6924 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+  2 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  2  0
+ 11  7  1  0
+ 16 12  1  0
+ 22 17  1  0
+M  END
+>  <tags>  (40) 
+RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf Pose OK;Fragmenstein placed;Knitwork impure merge;LCD curated YES;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;iter1 scaffolds;Enamine_unavailable
+
+>  <alias>  (40) 
+None
+
+>  <fragmenstein_outcome>  (40) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (40) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch014
+
+>  <merge_set>  (40) 
+RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf
+
+>  <ref_pdb>  (40) 
+z0215a
+
+>  <HIPPO Pose ID>  (40) 
+196606
+
+>  <exports>  (40) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch014_220465.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/syndirella/Retro_OK_batch3.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (40) 
+0.739216
+
+>  <subsites>  (40) 
+Green Site/RNA tunnel
+
+>  <original ID>  (40) 
+ZTHISXNUAOFTJB-SNVBAGLBSA-N
+
+>  <inchikey>  (40) 
+ZTHISXNUAOFTJB-SNVBAGLBSA-N
+
+>  <original SMILES>  (40) 
+C[C@H](CC(=O)Nc1c[nH]nc1-c1nccs1)N1CCCCC1=O
+
+>  <HIPPO Compound ID>  (40) 
+23289
+
+>  <SLURM_JOB_ID>  (40) 
+220465
+
+>  <ref_mols>  (40) 
+z0215a,z1018a
+
+>  <fragmenstein_runtime>  (40) 
+5.892197
+
+>  <scratch_subdir>  (40) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/220465/C23289-P104
+
+>  <distance_score>  (40) 
+0.923437
+
+>  <name>  (40) 
+ZTHISXNUAOFTJB-SNVBAGLBSA-N
+
+>  <fragmenstein_mode>  (40) 
+expansion
+
+>  <fragmenstein_error>  (40) 
+None
+
+>  <energy_score>  (40) 
+-95.120887
+
+>  <csv_name>  (40) 
+RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch014.csv
+
+$$$$
+OUADHXQUGPVFPL-UHFFFAOYSA-N
+     RDKit          3D
+
+ 17 19  0  0  0  0  0  0  0  0999 V2000
+  -25.2310  -31.8425  -19.9734 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8203  -31.5848  -18.9125 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4653  -30.7912  -17.7549 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7523  -30.2454  -17.6294 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0629  -29.9262  -16.2939 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3572  -29.5995  -15.9151 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3154  -29.5632  -16.8943 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.0520  -29.8042  -18.1908 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.7797  -30.1369  -18.5851 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.6718  -30.3734  -20.0754 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6881  -29.6779  -20.9747 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1097  -29.2326  -20.9863 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.5286  -32.1389  -18.4807 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.7169  -31.9126  -17.3403 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.6475  -32.7146  -17.2786 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.7706  -33.4667  -18.3852 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.8382  -33.1276  -19.1563 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+  2 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  1  0
+  9  4  1  0
+ 12 10  1  0
+ 17 13  2  0
+M  END
+>  <tags>  (41) 
+Enamine_Quote_1977854;RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf Pose OK;Fragmenstein placed;Knitwork impure merge;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge
+
+>  <alias>  (41) 
+None
+
+>  <fragmenstein_outcome>  (41) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (41) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch011
+
+>  <merge_set>  (41) 
+RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf
+
+>  <ref_pdb>  (41) 
+z0637a
+
+>  <HIPPO Pose ID>  (41) 
+206741
+
+>  <exports>  (41) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch011_220462.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/syndirella/Retro_OK_batch3.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (41) 
+0.580927
+
+>  <subsites>  (41) 
+Green Site/RNA tunnel
+
+>  <original ID>  (41) 
+OUADHXQUGPVFPL-UHFFFAOYSA-N
+
+>  <inchikey>  (41) 
+OUADHXQUGPVFPL-UHFFFAOYSA-N
+
+>  <original SMILES>  (41) 
+O=C(Nc1cccnc1C1CC1)c1cn[nH]c1
+
+>  <HIPPO Compound ID>  (41) 
+20299
+
+>  <SLURM_JOB_ID>  (41) 
+220462
+
+>  <ref_mols>  (41) 
+z0215a,z0637a
+
+>  <fragmenstein_runtime>  (41) 
+3.20722
+
+>  <scratch_subdir>  (41) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/220462/C20299-P151
+
+>  <distance_score>  (41) 
+0.896531
+
+>  <name>  (41) 
+OUADHXQUGPVFPL-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (41) 
+expansion
+
+>  <fragmenstein_error>  (41) 
+None
+
+>  <energy_score>  (41) 
+-20.450256
+
+>  <csv_name>  (41) 
+RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch011.csv
+
+$$$$
+WNOQDDCSSLWEEK-UHFFFAOYSA-N
+     RDKit          3D
+
+ 20 23  0  0  0  0  0  0  0  0999 V2000
+  -28.0358  -29.0583  -20.3860 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7761  -29.2263  -20.8733 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3466  -30.2646  -20.1950 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.1553  -31.0289  -20.2715 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.9743  -32.0551  -19.4184 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.9353  -32.3746  -18.3634 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6596  -33.2978  -17.3853 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.4380  -34.0099  -17.0929 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.2084  -33.1782  -16.8509 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.0843  -33.3427  -17.6789 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.8852  -32.6758  -17.4231 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.8606  -31.8634  -16.2948 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.7829  -31.1541  -15.8658 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.1648  -30.4981  -14.7400 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.4750  -30.7859  -14.4312 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.9395  -31.6694  -15.4408 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.1447  -32.3323  -15.7247 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0964  -31.6962  -18.3693 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.3092  -30.6665  -19.2712 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.4063  -29.8874  -19.4129 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+  6 18  2  0
+ 18 19  1  0
+ 19 20  1  0
+ 20  1  2  0
+ 19  3  1  0
+ 17  9  1  0
+ 16 12  1  0
+M  END
+>  <tags>  (42) 
+Enamine_Quote_1977854;RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf Pose OK;Fragmenstein placed;Knitwork impure merge;LCD curated YES;acceptable;best elaborated iter1 scaffold poses;Green Site/RNA tunnel merge;iter1 scaffolds
+
+>  <alias>  (42) 
+None
+
+>  <fragmenstein_outcome>  (42) 
+acceptable
+
+>  <SLURM_JOB_NAME>  (42) 
+BulkDock.place:Flavi_NS5_RdRp:RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch006
+
+>  <merge_set>  (42) 
+RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf
+
+>  <ref_pdb>  (42) 
+3vws-a
+
+>  <HIPPO Pose ID>  (42) 
+214592
+
+>  <exports>  (42) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch006_220457.sdf;/opt/xchem-fragalysis-2/maxwin/BulkDock/OUTPUTS/RdRp_knitwork_green_site_rna_tunnel_impure_fragalysis.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/syndirella/Retro_OK_batch3.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/quotes/combined_jan2025_ordered.sdf;/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (42) 
+0.759464
+
+>  <subsites>  (42) 
+Green Site/RNA tunnel
+
+>  <original ID>  (42) 
+WNOQDDCSSLWEEK-UHFFFAOYSA-N
+
+>  <inchikey>  (42) 
+WNOQDDCSSLWEEK-UHFFFAOYSA-N
+
+>  <original SMILES>  (42) 
+c1nc2ccc(NCc3ccc4occc4c3)cn2n1
+
+>  <HIPPO Compound ID>  (42) 
+60663
+
+>  <SLURM_JOB_ID>  (42) 
+220457
+
+>  <ref_mols>  (42) 
+z0521a,3vws-a
+
+>  <fragmenstein_runtime>  (42) 
+2.483314
+
+>  <scratch_subdir>  (42) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/SCRATCH/220457/C60663-P218
+
+>  <distance_score>  (42) 
+0.97416
+
+>  <name>  (42) 
+WNOQDDCSSLWEEK-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (42) 
+expansion
+
+>  <fragmenstein_error>  (42) 
+None
+
+>  <energy_score>  (42) 
+-39.392499
+
+>  <csv_name>  (42) 
+RdRp_knitwork_green_site_rna_tunnel_impure_split4000_batch006.csv
+
+$$$$
+ZAXPKNMZZARUDB-UHFFFAOYSA-N
+     RDKit          3D
+
+ 23 26  0  0  0  0  0  0  0  0999 V2000
+  -26.6329  -33.8957  -22.3263 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8215  -33.6278  -21.5281 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8473  -34.6910  -21.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4251  -34.3249  -21.2160 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.7801  -33.3884  -21.9986 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.4703  -33.2706  -21.4707 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.3920  -32.3928  -21.6618 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.2494  -32.5632  -20.8674 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.1523  -33.6081  -19.9457 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.2117  -34.4967  -19.7508 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3540  -34.2686  -20.5125 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.5289  -34.9412  -20.3892 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4722  -32.2637  -20.8638 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.9877  -30.9360  -21.1181 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2059  -30.6054  -20.3073 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3273  -30.3147  -20.9709 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.5429  -30.0167  -19.9045 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5894  -30.1611  -18.4828 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.9708  -30.0127  -17.1386 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9998  -30.1920  -16.1529 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6876  -30.4952  -16.4969 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.3175  -30.6380  -17.8395 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2823  -30.4834  -18.8644 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+  2 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 22 23  2  0
+ 12  4  1  0
+ 23 15  1  0
+ 11  6  1  0
+ 23 18  1  0
+M  END
+>  <tags>  (43) 
+best elaborated iter1 scaffold poses
+
+>  <alias>  (43) 
+None
+
+>  <fragmenstein_outcome>  (43) 
+nan
+
+>  <SLURM_JOB_NAME>  (43) 
+nan
+
+>  <merge_set>  (43) 
+nan
+
+>  <ref_pdb>  (43) 
+z0111a
+
+>  <HIPPO Pose ID>  (43) 
+239420
+
+>  <exports>  (43) 
+/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (43) 
+nan
+
+>  <subsites>  (43) 
+Green Site/RNA tunnel
+
+>  <original ID>  (43) 
+ZAXPKNMZZARUDB-UHFFFAOYSA-N
+
+>  <inchikey>  (43) 
+ZAXPKNMZZARUDB-UHFFFAOYSA-N
+
+>  <original SMILES>  (43) 
+O=C(Cc1cc2ccccc2o1)NCc1nsc2ccccc12
+
+>  <HIPPO Compound ID>  (43) 
+55535
+
+>  <SLURM_JOB_ID>  (43) 
+nan
+
+>  <ref_mols>  (43) 
+z0111a,3vws-b
+
+>  <fragmenstein_runtime>  (43) 
+nan
+
+>  <scratch_subdir>  (43) 
+nan
+
+>  <distance_score>  (43) 
+0.915131
+
+>  <name>  (43) 
+ZAXPKNMZZARUDB-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (43) 
+nan
+
+>  <fragmenstein_error>  (43) 
+nan
+
+>  <energy_score>  (43) 
+-21.216327
+
+>  <csv_name>  (43) 
+nan
+
+$$$$
+DNLUSRYLIQAQAE-NSHDSACASA-N
+     RDKit          3D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+  -15.7661  -38.7909  -23.3149 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.3812  -39.3107  -22.9399 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -14.4960  -40.4611  -22.0578 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.4108  -41.2885  -21.3481 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.2568  -41.1338  -21.2950 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.9911  -42.5038  -20.6890 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.4885  -42.8730  -19.4471 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.0129  -43.9991  -18.8481 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.9525  -44.7904  -19.4071 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.4280  -44.4284  -20.6293 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.4514  -45.2507  -21.1971 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -16.8921  -46.4511  -20.6628 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.8764  -46.9645  -21.4757 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -18.0847  -46.0429  -22.5193 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -17.1957  -45.0083  -22.3341 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.9668  -43.2984  -21.3059 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.5082  -38.2225  -22.3677 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.7911  -36.9352  -22.2757 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.6501  -36.3159  -21.8391 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6426  -37.2292  -21.6726 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.2044  -38.4370  -21.9781 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 10 16  2  0
+  2 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 16  6  1  0
+ 21 17  1  0
+ 15 11  1  0
+M  END
+>  <tags>  (44) 
+best elaborated iter1 scaffold poses
+
+>  <alias>  (44) 
+None
+
+>  <fragmenstein_outcome>  (44) 
+nan
+
+>  <SLURM_JOB_NAME>  (44) 
+nan
+
+>  <merge_set>  (44) 
+nan
+
+>  <ref_pdb>  (44) 
+d0472a
+
+>  <HIPPO Pose ID>  (44) 
+249635
+
+>  <exports>  (44) 
+/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (44) 
+nan
+
+>  <subsites>  (44) 
+Primer grip/N-pocket
+
+>  <original ID>  (44) 
+DNLUSRYLIQAQAE-NSHDSACASA-N
+
+>  <inchikey>  (44) 
+DNLUSRYLIQAQAE-NSHDSACASA-N
+
+>  <original SMILES>  (44) 
+C[C@H](NC(=O)c1ccnc(-n2cccc2)c1)c1ncc[nH]1
+
+>  <HIPPO Compound ID>  (44) 
+19774
+
+>  <SLURM_JOB_ID>  (44) 
+nan
+
+>  <ref_mols>  (44) 
+d0472a,z0103a
+
+>  <fragmenstein_runtime>  (44) 
+nan
+
+>  <scratch_subdir>  (44) 
+nan
+
+>  <distance_score>  (44) 
+0.86644
+
+>  <name>  (44) 
+DNLUSRYLIQAQAE-NSHDSACASA-N
+
+>  <fragmenstein_mode>  (44) 
+nan
+
+>  <fragmenstein_error>  (44) 
+nan
+
+>  <energy_score>  (44) 
+-3.80316
+
+>  <csv_name>  (44) 
+nan
+
+$$$$
+PGVYGILCFWWCGJ-RDDDGLTNSA-N
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+  -24.0764  -33.2655  -24.1372 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4172  -32.0380  -23.5095 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -24.2420  -31.5998  -22.4039 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5763  -30.8162  -22.3978 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1602  -30.3488  -23.2581 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8740  -30.8286  -20.8701 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9715  -30.3554  -20.1648 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1818  -30.0681  -20.7995 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3065  -29.7221  -20.0550 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2324  -29.5771  -18.6674 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9802  -29.7270  -18.0652 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.5895  -29.5389  -16.7590 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2641  -29.8456  -16.6078 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.7844  -30.2428  -17.8337 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8553  -30.1513  -18.7722 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.9837  -32.2584  -22.9952 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -22.0148  -33.1045  -21.8215 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.0180  -32.7852  -24.0474 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.4745  -33.9225  -24.6138 F   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.8586  -33.1200  -23.4145 F   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+  2 16  1  0
+ 16 17  1  1
+ 16 18  1  0
+ 18 19  1  0
+ 18 20  1  0
+ 15  7  1  0
+ 15 11  2  0
+M  END
+>  <tags>  (45) 
+best elaborated iter1 scaffold poses
+
+>  <alias>  (45) 
+None
+
+>  <fragmenstein_outcome>  (45) 
+nan
+
+>  <SLURM_JOB_NAME>  (45) 
+nan
+
+>  <merge_set>  (45) 
+nan
+
+>  <ref_pdb>  (45) 
+z0041a
+
+>  <HIPPO Pose ID>  (45) 
+285895
+
+>  <exports>  (45) 
+/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (45) 
+nan
+
+>  <subsites>  (45) 
+Green Site/RNA tunnel
+
+>  <original ID>  (45) 
+PGVYGILCFWWCGJ-RDDDGLTNSA-N
+
+>  <inchikey>  (45) 
+PGVYGILCFWWCGJ-RDDDGLTNSA-N
+
+>  <original SMILES>  (45) 
+C[C@@H](NC(=O)Nc1cccc2[nH]ccc12)[C@@H](O)C(F)F
+
+>  <HIPPO Compound ID>  (45) 
+43135
+
+>  <SLURM_JOB_ID>  (45) 
+nan
+
+>  <ref_mols>  (45) 
+z0041a,z0211a
+
+>  <fragmenstein_runtime>  (45) 
+nan
+
+>  <scratch_subdir>  (45) 
+nan
+
+>  <distance_score>  (45) 
+0.750479
+
+>  <name>  (45) 
+PGVYGILCFWWCGJ-RDDDGLTNSA-N
+
+>  <fragmenstein_mode>  (45) 
+nan
+
+>  <fragmenstein_error>  (45) 
+nan
+
+>  <energy_score>  (45) 
+-1.067182
+
+>  <csv_name>  (45) 
+nan
+
+$$$$
+UKWFLRZSMSDWTC-SNVBAGLBSA-N
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+  -21.0794  -32.8903  -23.7625 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.0974  -32.6335  -22.6666 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -21.4746  -31.8828  -21.6254 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.2937  -31.8679  -23.2216 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.2471  -31.5134  -22.2077 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.6455  -30.8625  -22.3310 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2522  -30.5931  -23.2554 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0205  -30.7786  -20.8244 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2226  -30.4410  -20.2140 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3510  -30.1430  -20.9666 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.5646  -29.9076  -20.3296 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6221  -29.8707  -18.9385 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.4652  -30.0286  -18.1729 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2868  -30.3923  -18.8208 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.1701  -30.7928  -18.1434 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.9745  -30.2177  -16.8528 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3847  -28.8496  -17.1235 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.9033  -31.0755  -16.1603 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2339  -30.1826  -15.9717 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5100  -29.7804  -16.6989 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 16 18  1  0
+ 16 19  1  0
+ 19 20  1  0
+ 14  9  1  0
+ 20 13  1  0
+M  END
+>  <tags>  (46) 
+best elaborated iter1 scaffold poses
+
+>  <alias>  (46) 
+None
+
+>  <fragmenstein_outcome>  (46) 
+nan
+
+>  <SLURM_JOB_NAME>  (46) 
+nan
+
+>  <merge_set>  (46) 
+nan
+
+>  <ref_pdb>  (46) 
+z0211a
+
+>  <HIPPO Pose ID>  (46) 
+302161
+
+>  <exports>  (46) 
+/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (46) 
+nan
+
+>  <subsites>  (46) 
+Green Site/RNA tunnel
+
+>  <original ID>  (46) 
+UKWFLRZSMSDWTC-SNVBAGLBSA-N
+
+>  <inchikey>  (46) 
+UKWFLRZSMSDWTC-SNVBAGLBSA-N
+
+>  <original SMILES>  (46) 
+C[C@@H](O)CNC(=O)Nc1cccc2c1OC(C)(C)CC2
+
+>  <HIPPO Compound ID>  (46) 
+53809
+
+>  <SLURM_JOB_ID>  (46) 
+nan
+
+>  <ref_mols>  (46) 
+z0211a,z0991a
+
+>  <fragmenstein_runtime>  (46) 
+nan
+
+>  <scratch_subdir>  (46) 
+nan
+
+>  <distance_score>  (46) 
+0.769229
+
+>  <name>  (46) 
+UKWFLRZSMSDWTC-SNVBAGLBSA-N
+
+>  <fragmenstein_mode>  (46) 
+nan
+
+>  <fragmenstein_error>  (46) 
+nan
+
+>  <energy_score>  (46) 
+-1.687496
+
+>  <csv_name>  (46) 
+nan
+
+$$$$
+ZFGFQBONQPPJMM-UHFFFAOYSA-N
+     RDKit          3D
+
+ 19 21  0  0  0  0  0  0  0  0999 V2000
+  -26.5916  -32.4315  -13.8847 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2249  -31.2763  -15.3534 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.8971  -30.9032  -15.5267 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.5977  -30.1067  -16.6057 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5102  -29.6863  -17.5009 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.8048  -30.0352  -17.3240 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.7614  -29.5953  -18.2622 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.3322  -28.8634  -19.4276 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0385  -29.8300  -20.4865 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.5415  -29.1735  -21.7464 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.7081  -29.8782  -22.9422 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2200  -29.3552  -24.1247 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5761  -28.1795  -24.1817 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3991  -27.5140  -23.0203 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8521  -27.9626  -21.7906 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1094  -29.9547  -18.1578 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.5321  -30.7198  -17.0839 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6060  -31.1546  -16.1391 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2298  -30.8358  -16.2462 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+  7 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19  2  1  0
+ 19  6  1  0
+ 15 10  1  0
+M  END
+>  <tags>  (47) 
+best elaborated iter1 scaffold poses
+
+>  <alias>  (47) 
+None
+
+>  <fragmenstein_outcome>  (47) 
+nan
+
+>  <SLURM_JOB_NAME>  (47) 
+nan
+
+>  <merge_set>  (47) 
+nan
+
+>  <ref_pdb>  (47) 
+z0221a
+
+>  <HIPPO Pose ID>  (47) 
+354877
+
+>  <exports>  (47) 
+/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (47) 
+nan
+
+>  <subsites>  (47) 
+Green Site/RNA tunnel
+
+>  <original ID>  (47) 
+ZFGFQBONQPPJMM-UHFFFAOYSA-N
+
+>  <inchikey>  (47) 
+ZFGFQBONQPPJMM-UHFFFAOYSA-N
+
+>  <original SMILES>  (47) 
+Brc1ccnc2c(NCc3ccncc3)cccc12
+
+>  <HIPPO Compound ID>  (47) 
+56537
+
+>  <SLURM_JOB_ID>  (47) 
+nan
+
+>  <ref_mols>  (47) 
+z0221a,z1040a
+
+>  <fragmenstein_runtime>  (47) 
+nan
+
+>  <scratch_subdir>  (47) 
+nan
+
+>  <distance_score>  (47) 
+0.641547
+
+>  <name>  (47) 
+ZFGFQBONQPPJMM-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (47) 
+nan
+
+>  <fragmenstein_error>  (47) 
+nan
+
+>  <energy_score>  (47) 
+-11.947548
+
+>  <csv_name>  (47) 
+nan
+
+$$$$
+AWQDWKYDKALBOD-UHFFFAOYSA-N
+     RDKit          3D
+
+ 23 26  0  0  0  0  0  0  0  0999 V2000
+  -23.6346  -36.7221  -22.2552 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.6538  -35.6960  -21.8436 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.6779  -36.0912  -20.9768 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.8850  -35.0073  -20.7512 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.7608  -34.9864  -19.9293 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.0441  -33.7870  -19.8802 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -19.4492  -32.6757  -20.6197 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -20.5906  -32.7195  -21.4274 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3315  -33.9154  -21.4836 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.5298  -34.3472  -22.1229 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.4782  -33.5762  -22.8957 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.9867  -34.0038  -23.9267 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.7931  -32.3364  -22.4195 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.8216  -32.1029  -20.9959 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.1129  -31.4376  -20.6030 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.3585  -31.2960  -19.1647 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.5059  -30.7370  -18.7462 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4466  -30.3125  -19.6817 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6647  -29.7607  -19.4709 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1294  -29.6190  -20.7134 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.2867  -29.9894  -21.7131 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.2441  -30.4374  -21.0560 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0245  -31.0056  -21.4994 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 10  2  2  0
+ 23 15  2  0
+  9  4  1  0
+ 22 18  1  0
+M  END
+>  <tags>  (48) 
+best elaborated iter1 scaffold poses
+
+>  <alias>  (48) 
+None
+
+>  <fragmenstein_outcome>  (48) 
+nan
+
+>  <SLURM_JOB_NAME>  (48) 
+nan
+
+>  <merge_set>  (48) 
+nan
+
+>  <ref_pdb>  (48) 
+z0521a
+
+>  <HIPPO Pose ID>  (48) 
+356261
+
+>  <exports>  (48) 
+/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (48) 
+nan
+
+>  <subsites>  (48) 
+Green Site/RNA tunnel
+
+>  <original ID>  (48) 
+AWQDWKYDKALBOD-UHFFFAOYSA-N
+
+>  <inchikey>  (48) 
+AWQDWKYDKALBOD-UHFFFAOYSA-N
+
+>  <original SMILES>  (48) 
+Cc1oc2ccccc2c1C(=O)OCc1ccn2ncnc2c1
+
+>  <HIPPO Compound ID>  (48) 
+60687
+
+>  <SLURM_JOB_ID>  (48) 
+nan
+
+>  <ref_mols>  (48) 
+z0521a,3vws-b
+
+>  <fragmenstein_runtime>  (48) 
+nan
+
+>  <scratch_subdir>  (48) 
+nan
+
+>  <distance_score>  (48) 
+0.540488
+
+>  <name>  (48) 
+AWQDWKYDKALBOD-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (48) 
+nan
+
+>  <fragmenstein_error>  (48) 
+nan
+
+>  <energy_score>  (48) 
+-27.844533
+
+>  <csv_name>  (48) 
+nan
+
+$$$$
+SGOQIRYDERXCCT-UHFFFAOYSA-N
+     RDKit          3D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+  -27.5098  -30.3615  -23.2222 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.5186  -31.5565  -22.9542 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.7467  -32.0273  -21.6970 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4749  -31.0579  -20.6629 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6157  -30.0577  -20.3824 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6557  -29.6312  -18.9586 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.5694  -30.4025  -18.1076 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3966  -30.1234  -16.6214 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.9464  -30.3357  -16.2227 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.0646  -29.4898  -17.0973 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.8274  -29.0665  -16.5991 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.0217  -28.2275  -17.3587 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.4329  -27.8101  -18.6169 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.6426  -28.2716  -19.1314 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.4666  -29.1461  -18.4038 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.1773  -32.5758  -23.9485 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.2254  -32.2470  -24.9306 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.0468  -33.2531  -25.7540 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -26.9481  -34.6615  -25.4143 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.6640  -33.8590  -24.0879 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.0127  -34.7206  -23.0641 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+  2 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 15  6  1  0
+ 20 16  2  0
+ 15 10  1  0
+M  END
+>  <tags>  (49) 
+best elaborated iter1 scaffold poses
+
+>  <alias>  (49) 
+None
+
+>  <fragmenstein_outcome>  (49) 
+nan
+
+>  <SLURM_JOB_NAME>  (49) 
+nan
+
+>  <merge_set>  (49) 
+nan
+
+>  <ref_pdb>  (49) 
+z0165a
+
+>  <HIPPO Pose ID>  (49) 
+364369
+
+>  <exports>  (49) 
+/opt/xchem-fragalysis-2/maxwin/RdRp_FFF/hippo/iter1_elaborated_scaffold_poses.sdf
+
+>  <Multi-SuCOS>  (49) 
+nan
+
+>  <subsites>  (49) 
+Green Site/RNA tunnel
+
+>  <original ID>  (49) 
+SGOQIRYDERXCCT-UHFFFAOYSA-N
+
+>  <inchikey>  (49) 
+SGOQIRYDERXCCT-UHFFFAOYSA-N
+
+>  <original SMILES>  (49) 
+O=C(OCCN1CCCc2ccccc21)c1ncsc1Br
+
+>  <HIPPO Compound ID>  (49) 
+28106
+
+>  <SLURM_JOB_ID>  (49) 
+nan
+
+>  <ref_mols>  (49) 
+z0165a,z0628a
+
+>  <fragmenstein_runtime>  (49) 
+nan
+
+>  <scratch_subdir>  (49) 
+nan
+
+>  <distance_score>  (49) 
+0.985208
+
+>  <name>  (49) 
+SGOQIRYDERXCCT-UHFFFAOYSA-N
+
+>  <fragmenstein_mode>  (49) 
+nan
+
+>  <fragmenstein_error>  (49) 
+nan
+
+>  <energy_score>  (49) 
+-75.0354
+
+>  <csv_name>  (49) 
+nan
+
+$$$$
