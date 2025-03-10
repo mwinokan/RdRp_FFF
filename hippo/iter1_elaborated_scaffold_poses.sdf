@@ -2,21 +2,21 @@ ver_1.2
      RDKit          3D
 
  15 16  0  0  0  0  0  0  0  0999 V2000
-    4.4699   -0.6014    0.8834 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.7461    0.5403    0.1570 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.6176    0.8214   -1.0768 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.4772   -0.0323   -0.3098 N   0  0  0  0  0  0  0  0  0  0  0  0
-    1.3907   -0.2642    0.4752 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.4148   -0.8037   -0.3261 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.9061   -1.2384   -0.0461 N   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.9652   -0.3244   -0.2749 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.8490    0.9519   -0.2142 N   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.0437    1.7743   -0.4781 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.1141    1.3457    0.5337 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.8509    0.1008    0.0349 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.5870   -0.9968   -0.6798 S   0  0  0  0  0  0  0  0  0  0  0  0
-    0.9717   -0.8762   -1.6062 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.2282   -0.3969   -1.5524 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1616    1.7475   -0.0478 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9499    0.3491    0.5679 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9214   -0.5584   -0.1530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5741   -0.0369    0.2835 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7025    0.4892   -0.5893 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5108   -0.2125   -0.5010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6403    0.1063   -1.3073 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8721    0.1172   -0.6212 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2542   -0.9149    0.0266 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5394   -0.9009    0.7386 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6021   -0.5118   -0.2349 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6423    0.9518   -0.5135 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9432    1.5654   -0.6417 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7026   -1.1694    0.4468 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9707   -1.0216    0.8925 N   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  1  0
   2  3  1  0
   2  4  1  0
@@ -209,9 +209,6 @@ QOAMYTSWHMHASV-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (1) 
 expansion
 
->  <fragmenstein_error>  (1) 
-
-
 >  <energy_score>  (1) 
 -35.222787
 
@@ -328,9 +325,6 @@ KAFGNTYOOWFSHX-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (2) 
 expansion
 
->  <fragmenstein_error>  (2) 
-
-
 >  <energy_score>  (2) 
 -89.018391
 
@@ -434,9 +428,6 @@ DJVQSQXCKGQNJE-UHFFFAOYSA-N
 
 >  <fragmenstein_mode>  (3) 
 expansion
-
->  <fragmenstein_error>  (3) 
-None
 
 >  <energy_score>  (3) 
 -27.523897
@@ -560,9 +551,6 @@ HGMRINZTTPAZBD-LBPRGKRZSA-N
 >  <fragmenstein_mode>  (4) 
 expansion
 
->  <fragmenstein_error>  (4) 
-None
-
 >  <energy_score>  (4) 
 -40.513359
 
@@ -682,9 +670,6 @@ KZGPDDSEMZONAM-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (5) 
 expansion
 
->  <fragmenstein_error>  (5) 
-None
-
 >  <energy_score>  (5) 
 -34.154073
 
@@ -802,9 +787,6 @@ YAOSTISNIUSXMX-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (6) 
 expansion
 
->  <fragmenstein_error>  (6) 
-None
-
 >  <energy_score>  (6) 
 -10.708304
 
@@ -918,9 +900,6 @@ QYRRPPSGQNMPRP-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (7) 
 expansion
 
->  <fragmenstein_error>  (7) 
-None
-
 >  <energy_score>  (7) 
 -61.013959
 
@@ -1030,9 +1009,6 @@ GZPXXQDQKSPFSB-MRVPVSSYSA-N
 
 >  <fragmenstein_mode>  (8) 
 expansion
-
->  <fragmenstein_error>  (8) 
-None
 
 >  <energy_score>  (8) 
 -30.250293
@@ -1150,9 +1126,6 @@ UIINRFUWBVLBNK-NSHDSACASA-N
 >  <fragmenstein_mode>  (9) 
 expansion
 
->  <fragmenstein_error>  (9) 
-None
-
 >  <energy_score>  (9) 
 18.950566
 
@@ -1264,9 +1237,6 @@ VEAPMNAYWNOMRJ-VIFPVBQESA-N
 >  <fragmenstein_mode>  (10) 
 expansion
 
->  <fragmenstein_error>  (10) 
-None
-
 >  <energy_score>  (10) 
 -41.942987
 
@@ -1377,9 +1347,6 @@ WVGFLLFSIMGYJN-LURJTMIESA-N
 
 >  <fragmenstein_mode>  (11) 
 expansion
-
->  <fragmenstein_error>  (11) 
-None
 
 >  <energy_score>  (11) 
 -30.224196
@@ -1497,9 +1464,6 @@ FGZCUNYQGFTGLS-LLVKDONJSA-N
 >  <fragmenstein_mode>  (12) 
 expansion
 
->  <fragmenstein_error>  (12) 
-None
-
 >  <energy_score>  (12) 
 -6.224139
 
@@ -1609,9 +1573,6 @@ GTOPDHADXIWWQI-MRVPVSSYSA-N
 
 >  <fragmenstein_mode>  (13) 
 expansion
-
->  <fragmenstein_error>  (13) 
-None
 
 >  <energy_score>  (13) 
 -8.271996
@@ -1732,9 +1693,6 @@ PPLQPJVUYBOHPD-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (14) 
 expansion
 
->  <fragmenstein_error>  (14) 
-None
-
 >  <energy_score>  (14) 
 -17.290364
 
@@ -1851,9 +1809,6 @@ GEKOBKXDLILBGR-UHFFFAOYSA-N
 
 >  <fragmenstein_mode>  (15) 
 expansion
-
->  <fragmenstein_error>  (15) 
-None
 
 >  <energy_score>  (15) 
 -13.818041
@@ -1976,9 +1931,6 @@ MOWNOSLAQYMJTK-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (16) 
 expansion
 
->  <fragmenstein_error>  (16) 
-None
-
 >  <energy_score>  (16) 
 -19.142453
 
@@ -2091,9 +2043,6 @@ VDFCXTONXACPCO-CYBMUJFWSA-N
 
 >  <fragmenstein_mode>  (17) 
 expansion
-
->  <fragmenstein_error>  (17) 
-None
 
 >  <energy_score>  (17) 
 -81.441744
@@ -2215,9 +2164,6 @@ XZCHKOUIHXKRTC-GFCCVEGCSA-N
 
 >  <fragmenstein_mode>  (18) 
 expansion
-
->  <fragmenstein_error>  (18) 
-None
 
 >  <energy_score>  (18) 
 -45.046073
@@ -2344,9 +2290,6 @@ GNOBTQCXYBMFAB-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (19) 
 expansion
 
->  <fragmenstein_error>  (19) 
-None
-
 >  <energy_score>  (19) 
 -27.278727
 
@@ -2468,9 +2411,6 @@ NLPSSNMFGBLZAP-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (20) 
 expansion
 
->  <fragmenstein_error>  (20) 
-None
-
 >  <energy_score>  (20) 
 -76.243004
 
@@ -2591,9 +2531,6 @@ XPDDKFHYDJHELS-UHFFFAOYSA-N
 
 >  <fragmenstein_mode>  (21) 
 expansion
-
->  <fragmenstein_error>  (21) 
-None
 
 >  <energy_score>  (21) 
 -25.21299
@@ -2729,9 +2666,6 @@ ZUCZAINLLDMSCJ-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (22) 
 expansion
 
->  <fragmenstein_error>  (22) 
-None
-
 >  <energy_score>  (22) 
 -36.364527
 
@@ -2845,9 +2779,6 @@ OHJDLUXFTXKBRG-ZETCQYMHSA-N
 >  <fragmenstein_mode>  (23) 
 expansion
 
->  <fragmenstein_error>  (23) 
-None
-
 >  <energy_score>  (23) 
 -8.969837
 
@@ -2958,9 +2889,6 @@ NQDDIJLQMDSXML-BDAKNGLRSA-N
 
 >  <fragmenstein_mode>  (24) 
 expansion
-
->  <fragmenstein_error>  (24) 
-None
 
 >  <energy_score>  (24) 
 -19.728977
@@ -3076,9 +3004,6 @@ QLFFONPVDDKJCE-SNVBAGLBSA-N
 >  <fragmenstein_mode>  (25) 
 expansion
 
->  <fragmenstein_error>  (25) 
-None
-
 >  <energy_score>  (25) 
 -46.042673
 
@@ -3188,9 +3113,6 @@ GLKYHQBKOTZYGD-SSDOTTSWSA-N
 
 >  <fragmenstein_mode>  (26) 
 expansion
-
->  <fragmenstein_error>  (26) 
-None
 
 >  <energy_score>  (26) 
 -16.624212
@@ -3308,9 +3230,6 @@ OXHXBAHSHMBTDQ-NSHDSACASA-N
 >  <fragmenstein_mode>  (27) 
 expansion
 
->  <fragmenstein_error>  (27) 
-None
-
 >  <energy_score>  (27) 
 -4.236385
 
@@ -3425,9 +3344,6 @@ WXJNUXZTXDROIJ-QMMMGPOBSA-N
 >  <fragmenstein_mode>  (28) 
 expansion
 
->  <fragmenstein_error>  (28) 
-None
-
 >  <energy_score>  (28) 
 -33.785707
 
@@ -3541,9 +3457,6 @@ VRFUMBMWIYOQKS-QMMMGPOBSA-N
 
 >  <fragmenstein_mode>  (29) 
 expansion
-
->  <fragmenstein_error>  (29) 
-None
 
 >  <energy_score>  (29) 
 -45.80426
@@ -3661,9 +3574,6 @@ LYBJDPXLKAGWQA-NSHDSACASA-N
 >  <fragmenstein_mode>  (30) 
 expansion
 
->  <fragmenstein_error>  (30) 
-None
-
 >  <energy_score>  (30) 
 -25.566815
 
@@ -3780,9 +3690,6 @@ DEGPAYOEPZCOBR-UHFFFAOYSA-N
 
 >  <fragmenstein_mode>  (31) 
 expansion
-
->  <fragmenstein_error>  (31) 
-None
 
 >  <energy_score>  (31) 
 -54.996595
@@ -3911,9 +3818,6 @@ WZJPHEKPHALAMW-OAHLLOKOSA-N
 >  <fragmenstein_mode>  (32) 
 expansion
 
->  <fragmenstein_error>  (32) 
-None
-
 >  <energy_score>  (32) 
 -54.619278
 
@@ -4040,9 +3944,6 @@ LQQWCINYCCMFRV-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (33) 
 expansion
 
->  <fragmenstein_error>  (33) 
-None
-
 >  <energy_score>  (33) 
 -21.404264
 
@@ -4166,9 +4067,6 @@ KSLLTEVDKMOHSW-KRWDZBQOSA-N
 
 >  <fragmenstein_mode>  (34) 
 expansion
-
->  <fragmenstein_error>  (34) 
-None
 
 >  <energy_score>  (34) 
 -10.941015
@@ -4296,9 +4194,6 @@ DHXCDLUKFAKLSY-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (35) 
 expansion
 
->  <fragmenstein_error>  (35) 
-None
-
 >  <energy_score>  (35) 
 -41.775808
 
@@ -4419,9 +4314,6 @@ SEXBZMJMGRUWGS-UHFFFAOYSA-N
 
 >  <fragmenstein_mode>  (36) 
 expansion
-
->  <fragmenstein_error>  (36) 
-None
 
 >  <energy_score>  (36) 
 -15.401844
@@ -4549,9 +4441,6 @@ FRNXPLHZHRXKEC-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (37) 
 expansion
 
->  <fragmenstein_error>  (37) 
-None
-
 >  <energy_score>  (37) 
 -36.739179
 
@@ -4673,9 +4562,6 @@ XWUQVDZICNOZJP-NSHDSACASA-N
 >  <fragmenstein_mode>  (38) 
 expansion
 
->  <fragmenstein_error>  (38) 
-None
-
 >  <energy_score>  (38) 
 -36.06925
 
@@ -4795,9 +4681,6 @@ IANQXEAOAZTNLW-LLVKDONJSA-N
 
 >  <fragmenstein_mode>  (39) 
 expansion
-
->  <fragmenstein_error>  (39) 
-None
 
 >  <energy_score>  (39) 
 -27.821767
@@ -4922,9 +4805,6 @@ ZTHISXNUAOFTJB-SNVBAGLBSA-N
 >  <fragmenstein_mode>  (40) 
 expansion
 
->  <fragmenstein_error>  (40) 
-None
-
 >  <energy_score>  (40) 
 -95.120887
 
@@ -5035,9 +4915,6 @@ OUADHXQUGPVFPL-UHFFFAOYSA-N
 
 >  <fragmenstein_mode>  (41) 
 expansion
-
->  <fragmenstein_error>  (41) 
-None
 
 >  <energy_score>  (41) 
 -20.450256
@@ -5156,9 +5033,6 @@ WNOQDDCSSLWEEK-UHFFFAOYSA-N
 
 >  <fragmenstein_mode>  (42) 
 expansion
-
->  <fragmenstein_error>  (42) 
-None
 
 >  <energy_score>  (42) 
 -39.392499
@@ -5284,9 +5158,6 @@ ZAXPKNMZZARUDB-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (43) 
 nan
 
->  <fragmenstein_error>  (43) 
-nan
-
 >  <energy_score>  (43) 
 -21.216327
 
@@ -5406,9 +5277,6 @@ DNLUSRYLIQAQAE-NSHDSACASA-N
 >  <fragmenstein_mode>  (44) 
 nan
 
->  <fragmenstein_error>  (44) 
-nan
-
 >  <energy_score>  (44) 
 -3.80316
 
@@ -5523,9 +5391,6 @@ nan
 PGVYGILCFWWCGJ-RDDDGLTNSA-N
 
 >  <fragmenstein_mode>  (45) 
-nan
-
->  <fragmenstein_error>  (45) 
 nan
 
 >  <energy_score>  (45) 
@@ -5644,9 +5509,6 @@ UKWFLRZSMSDWTC-SNVBAGLBSA-N
 >  <fragmenstein_mode>  (46) 
 nan
 
->  <fragmenstein_error>  (46) 
-nan
-
 >  <energy_score>  (46) 
 -1.687496
 
@@ -5760,9 +5622,6 @@ nan
 ZFGFQBONQPPJMM-UHFFFAOYSA-N
 
 >  <fragmenstein_mode>  (47) 
-nan
-
->  <fragmenstein_error>  (47) 
 nan
 
 >  <energy_score>  (47) 
@@ -5889,9 +5748,6 @@ AWQDWKYDKALBOD-UHFFFAOYSA-N
 >  <fragmenstein_mode>  (48) 
 nan
 
->  <fragmenstein_error>  (48) 
-nan
-
 >  <energy_score>  (48) 
 -27.844533
 
@@ -6009,9 +5865,6 @@ nan
 SGOQIRYDERXCCT-UHFFFAOYSA-N
 
 >  <fragmenstein_mode>  (49) 
-nan
-
->  <fragmenstein_error>  (49) 
 nan
 
 >  <energy_score>  (49) 
