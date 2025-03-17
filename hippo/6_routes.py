@@ -11,12 +11,6 @@ bases = animal.compounds(tag="elaborated iter1 scaffold")
 elabs = bases.elabs
 products = bases + elabs
 
-# animal.db.execute('DROP TABLE route')
-# animal.db.execute('DROP TABLE component')
-
-# animal.db.create_table_route()
-# animal.db.create_table_component()
-
 logger.var("products", products)
 
 for i, c in logger.track(enumerate(products), total=len(products)):
@@ -30,7 +24,7 @@ for i, c in logger.track(enumerate(products), total=len(products)):
     for reaction in reactions:
 
         try:
-            recipes = reaction.get_recipes()
+            recipes = reaction.get_recipes(supplier="Enamine")
         except DatabaseError:
             logger.error(f"Error getting {reaction}'s ({c}) recipes")
             continue
@@ -44,6 +38,8 @@ for i, c in logger.track(enumerate(products), total=len(products)):
     if i % 100 == 99:
         logger.success("Committing...")
         animal.db.commit()
+
+animal.db.prune_duplicate_routes()
 
 animal.db.close()
 
